@@ -12,3 +12,6 @@ Guides, resources, notes, docs and knowledge for everything Oscar
 </li>
 {% endfor %}
 </ul>
+
+ {{ site.tags.android }}
+
