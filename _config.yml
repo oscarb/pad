@@ -7,3 +7,17 @@ kramdown:
   hard_wrap: true
   auto_id_stripping: true
   auto_ids: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "pages"
+      type: "pages"
+    values:
+      permalink: "/:basename"
+    
