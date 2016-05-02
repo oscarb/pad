@@ -1,6 +1,5 @@
 ---
 title: Android Device Guide
-layout: default
 tags: android, apps, mobile
 ---
 
