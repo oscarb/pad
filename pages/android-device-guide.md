@@ -2,7 +2,7 @@
 title: Android Device Guide
 layout: default
 tags: android, apps, mobile
-permalink: /android-device-guide
+permalink: /:title
 ---
 
 # Android Device Guide
