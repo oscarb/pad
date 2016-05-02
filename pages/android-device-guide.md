@@ -1,7 +1,6 @@
 ---
 title: Android Device Guide
 layout: default
-category: guides
 tags: android, apps, mobile
 ---
 
