@@ -7,7 +7,7 @@ title: oscarb pad
 Guides, resources, notes, docs and knowledge for everything Oscar
 
 <ul>
-{% for page in site.category.guides %}
+{% for page in site.tags.android %}
 <li><a href="{{ page.url }}">{{ page.title }}</a>
 </li>
 {% endfor %}
