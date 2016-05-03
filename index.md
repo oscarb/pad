@@ -40,3 +40,5 @@ Guides, resources, notes, docs and knowledge for everything Oscar
 
   {% assign previous = tag %}
 {% endfor %}
+
+{{ tags }} {{ unique_tags }}
