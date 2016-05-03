@@ -7,8 +7,8 @@ title: oscarb pad
 Guides, resources, notes, docs and knowledge for everything Oscar 
 
 <ul>
-{% for page in site.pages %}
-<li><a href=".{{ page.url }}">{{ page.title }}</a> {{ page.categories }} {{ page.tags }}
+{% for doc in site.docs %}
+<li><a href=".{{ doc.url }}">{{ doc.title }}</a> {{ doc.categories }} {{ doc.tags }}
 </li>
 {% endfor %}
 </ul>
