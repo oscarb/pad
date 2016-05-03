@@ -17,6 +17,6 @@ defaults:
       type: "docs"
     values:
       layout: "default"
-      permalink: "/:title"
+      permalink: "/:slug"
 
     
