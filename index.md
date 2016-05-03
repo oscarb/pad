@@ -6,7 +6,7 @@ title: oscarb pad
 # pad
 Guides, resources, notes, docs and knowledge for everything Oscar 
 
-Test...
+Test... 2
 
 <ul>
 {% for doc in site.docs %}
@@ -47,10 +47,5 @@ Test...
 {% for tag in unique_tags %}
 <h2>{{ tag }}</h2>
 
-<ul>
-{% for doc in site.docs | where_exp:"doc", "doc.tags contains '{{ tag }}'" %}
-<li>{{ doc.title }}</li>
-{% endfor %}
-</ul>
 
 {% endfor %}
