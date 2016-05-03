@@ -6,7 +6,7 @@ title: oscarb pad
 # pad
 Guides, resources, notes, docs and knowledge for everything Oscar 
 
-Test... 2
+Test... 3
 
 <ul>
 {% for doc in site.docs %}
@@ -45,12 +45,11 @@ Test... 2
 {{ unique_tags }}<br/>
 
 {% for tag in unique_tags %}
-{% assign t = tag | first %}
 <h2>{{ tag }}</h2>
 
 <ul>
 {% for doc in site.docs %}
-{% if doc.tags contains t %}
+{% if doc.tags contains tag %}
 <li>{{ doc.title }}</li>
 {% endif %}
 {% endfor %}
