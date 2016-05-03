@@ -13,6 +13,7 @@ Guides, resources, notes, docs and knowledge for everything Oscar
 {% endfor %}
 </ul>
 
- {{ docs.tags }}
+tags n cats
+ {{ site.tags }}
 
- {{ docs.categories }}
+ {{ site.categories }}
