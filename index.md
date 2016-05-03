@@ -6,7 +6,7 @@ title: oscarb pad
 # pad
 Guides, resources, notes, docs and knowledge for everything Oscar 
 
-{{ site.tags }} {{ site.categories }} Hello?
+{{ docs.tags }} {{ docs.categories }} Hello?
 
 <ul>
 {% for doc in site.docs %}
