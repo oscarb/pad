@@ -8,7 +8,9 @@ kramdown:
   auto_id_stripping: true
   auto_ids: true
 collections:
-- docs
+  docs:
+    output: true
+    permalink: /:basename
 defaults:
   -
     scope:
@@ -16,10 +18,4 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-  -
-    scope:
-      path: ""
-      type: "docs"
-    values:
-      permalink: "/:basename"
     
