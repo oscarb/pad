@@ -8,4 +8,3 @@ categories: guides, docs, notes
 
 ## What to backup when formatting?
 
-Is layout used?
