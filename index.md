@@ -31,14 +31,16 @@ Guides, resources, notes, docs and knowledge for everything Oscar
 {% assign tags = tags | sort %}
 {% for tag in tags %}
 
-  <!-- If not equal to previous then it must be unique as sorted -->
-  {% unless tag == previous %}
+<!-- If not equal to previous then it must be unique as sorted -->
+{% unless tag == previous %}
 
-    <!-- Push to unique_tags -->
-    {% assign unique_tags = unique_tags | push: tag %}
-  {% endunless %}
+<!-- Push to unique_tags -->
+{% assign unique_tags = unique_tags | push: tag %}
+{% endunless %}
 
-  {% assign previous = tag %}
+{% assign previous = tag %}
 {% endfor %}
 
-{{ tags }} {{ unique_tags }}
+{% for tag in tags '%}
+  {{ tag }}<br/>
+{% endfor %}
