@@ -45,12 +45,14 @@ Test... 2
 {{ unique_tags }}<br/>
 
 {% for tag in unique_tags %}
+{% assign t = tag | first %}
 <h2>{{ tag }}</h2>
 
 <ul>
 {% for doc in site.docs %}
-{% if doc.tags contains tag %}
+{% if doc.tags contains t %}
 <li>{{ doc.title }}</li>
+{% endif %}
 {% endfor %}
 </ul>
 
