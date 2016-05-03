@@ -21,4 +21,3 @@ Guides, resources, notes, docs and knowledge for everything Oscar
 
 {% endfor %}
 
-{% gist oscarb/9227cca2064b38c697fc362e6bc61a0c %}
