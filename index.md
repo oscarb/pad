@@ -4,7 +4,7 @@ title: oscarb pad
 ---
 
 # pad
-Guides, resources, notes, docs and knowledge for everything Oscar -- {{ site.github.url }}
+Guides, resources, notes, docs and knowledge for everything Oscar
 
 {% include tags-docs.md %}
 
