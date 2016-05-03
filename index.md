@@ -47,5 +47,11 @@ Test... 2
 {% for tag in unique_tags %}
 <h2>{{ tag }}</h2>
 
+<ul>
+{% for doc in site.docs %}
+{% if doc.tags contains tag %}
+<li>{{ doc.title }}</li>
+{% endfor %}
+</ul>
 
 {% endfor %}
