@@ -6,6 +6,7 @@ title: oscarb pad
 # pad
 Guides, resources, notes, docs and knowledge for everything Oscar 
 
+{{ site.baseurl }} {{ site.url }}
 
 <!-- Create empty arrays -->
 {% assign tags = '' | split: ',' %}
