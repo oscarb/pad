@@ -13,5 +13,6 @@ Guides, resources, notes, docs and knowledge for everything Oscar
 {% endfor %}
 </ul>
 
- {{ site.tags.android }}
+ {{ docs.tags }}
 
+ {{ docs.categories }}
