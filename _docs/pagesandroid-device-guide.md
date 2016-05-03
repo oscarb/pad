@@ -7,3 +7,5 @@ categories: guides, docs, notes
 # Android Device Guide
 
 ## What to backup when formatting?
+
+Is layout used?
