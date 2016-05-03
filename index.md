@@ -42,15 +42,14 @@ Test... 3
 
 {% assign previous = tag %}
 {% endfor %}
-{{ unique_tags }}<br/>
 
-{% for tag in unique_tags %}
-<h2>{{ tag }}</h2>
+{% for t in unique_tags %}
+<h2>{{ t }}</h2>
 
 <ul>
 {% for doc in site.docs %}
-{% if doc.tags contains tag %}
-<li>{{ doc.title }}</li>
+{% if doc.tags contains t %}
+<li><a href=".{{ doc.url }}">{{ doc.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
