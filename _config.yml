@@ -7,6 +7,8 @@ kramdown:
   hard_wrap: true
   auto_id_stripping: true
   auto_ids: true
+collections:
+- resources
 defaults:
   -
     scope:
@@ -16,8 +18,8 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "pages"
-      type: "pages"
+      path: ""
+      type: "resources"
     values:
       permalink: "/:basename"
     
