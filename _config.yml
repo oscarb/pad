@@ -15,7 +15,7 @@ defaults:
   -
     scope:
       path: ""
-      type: [pages, docs]
+      type: "docs"
     values:
       layout: "default"
 
