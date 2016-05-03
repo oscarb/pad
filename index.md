@@ -14,8 +14,3 @@ Hello?
 </li>
 {% endfor %}
 </ul>
-
-tags n cats
- {{ site.tags }}
-
- {{ site.categories }}
