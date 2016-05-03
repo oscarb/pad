@@ -10,7 +10,6 @@ kramdown:
 collections:
   docs:
     output: true
-    permalink: "/:basename"
 defaults:
   -
     scope:
@@ -18,5 +17,6 @@ defaults:
       type: "docs"
     values:
       layout: "default"
+      permalink: "/:basename"
 
     
