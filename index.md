@@ -41,6 +41,6 @@ Guides, resources, notes, docs and knowledge for everything Oscar
 {% assign previous = tag %}
 {% endfor %}
 
-{% for tag in unique_tags '%}
+{% for tag in tags '%}
   {{ tag }}<br/>
 {% endfor %}
