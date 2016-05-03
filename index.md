@@ -6,14 +6,6 @@ title: oscarb pad
 # pad
 Guides, resources, notes, docs and knowledge for everything Oscar 
 
-Test... 3
-
-<ul>
-{% for doc in site.docs %}
-<li><a href=".{{ doc.url }}">{{ doc.title }}</a> {{ doc.categories }} {{ doc.tags }}
-</li>
-{% endfor %}
-</ul>
 
 <!-- Create empty arrays -->
 {% assign tags = '' | split: ',' %}
