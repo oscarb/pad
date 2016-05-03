@@ -1,7 +1,7 @@
 ---
 title: App Development
 tags: [apps, android, ios]
-permalink: /:basename
+permalink: "/:basename"
 ---
 
 # App Development
