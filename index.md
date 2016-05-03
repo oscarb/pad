@@ -6,8 +6,6 @@ title: oscarb pad
 # pad
 Guides, resources, notes, docs and knowledge for everything Oscar 
 
-{{ site.docs | group_by: "tags" }} Hello?
-
 <ul>
 {% for doc in site.docs %}
 <li><a href=".{{ doc.url }}">{{ doc.title }}</a> {{ doc.categories }} {{ doc.tags }}
@@ -21,13 +19,13 @@ Guides, resources, notes, docs and knowledge for everything Oscar
 
 <!-- Map and flatten -->
 {% assign docs_tags =  site.docs | map: 'tags' | join: ',' | join: ',' | split: ',' %}
-{{ docs_tags }}<br/>
+
 
 <!-- Push to tags -->
 {% for tag in docs_tags '%}
   {% assign tags = tags | push: tag %}
 {% endfor %}
-{{ tags }}<br/>
+
 
 <!-- Uniq -->
 {% assign tags = tags | sort %}
@@ -43,8 +41,14 @@ Guides, resources, notes, docs and knowledge for everything Oscar
 {% assign previous = tag %}
 {% endfor %}
 {{ unique_tags }}<br/>
-{{ tags }}<br/>
 
-{% for tag in tags '%}
-  {{ tag }}<br/>
+{% for tag in unique_tags %}
+<h2>{{ tag }}</h2>
+
+<ul>
+{% for doc in site.docs | where_exp:"doc", "doc.tags contains '{{ tag }}'" %}
+<li>{{ doc.title }}</li>
+{% endfor %}
+</ul>
+
 {% endfor %}
