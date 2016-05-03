@@ -1,7 +1,7 @@
 ---
 title: App Development
 tags: [apps, android, ios]
-permalink: /awesome
+permalink: /:basename
 ---
 
 # App Development
