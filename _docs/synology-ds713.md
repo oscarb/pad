@@ -44,3 +44,6 @@ See `/etc/rc.local`
 
     subliminal --addic7ed oscarb {ADDIC7ED_PASSWORD} --cache-dir /volume1/apps/subliminal/ download --language en --provider addic7ed --provider podnapisi --provider opensubtitles --provider subscenter --provider thesubdb --provider tvsubtitles  --age 2d /volume1/downloads/tv/
     
+    
+> * Preserve your path through DSM updates -- [Synology Forum](http://forum.synology.com/enu/viewtopic.php?f=40&t=95756)
+    
