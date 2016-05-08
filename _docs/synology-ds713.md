@@ -23,6 +23,8 @@ When DSM is updated, sometimes access to ipkg and optware is lost.
 0. Verify with `ipkg -v`
 0. Run `ipkg update` 
 
+> * Preserve your path through DSM updates ([Synology Forum](http://forum.synology.com/enu/viewtopic.php?f=40&t=95756))
+
 ### Verify
 
 #### Autostart script
@@ -44,8 +46,6 @@ See `/etc/rc.local`
 
     subliminal --addic7ed oscarb {ADDIC7ED_PASSWORD} --cache-dir /volume1/apps/subliminal/ download --language en --provider addic7ed --provider podnapisi --provider opensubtitles --provider subscenter --provider thesubdb --provider tvsubtitles  --age 2d /volume1/downloads/tv/
     
-    
-> **Sources**
->
-> * Preserve your path through DSM updates ([Synology Forum](http://forum.synology.com/enu/viewtopic.php?f=40&t=95756))
+
+
     
