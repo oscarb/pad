@@ -22,3 +22,25 @@ When DSM is updated, sometimes access to ipkg and optware is lost.
 0. Repeat from step 1 for `/root/.profile`
 0. Verify with `ipkg -v`
 0. Run `ipkg update` 
+
+### Verify
+
+#### Autostart script
+
+See `/etc/rc.local`
+
+#### pip
+
+    pip install pip --upgrade
+    
+#### FlexGet
+
+    flexget --version
+    pip install flexget --upgrade
+    flexget -c /volume1/apps/flexget/config.yml check
+    flexget -c /volume1/apps/flexget/config.yml --test execute
+
+#### Subliminal
+
+    subliminal --addic7ed oscarb {ADDIC7ED_PASSWORD} --cache-dir /volume1/apps/subliminal/ download --language en --provider addic7ed --provider podnapisi --provider opensubtitles --provider subscenter --provider thesubdb --provider tvsubtitles  --age 2d /volume1/downloads/tv/
+    
