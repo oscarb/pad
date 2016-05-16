@@ -1,10 +1,20 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
 {% include head.html %}
 </head>
 <body>
-<div class="container">
-{{ content }}
+<div class="wrapper">
+  <header markdown="1">
+    {% include header.md %}
+  </header>
+  <section>
+    {{ content }}
+  </section>
+  <footer markdown="1">
+     {% include footer.md %}
+  </footer>
+</div>
+<script src="{{ site.github.url }}/scale.fix.js"></script>
 </body>
 </html>
