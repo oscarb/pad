@@ -25,3 +25,17 @@
 
 {% assign previous = tag %}
 {% endfor %}
+
+
+{% for t in unique_tags %}
+<h2>{{ t }}</h2>
+
+<ul>
+{% for doc in site.docs %}
+{% if doc.tags contains t %}
+<li><a href=".{{ doc.url }}">{{ doc.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+
+{% endfor %}
