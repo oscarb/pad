@@ -1,6 +1,9 @@
 name: pad - Guides, resources, notes, docs and knowledge for everything Oscar.
 sass:
   style: compressed
+prose: 
+  rooturl: "_docs"
+  siteurl: "http://pad.oscarb.se"
 markdown: kramdown
 kramdown:
   toc_levels: 2..3
@@ -21,4 +24,3 @@ defaults:
       layout: "default"
       permalink: "/:slug"
 
-    
