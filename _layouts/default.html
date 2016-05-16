@@ -8,11 +8,10 @@
   <header>
     {% capture header %}{% include header.md %}{% endcapture %}
     {{ header | markdownify }}
+    {% if page.collection == "docs" %}
+      {% include tags.md %}
+    {% endif %}
     
-    {{ collection }}
-    {{ page.collection }}
-    {{ docs.collection }} 
-    {{ doc.collection }}
   </header>
   <section>
     {{ content }}
