@@ -182,15 +182,17 @@ strong {
   font-weight:700;
 }
 
-header ul li + li + li {
-  border-right:none;
-  width:89px;
-}
+.box-nav {
+  header ul li + li + li {
+    border-right:none;
+    width:89px;
+  }
 
-header ul a strong {
-  font-size:14px;
-  display:block;
-  color:#222;
+  header ul a strong {
+    font-size:14px;
+    display:block;
+    color:#222;
+  }
 }
 
 section {
@@ -262,8 +264,10 @@ footer {
     padding:0;
   }
 
-  header ul, header p.view {
-    position:static;
+  .box-nav {
+    header ul, header p.view {
+      position:static;
+    }
   }
 
   pre, code {
@@ -276,12 +280,14 @@ footer {
     padding:15px;
   }
 
-  header ul {
-    width:99%;
-  }
-
-  header li, header ul li + li + li {
-    width:33%;
+  .box-nav {
+    header ul {
+      width:99%;
+    }
+  
+    header li, header ul li + li + li {
+      width:33%;
+    }
   }
 }
 
