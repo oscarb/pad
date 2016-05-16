@@ -5,16 +5,12 @@
 </head>
 <body>
 <div class="wrapper">
-  <header markdown="1">
-    {% include header.md %}
-  </header>
+  {% include header.md %}
   <section>
     {{ content }}
   </section>
-  <footer markdown="1">
-     {% include footer.md %}
-  </footer>
-</div>
+  {% include footer.md %}
+ </div>
 <script src="{{ site.github.url }}/scale.fix.js"></script>
 </body>
 </html>
