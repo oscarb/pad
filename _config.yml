@@ -3,7 +3,7 @@ sass:
   style: compressed
 markdown: kramdown
 kramdown:
-  toc_levels: 1..2
+  toc_levels: 2..3
   hard_wrap: true
   auto_id_stripping: true
   auto_ids: true
