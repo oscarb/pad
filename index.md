@@ -1,6 +1,7 @@
 ---
 layout: default
 title: oscarb pad
+index: true
 ---
 
 # pad
