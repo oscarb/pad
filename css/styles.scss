@@ -21,7 +21,7 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2, h3 {
-  line-height:1.1;
+  line-height:1.5;
 }
 
 h1 {
@@ -76,6 +76,20 @@ code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
   font-size:12px;
+}
+
+code.highlighter-rouge {
+    padding: 0;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    margin: 0;
+    background-color: rgba(0,0,0,0.04);
+    border-radius: 3px;
+}
+
+code.highlighter-rouge:before, code.highlighter-rouge:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
 }
 
 pre {
