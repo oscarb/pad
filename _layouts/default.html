@@ -8,6 +8,11 @@
   <header>
     {% capture header %}{% include header.md %}{% endcapture %}
     {{ header | markdownify }}
+    
+    {{ collection }}
+    {{ page.collection }}
+    {{ docs.collection }} 
+    {{ doc.collection }}
   </header>
   <section>
     {{ content }}
