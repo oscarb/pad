@@ -5,11 +5,17 @@
 </head>
 <body>
 <div class="wrapper">
-  {% include header.md %}
+  <header>
+    {% capture header %}{% include header.md %}{% endcapture %}
+    {{ header | markdownify }}
+  </header>
   <section>
     {{ content }}
   </section>
-  {% include footer.md %}
+  <footer>
+    {% capture footer %}{% include footer.md %}{% endcapture %}
+    {{ footer | markdownify }}
+  </footer>
  </div>
 <script src="{{ site.github.url }}/scale.fix.js"></script>
 </body>
