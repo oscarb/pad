@@ -5,7 +5,7 @@ tags: [development, resources]
 
 # Development Resources
 
-* The Best Way to Learn CSS ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)){:rel='something'}
+* The Best Way to Learn CSS ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)){:.css}
 * The Best Way to Learn HTML ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html-2--webdesign-10144)){:data-tags='html'}
 * Learn by doing - Code School ([www.codeschool.com](https://www.codeschool.com/))
 * A Beginner’s Guide to Using WordPress ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/courses/a-beginners-guide-to-using-wordpress)){:data-tags='wordpress'}
