@@ -1,20 +1,23 @@
 ---
 title: Development Resources
-tags: [development, resources]
+tags: 
+  - development
+  - resources
+published: true
 ---
 
 # Development Resources
 
-* The Best Way to Learn CSS ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906))
-* The Best Way to Learn HTML ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html-2--webdesign-10144))
+* The Best Way to Learn CSS ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)){:data-tags='css'}
+* The Best Way to Learn HTML ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html-2--webdesign-10144)){:data-tags='html'}
 * Learn by doing - Code School ([www.codeschool.com](https://www.codeschool.com/))
-* A Beginner’s Guide to Using WordPress ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/courses/a-beginners-guide-to-using-wordpress))
+* A Beginner’s Guide to Using WordPress ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/courses/a-beginners-guide-to-using-wordpress)){:data-tags='wordpress'}
 * Learn Web Development 101 for Free ([www.theodinproject.com](http://www.theodinproject.com/web-development-101))
 * 20 Things I Learned About Browsers and the Web ([www.20thingsilearned.com](http://www.20thingsilearned.com/en-US))
 * What Is Computer Programming and How Is It Written? ([www.lynda.com](https://www.lynda.com/Developer-Programming-Foundations-tutorials/What-programming/83603/90430-4.html))
 * Computer programming | Khan Academy ([www.khanacademy.org](https://www.khanacademy.org/computing/computer-programming))
-* Dash | Learn HTML, CSS, JavaScript with our free online tutorial | General Assembly ([dash.generalassemb.ly](https://dash.generalassemb.ly/))
-* Learn Python The Hard Way ([learnpythonthehardway.org](http://learnpythonthehardway.org/book/index.html))
+* Dash | Learn HTML, CSS, JavaScript with our free online tutorial | General Assembly ([dash.generalassemb.ly](https://dash.generalassemb.ly/)){:data-tags='html,css,js'}
+* Learn Python The Hard Way ([learnpythonthehardway.org](http://learnpythonthehardway.org/book/index.html)){:data-tags='python'}
 * Treehouse | Home ([teamtreehouse.com](https://teamtreehouse.com/home))
 * SoloLearn: Largest community of mobile code learners ([www.sololearn.com](http://www.sololearn.com/))
 * Learn X in Y Minutes: Scenic Programming Language Tours ([learnxinyminutes.com](https://learnxinyminutes.com/))
