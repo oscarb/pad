@@ -1,6 +1,10 @@
 ---
 title: Web Design Resources
-tags: [web, design]
+tags: 
+  - web
+  - design
+  - resources
+published: true
 ---
 
 # Web Design
