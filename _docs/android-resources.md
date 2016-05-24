@@ -12,6 +12,7 @@ The best Android resources from all over the web, gathered.
 
 ## Resources
 
+* 30 Resources for Android Developers ([Udacity](http://blog.udacity.com/2015/06/30-android-developer-resources.html))
 * Android Developers ([developer.android.com](https://developer.android.com/index.html))
 * Introduction to Android development with Android Studio - Tutorial ([www.vogella.com](http://www.vogella.com/tutorials/Android/article.html))
 * Android Tutorial ([www.tutorialspoint.com](http://www.tutorialspoint.com/android/index.htm))
