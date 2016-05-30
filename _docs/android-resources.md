@@ -12,6 +12,8 @@ The best Android resources from all over the web, gathered.
 
 ## Resources
 
+* afollestad/material-dialogs: A beautiful, easy-to-use, and customizable dialogs API. ([github.com](https://github.com/afollestad/material-dialogs))
+
 * 30 Resources for Android Developers ([Udacity](http://blog.udacity.com/2015/06/30-android-developer-resources.html))
 * Android Developers ([developer.android.com](https://developer.android.com/index.html))
 * Introduction to Android development with Android Studio - Tutorial ([www.vogella.com](http://www.vogella.com/tutorials/Android/article.html))
