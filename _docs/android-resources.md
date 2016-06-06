@@ -1,6 +1,6 @@
 ---
 title: Android Resources
-tags: 
+tags:
   - android
   - resources
 published: true
@@ -11,6 +11,9 @@ published: true
 The best Android resources from all over the web, gathered.
 
 ## Resources
+
+* Eight Ways Your Android App Can Leak Memory ([blog.nimbledroid.com](http://blog.nimbledroid.com/2016/05/23/memory-leaks.html?utm_source=Android+Weekly&utm_campaign=3604d8b8a4-Android_Weekly_208&utm_medium=email&utm_term=0_4eb677ad19-3604d8b8a4-338005577))
+* Leaner APKs with asset minification ([www.novoda.com](https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/?utm_source=Android+Weekly&utm_campaign=3604d8b8a4-Android_Weekly_208&utm_medium=email&utm_term=0_4eb677ad19-3604d8b8a4-338005577))
 
 * afollestad/material-dialogs: A beautiful, easy-to-use, and customizable dialogs API. ([github.com](https://github.com/afollestad/material-dialogs))
 
