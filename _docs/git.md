@@ -7,6 +7,8 @@ tags: [git]
 
 ## Useful links
 
+* [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
+
 ### Undo actions
 
 * How to undo (almost) anything with Git ([github.com](https://github.com/blog/2019-how-to-undo-almost-anything-with-git))
