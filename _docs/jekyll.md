@@ -1,6 +1,6 @@
 ---
 title: Jekyll
-tags: jekyll
+tags: [jekyll]
 ---
 
 
