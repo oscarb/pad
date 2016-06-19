@@ -12,6 +12,8 @@ The best Android resources from all over the web, gathered.
 
 ## Resources
 
+* [How To Use Android Studio Like a Pro!](https://stanfy.com/blog/use-android-studio-like-a-pro/?utm_source=Android+Weekly&utm_campaign=f1e65e3bb5-Android_Weekly_210&utm_medium=email&utm_term=0_4eb677ad19-f1e65e3bb5-338005577)
+
 * Automating play store screenshots for fun and additional testing · lambdasoup ([lambdasoup.com](https://lambdasoup.com/post/automate_screenshots_1/?utm_source=Android+Weekly&utm_campaign=d8ddc1016c-Android_Weekly_207&utm_medium=email&utm_term=0_4eb677ad19-d8ddc1016c-338005577))
 
 * Eight Ways Your Android App Can Leak Memory ([blog.nimbledroid.com](http://blog.nimbledroid.com/2016/05/23/memory-leaks.html?utm_source=Android+Weekly&utm_campaign=3604d8b8a4-Android_Weekly_208&utm_medium=email&utm_term=0_4eb677ad19-3604d8b8a4-338005577))
