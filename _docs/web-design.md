@@ -9,6 +9,11 @@ published: true
 
 # Web Design
 
+
+## UX
+
+* [Best of UX Links of 2016 — Prototyping: From UX to Front End](https://blog.prototypr.io/best-of-ux-links-of-2016-eb2f44a2c9c0#.z4uvwvbix)
+
 ## Resources
 
 * [Resizer](http://design.google.com/resizer/)
