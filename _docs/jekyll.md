@@ -1,12 +1,16 @@
 ---
 title: Jekyll
-tags: [jekyll]
+tags:
+  - jekyll
+published: true
 ---
 
 
 # Jekyll
 
 ## Resources
+
+* [Jekyll Cheat Sheet](http://cheat.jekyll.tips/)
 
 * [Make a Static Website with Jekyll – Tania Rascia](https://www.taniarascia.com/make-a-static-website-with-jekyll/)
 * [Working with different environments on jekyll](http://www.acuriousanimal.com/2015/08/04/working-with-different-environments-on-jekyll.html)
@@ -29,4 +33,3 @@ tags: [jekyll]
 ## Tools
 
 * [LiveReload](http://livereload.com/)
-
