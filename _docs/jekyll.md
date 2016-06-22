@@ -10,6 +10,8 @@ published: true
 
 ## Resources
 
+* [GitHub Pages for Non-Rubyists – Eric Matthes – Teacher, hacker, author...](https://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
+
 * [Jekyll Cheat Sheet](http://cheat.jekyll.tips/)
 
 * [Make a Static Website with Jekyll – Tania Rascia](https://www.taniarascia.com/make-a-static-website-with-jekyll/)
