@@ -57,6 +57,8 @@ published: true
 * [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 * [WhatsApp Messenger](https://play.google.com/store/apps/details?id=com.whatsapp)
 * [whatsapp - Google Play](https://play.google.com/store/apps/details?id=com.whatsapp)
+* [WorkFlowy - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.workflowy.android)
+* [YouTube - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 
 ## What to backup when formatting?
