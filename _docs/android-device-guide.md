@@ -9,7 +9,6 @@ published: true
 
 # Android Device Guide
 
-
 ## Apps
 
 * [Adobe Acrobat Reader](https://play.google.com/store/apps/details?id=com.adobe.reader)
@@ -57,6 +56,10 @@ published: true
 * [WorkFlowy - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.workflowy.android)
 * [YouTube - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
+
+## Preparations
+
+* Login to Nordea with BankID and generate a new BankId with the old one
 
 ## What to backup when formatting?
 
