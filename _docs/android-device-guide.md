@@ -92,14 +92,14 @@ Disable built in Calendar
 ### Top Priority
 * [bankid](https://play.google.com/store/apps/details?id=com.bankid.bus)
 * [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
+* [Chrome Beta](https://play.google.com/store/apps/details?id=com.chrome.beta)
+* [DS photo](https://play.google.com/store/apps/details?id=com.synology.dsphoto)
+* [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid)
 
 
 ### High priority
 
-* [Chrome Beta](https://play.google.com/store/apps/details?id=com.chrome.beta)
 * [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
-* [DS photo](https://play.google.com/store/apps/details?id=com.synology.dsphoto)
-* [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid)
 * [Messenger](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
 * [Nova Launcher Prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime)
 * [SMS Backup +](https://play.google.com/store/apps/details?id=com.zegoggles.smssync)
