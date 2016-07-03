@@ -27,8 +27,6 @@ published: true
 * [DS video](https://play.google.com/store/apps/details?id=com.synology.dsvideo)
 * [DS file](https://play.google.com/store/apps/details?id=com.synology.DSfile)
 * [feedly: your work newsfeed](https://play.google.com/store/apps/details?id=com.devhd.feedly)
-* [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
-* [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox)
 * [Google Cast](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
 * [Hitta.se](https://play.google.com/store/apps/details?id=se.hitta.android.app)
 * [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
@@ -56,7 +54,6 @@ published: true
 * [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 * [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 * [WhatsApp Messenger](https://play.google.com/store/apps/details?id=com.whatsapp)
-* [whatsapp - Google Play](https://play.google.com/store/apps/details?id=com.whatsapp)
 * [WorkFlowy - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.workflowy.android)
 * [YouTube - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
@@ -74,6 +71,42 @@ Disable built in Calendar
 
 
 * WhatsApp to Google Drive
+
+
+## Disable apps after formatting
+
+* Account Manager
+* AR effect
+* Calendar
+* Chrome
+* File COmmander
+* Google Play Books
+* Google PLay Games
+* Google Play Movies & TV
+* Google+ 
+* Hangouts
+
+
+## Apps priority
+
+### High priority
+
+* [bankid](https://play.google.com/store/apps/details?id=com.bankid.bus)
+* [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
+* [Chrome Beta](https://play.google.com/store/apps/details?id=com.chrome.beta)
+* [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
+* [DS photo](https://play.google.com/store/apps/details?id=com.synology.dsphoto)
+* [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid)
+* [Messenger](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
+* [Nova Launcher Prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime)
+* [SMS Backup +](https://play.google.com/store/apps/details?id=com.zegoggles.smssync)
+* [Swype Keyboard](https://play.google.com/store/apps/details?id=com.nuance.swype.dtc)
+* [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+
+
+### Low priority
+
+* 
 
 ### Backup locations
 
