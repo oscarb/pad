@@ -89,10 +89,13 @@ Disable built in Calendar
 
 ## Apps priority
 
-### High priority
-
+### Top Priority
 * [bankid](https://play.google.com/store/apps/details?id=com.bankid.bus)
 * [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
+
+
+### High priority
+
 * [Chrome Beta](https://play.google.com/store/apps/details?id=com.chrome.beta)
 * [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
 * [DS photo](https://play.google.com/store/apps/details?id=com.synology.dsphoto)
@@ -102,7 +105,7 @@ Disable built in Calendar
 * [SMS Backup +](https://play.google.com/store/apps/details?id=com.zegoggles.smssync)
 * [Swype Keyboard](https://play.google.com/store/apps/details?id=com.nuance.swype.dtc)
 * [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
-
+* [WhatsApp Messenger](https://play.google.com/store/apps/details?id=com.whatsapp)
 
 ### Low priority
 
