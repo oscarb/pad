@@ -38,7 +38,7 @@ published: true
 * [Nova Launcher Prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime)
 * [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
 * [Pocket](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)
-* [PomoWear | Start Working](https://play.google.com/store/apps/details?id=com.vngrs.android.pomodoro)
+* [PomoWear Start Working](https://play.google.com/store/apps/details?id=com.vngrs.android.pomodoro)
 * [Riktiga Vykort](https://play.google.com/store/apps/details?id=se.posten.riktigavykort)
 * [Smart Connect](https://play.google.com/store/apps/details?id=com.sonyericsson.extras.liveware)
 * [SMS Backup +](https://play.google.com/store/apps/details?id=com.zegoggles.smssync)
