@@ -12,7 +12,7 @@ Windows 10 Essentials
 ## Before formatting
 
 ### Backup
-* SpeedTab settings
+* Speed Dial settings
 * StackEdit docs and settings
 * Android Studio settings
 * List of extensions for Atom and Brackets
@@ -106,9 +106,11 @@ Create the following web apps using Chrome and pin to taskbar
  * Tasks
    `https://mail.google.com/tasks/ig`
  * Keep
- * StackEdit
+ * Prose.io
  * Spotify
  * MusicBee
+ * WorkFlowy
+ * Video Station
  
 > **Location:** C:\Users\Oscar\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
 
@@ -125,7 +127,8 @@ Software
 
 ### Adobe Photoshop
 
-### Android Studio
+### Adobe Illustrator
+
 
 
 ### SDFormatter
@@ -161,6 +164,8 @@ Settings > Compression > Remove redundant folders from extraction path
 
 ### VLC
 
+### Spotify
+
 ### Chrome
 
 #### LastPass
@@ -184,6 +189,9 @@ Settings > Compression > Remove redundant folders from extraction path
 
 
 ### Development
+
+### Android Studio
+
 
 ### Atom
 #### Settings
