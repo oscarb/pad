@@ -275,7 +275,7 @@ Extensions
   * [How to Create a Shortcut for Any "Modern" Windows App](http://lifehacker.com/how-to-create-a-shortcut-for-any-modern-windows-app-1722569853)
 
 * LibreOffice
-	* [Home  LibreOffice - Free Office Suite - Fun Project - Fantastic People](https://www.libreoffice.org/)
+	* [Home LibreOffice - Free Office Suite - Fun Project - Fantastic People](https://www.libreoffice.org/)
 
 * [Download Sumatra PDF - a free reader](http://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 
