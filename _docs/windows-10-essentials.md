@@ -18,6 +18,8 @@ Windows 10 Essentials
 * StackEdit docs and settings
 * Android Studio settings
 * List of extensions for Atom and Brackets
+* PuTTY sessions
+	`regedit /e "D:\postmorten_win10\Backup\PuTTY\putty-sessions.reg" HKEY_CURRENT_USER\Software\Simontatham`
 
 ### Download
 * AMD Drivers
