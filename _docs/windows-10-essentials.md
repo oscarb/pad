@@ -273,14 +273,10 @@ Extensions
 * [Launchy: The Open Source Keystroke Launcher](http://www.launchy.net/)
   * [Why You Should Be Using an App Launcher (and How to Make It Do More Than Launch Apps)](http://lifehacker.com/5963597/why-you-should-be-using-an-app-launcher-and-how-to-make-it-do-anything-you-want#_ga=1.98741918.1667622160.1441735094)
   * [How to Create a Shortcut for Any "Modern" Windows App](http://lifehacker.com/how-to-create-a-shortcut-for-any-modern-windows-app-1722569853)
-
 * LibreOffice
 	* [Home LibreOffice - Free Office Suite - Fun Project - Fantastic People](https://www.libreoffice.org/)
-
 * [Download Sumatra PDF - a free reader](http://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
-
 * [Online Data Backup  Offsite, Onsite & Cloud Crashplan](https://www.crashplan.com/en-us/)
-
 * [f.lux: software to make your life better](https://justgetflux.com/)
 * [Avira 2016 - Download free antivirus for PC & Mac](http://www.avira.com/)
 * [Bins™, by 1UP Industries](http://www.1upindustries.com/bins/)
