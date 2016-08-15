@@ -279,7 +279,7 @@ Extensions
 
 * [Download Sumatra PDF - a free reader](http://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 
-* [Online Data Backup  Offsite, Onsite & Cloud | Crashplan](https://www.crashplan.com/en-us/)
+* [Online Data Backup  Offsite, Onsite & Cloud Crashplan](https://www.crashplan.com/en-us/)
 
 * [f.lux: software to make your life better](https://justgetflux.com/)
 * [Avira 2016 - Download free antivirus for PC & Mac](http://www.avira.com/)
