@@ -268,6 +268,18 @@ Extensions
 
 ### Try 2016-08
 
+* [John’s Background Switcher | John's Adventures](https://johnsad.ventures/software/backgroundswitcher/)
+
+* [Top 10 Places to Get Stunning Desktop Wallpaper](http://lifehacker.com/top-10-places-to-get-stunning-desktop-wallpaper-1781991380)
+
+#### Rainmeter
+
+https://www.rainmeter.net/
+
+* [MinimalOne Weather 1.0 by mistrjosh on DeviantArt](http://mistrjosh.deviantart.com/art/MinimalOne-Weather-1-0-510234680)
+* [Simple Clean by HipHopium on DeviantArt](http://hiphopium.deviantart.com/art/Simple-Clean-593429217)
+* [TextClock 2.1 by jsmorley on DeviantArt](http://jsmorley.deviantart.com/art/TextClock-2-1-609165064)
+
 #### Launchy
 
 * [Launchy: The Open Source Keystroke Launcher](http://www.launchy.net/)
