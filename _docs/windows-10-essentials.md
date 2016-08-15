@@ -14,6 +14,8 @@ Windows 10 Essentials
 ### Backup
 * SpeedTab settings
 * StackEdit docs and settings
+* Android Studio settings
+* List of extensions for Atom and Brackets
 
 ### Download
 * AMD Drivers
@@ -121,6 +123,11 @@ Enable screen-saver for 9 minutes
 Software
 --------
 
+### Adobe Photoshop
+
+### Android Studio
+
+
 ### SDFormatter
 
 ### Realtek HD Audio manager
@@ -129,8 +136,6 @@ Remove notification icon
 ### OneDrive
 Disable "Start OneDrive on startup" from OneDrive settings
 
-### Atom
-Settings > Scroll past end
 
 ### WinRAR
 Settings > Compression > Remove redundant folders from extraction path
@@ -177,6 +182,65 @@ Settings > Compression > Remove redundant folders from extraction path
 > **Paths:** /volume1/downloads=Z:\downloads
 
 
+
+### Development
+
+### Atom
+#### Settings
+Settings > Scroll past end
+
+#### Packages
+
+Generate with `apm list --installed --bare`
+
+* auto-detect-indentation@1.0.0
+* autoclose-html@0.23.0
+* compare-files@0.6.2
+* expose@0.11.1
+* git-plus@5.13.0
+* git-time-machine@1.3.0
+* highlight-selected@0.11.2
+* keyboard-localization@1.4.10
+* merge-conflicts@1.3.7
+* minimap@4.21.0
+* open-recent@5.0.0
+* remote-edit@1.8.22
+* Remote-FTP@0.7.10
+* rest-client@1.0.0
+* split-diff@0.5.3
+
+
+#### Brackets
+
+Extensions
+* [zaggino/brackets-git: brackets-git](https://github.com/zaggino/brackets-git) 
+
+#### Node.js
+
+#### FileZilla
+
+#### Git
+
+#### Java
+
+### Try 2016-08
+
+#### Launchy
+
+* [Launchy: The Open Source Keystroke Launcher](http://www.launchy.net/)
+  * [Why You Should Be Using an App Launcher (and How to Make It Do More Than Launch Apps)](http://lifehacker.com/5963597/why-you-should-be-using-an-app-launcher-and-how-to-make-it-do-anything-you-want#_ga=1.98741918.1667622160.1441735094)
+  * [How to Create a Shortcut for Any "Modern" Windows App](http://lifehacker.com/how-to-create-a-shortcut-for-any-modern-windows-app-1722569853)
+
+* LibreOffice
+	* [Home | LibreOffice - Free Office Suite - Fun Project - Fantastic People](https://www.libreoffice.org/)
+
+* [Download Sumatra PDF - a free reader](http://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
+
+* [Online Data Backup | Offsite, Onsite & Cloud | Crashplan](https://www.crashplan.com/en-us/)
+
+* [f.lux: software to make your life better](https://justgetflux.com/)
+* [Avira 2016 - Download free antivirus for PC & Mac](http://www.avira.com/)
+* [Bins™, by 1UP Industries](http://www.1upindustries.com/bins/)
 
 
 http://winaero.com/blog/move-notification-toasts-to-top-or-bottom-of-the-screen-in-windows-10/
