@@ -6,7 +6,8 @@ title: Windows 10 Essentials
 Windows 10 Essentials
 =====================
 
-[TOC]
+* TOC
+{:toc}
 
 ## Before formatting
 
