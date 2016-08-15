@@ -1,6 +1,8 @@
 ---
-tags: [windows]
+tags:
+  - windows
 title: Windows 10 Essentials
+published: true
 ---
 
 Windows 10 Essentials
@@ -168,6 +170,24 @@ Settings > Compression > Remove redundant folders from extraction path
 
 ### Chrome
 
+#### Extensions
+
+* Adblock Plus
+* cookies.txt
+* Keep Chrome Extension
+* LastPss
+* Markdown here
+* Postman
+* prose
+* RSS
+* Save to Pocket
+* Speed Dial 2
+* Stop YouTube Autoplay
+* Stylish
+* TabCopy
+* Tampermonkey
+
+
 #### LastPass
  * Preferences > Advanced > Show Matching Sites in top level menu
 
@@ -179,6 +199,19 @@ Settings > Compression > Remove redundant folders from extraction path
  * Enable _Enable tab audio_
 
 * Import SpeedTab settings
+
+
+#### Stylish
+
+**WorkFlowy Yellow Star**
+```
+.pageStar.starred {
+    background-image: url(/media/i/star-icon-empty.svg);
+    background-color: yellow;
+    -webkit-mask-image: url(/media/i/star-icon-grey.svg);
+    -webkit-mask-size: 20px;
+}
+```
 
 
 ### Transmission Remote GUI
