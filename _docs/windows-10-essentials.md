@@ -44,6 +44,13 @@ Drivers
 4_motherboard_driver_marvell_console
 5_motherboard_driver_usb3
 
+NF Update Utility
+Realtek HD Audio Driver
+Realtek 8111/8168 LAN Driver for gigabit(Windows 10)
+Intel Rapid Storage Technology driver
+Gigabyte SATA and RAID Driver
+
+
 ### Asus PCE-AC68 Driver and Utilities
  * Use english
  * Install driver only using .iso and Device Manager
