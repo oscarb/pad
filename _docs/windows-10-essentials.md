@@ -175,6 +175,7 @@ Settings > Compression > Remove redundant folders from extraction path
 ### VLC
 
 ### Spotify
+* Connect to Last.fm
 
 ### Chrome
 
