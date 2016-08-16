@@ -86,6 +86,7 @@ where `<FOLDER>` is
 ### Explorer
  * Show extensions for known file types
  * Show hidden files
+ * Open file explorer to _This PC_
 
 ### Windows Control Panel
  * Control Panel > User Accounts > Manage User Account Control settings > Never notify
