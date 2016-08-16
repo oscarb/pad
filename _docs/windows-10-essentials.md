@@ -125,6 +125,10 @@ Edit wheel speed, middle click, left side button and right side button
 ### Screen-saver
 Enable screen-saver for 9 minutes
 
+### Remove OneDrive
+
+How to Get Rid of the OneDrive Icon in Windows 10's File Explorer
+http://lifehacker.com/how-to-get-rid-of-the-onedrive-icon-in-windows-10s-file-1722592615
 
 Software
 --------
