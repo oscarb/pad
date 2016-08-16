@@ -116,6 +116,8 @@ Create the following web apps using Chrome and pin to taskbar
  * WorkFlowy
  * Video Station
  
+Refresh icon cache with `ie4uinit.exe -show` 
+ 
 > **Location:** C:\Users\Oscar\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
 
 ### Mouse and keyboard
