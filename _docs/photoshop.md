@@ -1,3 +1,8 @@
+---
+title: Photoshop
+tags: [photoshop]
+---
+
 # Photoshop resources
 
 ## Resources
