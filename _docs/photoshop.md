@@ -2,4 +2,4 @@
 
 ## Resources
 
-[Editing _docs/2016-08-21-your-filename.md/2016-08-21-your-filename.md at gh-pages · Prose](http://prose.io/#oscarb/pad/new/gh-pages/_docs)
+[Quick Tip: Photo enhancement in 10 seconds - Photoshop - Pixel77](https://www.pixel77.com/quick-tip-photo-enhancement-in-10-seconds-photoshop/)
