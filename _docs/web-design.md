@@ -21,6 +21,29 @@ published: true
 
 ### Prototyping
 
+* Prototyping Tools ([www.cooper.com](http://www.cooper.com/prototyping-tools))
+
 * The Ideal Design Workflow — Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.9a7ubh88n))
 
 * 5 Links that can make every Graphic Designer’s life easy. — Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/5-links-that-can-make-every-graphic-designers-life-easy-9af76f65e9cb#.5k16yr9px))
+
+### Tools
+
+* Briefs ([giveabrief.com](http://giveabrief.com/))
+* InVision ([www.invisionapp.com](https://www.invisionapp.com/))
+* Notism ([www.notism.io](https://www.notism.io/home))
+* Flinto ([www.flinto.com](https://www.flinto.com/))
+* Fluid UI ([www.fluidui.com](https://www.fluidui.com/))
+* Keynotopia ([keynotopia.com](http://keynotopia.com/))
+* Red Pen ([redpen.io](https://redpen.io/))
+* Balsamiq ([balsamiq.com](https://balsamiq.com/))
+* Marvel ([marvelapp.com](https://marvelapp.com/))
+* POP - Prototyping on Paper ([popapp.in](https://popapp.in/))
+* Prott  ([prottapp.com](https://prottapp.com/))
+* Mockup.io([mockup.io](https://mockup.io/about/))
+* Atomic ([atomic.io](https://atomic.io/))
+* Flinto ([www.flinto.com](https://www.flinto.com/))
+* Framer ([framerjs.com](https://framerjs.com/))
+* Pixate ([www.pixate.com](http://www.pixate.com/))
+* Principle ([principleformac.com](http://principleformac.com/))
+
