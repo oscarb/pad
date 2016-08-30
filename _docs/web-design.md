@@ -13,6 +13,8 @@ published: true
 ## UX
 
 * [Best of UX Links of 2016 — Prototyping: From UX to Front End](https://blog.prototypr.io/best-of-ux-links-of-2016-eb2f44a2c9c0#.z4uvwvbix)
+* The Best UX/UI Designer Tools, Resources, Blogs & Books Collection – Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/the-best-ux-ui-designer-tools-resources-blogs-books-collection-93952ed1da07#.c3zd45q6e))
+* UX Myths ([uxmyths.com](http://uxmyths.com/))
 
 ## Resources
 
@@ -22,6 +24,7 @@ published: true
 ### Prototyping
 
 * Prototyping Tools ([www.cooper.com](http://www.cooper.com/prototyping-tools))
+* A Full List of UX Prototyping Tools - Mockplus ([www.mockplus.com](http://www.mockplus.com/blog/post/121-a-full-list-of-ux-prototyping-tools))
 
 * The Ideal Design Workflow — Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.9a7ubh88n))
 
