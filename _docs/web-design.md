@@ -20,6 +20,7 @@ published: true
 
 * [Resizer](http://design.google.com/resizer/)
 * [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+* Magic of CSS — Adam Schwartz ([adamschwartz.co](http://adamschwartz.co/magic-of-css/))
 
 ### Prototyping
 
@@ -49,4 +50,6 @@ published: true
 * Framer ([framerjs.com](https://framerjs.com/))
 * Pixate ([www.pixate.com](http://www.pixate.com/))
 * Principle ([principleformac.com](http://principleformac.com/))
+
+* Coggle - Simple Collaborative Mind Maps ([coggle.it](https://coggle.it/))
 
