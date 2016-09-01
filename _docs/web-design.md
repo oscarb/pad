@@ -21,11 +21,16 @@ published: true
 * [Resizer](http://design.google.com/resizer/)
 * [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * Magic of CSS — Adam Schwartz ([adamschwartz.co](http://adamschwartz.co/magic-of-css/))
+* Dummi – Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/dummi-9850beef9e78#.ooyc4cb0s))
+
+* 8 Essential Design Tools For UX Newbies to Make Work Easier – Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/8-essential-design-tools-for-ux-newbies-to-make-work-easier-818fbe8e8ac#.e5avucvca))
 
 ### Prototyping
 
 * Prototyping Tools ([www.cooper.com](http://www.cooper.com/prototyping-tools))
 * A Full List of UX Prototyping Tools - Mockplus ([www.mockplus.com](http://www.mockplus.com/blog/post/121-a-full-list-of-ux-prototyping-tools))
+* Prototyper Hunt | prototype software & prototyping resources ([prototyperhunt.com](http://prototyperhunt.com/))
+* A comparison of browser based prototyping tools – Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/prototyping-with-browser-based-prototype-tools-a-comparison-939ce8076d3b#.d8n71wp4k))
 
 * The Ideal Design Workflow — Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.9a7ubh88n))
 
@@ -50,6 +55,8 @@ published: true
 * Framer ([framerjs.com](https://framerjs.com/))
 * Pixate ([www.pixate.com](http://www.pixate.com/))
 * Principle ([principleformac.com](http://principleformac.com/))
+* Framer - Design tool for creating interactive designs, interfaces and animations ([framerjs.com](https://framerjs.com/))
+* Wordpress theme generator and Joomla template generator ([templatetoaster.com](http://templatetoaster.com/?utm_source=R&utm_medium=M&utm_campaign=N#header))
 
 * Coggle - Simple Collaborative Mind Maps ([coggle.it](https://coggle.it/))
 
@@ -74,5 +81,3 @@ published: true
 * Fitbit visar upp nya aktivitetsband. Flex 2 och Charge 2 | Feber / Pryl ([feber.se](http://feber.se/pryl/art/354083/fitbit_visar_upp_nya_aktivitet/?from=rss))
 * Philips släpper TV för köket. Med inbyggd bluetoothhögtalare | Feber / Pryl ([feber.se](http://feber.se/pryl/art/353966/philips_slpper_tv_fr_kket/?from=rss))
 * Google Play Developer Console - Android Apps on Google Play ([play.google.com](https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole))
-
-
