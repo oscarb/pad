@@ -5,7 +5,11 @@ tags: [apps]
 
 # Brackets
 
-## Plugins
+## Extensions
+
+* [Brackets-Git](https://github.com/zaggino/brackets-git)
+	- Shortcuts:
+    	* Commit all files: Ctrl-Alt-Insert
 
 
 
