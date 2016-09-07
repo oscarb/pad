@@ -184,6 +184,7 @@ Settings > Compression > Remove redundant folders from extraction path
 
 ### Spotify
 * Connect to Last.fm
+* Toastify ([toastify.codeplex.com](https://toastify.codeplex.com/))
 
 ### Chrome
 
