@@ -64,6 +64,7 @@ https://codepad.co
 * Principle ([principleformac.com](http://principleformac.com/))
 * Framer - Design tool for creating interactive designs, interfaces and animations ([framerjs.com](https://framerjs.com/))
 * Wordpress theme generator and Joomla template generator ([templatetoaster.com](http://templatetoaster.com/?utm_source=R&utm_medium=M&utm_campaign=N#header))
+* Fuse ([www.fusetools.com](https://www.fusetools.com/))
 
 * Coggle - Simple Collaborative Mind Maps ([coggle.it](https://coggle.it/))
 
