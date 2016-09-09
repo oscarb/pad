@@ -15,10 +15,10 @@ published: true
 
 Original label | Override label   | Alignment
 ---------------|------------------|----------
-`#`            | `Playlist Track` | Right
-`Artwork`      | `Artwork`        | Middle
-`Love`         | `♥`              | Middle
-`Track#`       | ` # `            | Right
+#              | `Playlist Track` | Right
+Artwork        | `Artwork`        | Middle
+Love           | `♥`              | Middle
+Track#         | ` # `            | Right
 
 
 ## Virtual tags
