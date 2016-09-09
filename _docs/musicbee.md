@@ -15,6 +15,6 @@ published: true
 
 Original label | Override label | Alignment
 ---------------|----------------|----------
-`Track#`       | ` \# `         | Right
+`Track#`       | ` # `          | Right
 `Love`         | `♥`            | Middle
 
