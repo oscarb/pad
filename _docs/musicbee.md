@@ -12,7 +12,7 @@ tags: [apps]
 Preferences > Layout(1) > Main Panel > Configure Fields
 
 Original label | Override label | Alignment
--------------------------------------------
+---------------|----------------|----------
 Track# | ` #` | Right
 
 
