@@ -59,7 +59,7 @@ Tag | Display name  | Save to music file as tag
 6   | Game Series   | Game Series
 7   | Song          | Song
 8   | Platform      | Platform 
-9   | Album Year    | Save to MusicBee database only
+9   | Album Year    | Album Year
 10  | Edition       | Save to MusicBee database only
 
 ### Identifiers
@@ -72,12 +72,12 @@ Tag | Display name  | Save to music file as tag
 
 ## Virtual tags
 
-Song
+Track
 : ``` 
   $Split(<Title>," (feat",1)
   ``` 
   
-Disc Nr
+Disc Label
 : ```
   $If($Group(<Disc#>,3)="0-9",$If(<Disc Count>>1,"Disc "<Disc#>$IsNull(<Edition>,," - "),),"Vol. "<Disc#>": "<Grouping>)$IsNull(<Edition>,,<Edition>)
   ``` 
