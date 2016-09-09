@@ -30,7 +30,8 @@ Track#         | ` # `            | Right
 - _Featuring_
 
 
-Artwork | ♥ | # | _Title short_ | Rating | _Featuring_
+Artwork | ♥ | # | _Title short_ | Rating | Time |  _Featuring_
+:------:|:-:|--:|:--------------|:-------|-----:|:--------------
 
 
 ## Virtual tags
