@@ -19,6 +19,7 @@ Original label | Override label   | Alignment
 Artwork        | `Artwork`        | Middle
 Love           | `♥`              | Middle
 Track#         | ` # `            | Right
+Artists: Guest | `Feauturing`     | Left
 
 #### Displayed fields 
 
