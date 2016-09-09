@@ -22,17 +22,11 @@ Track#         | ` # `            | Right
 
 #### Displayed fields 
 
-- Artwork
-- ♥
-- #
-- _Title short_
-- Rating 
-- _Featuring_
-
-
  Artwork | ♥ | # | _Title short_ | Rating | Time |  _Featuring_
 |:------:|:-:|--:|:--------------|:-------|-----:|:-----------|
     ☺    | ♥ | 1 | The End       | ☼☼☼☼☼  | 3:58 | 
+
+
 
 
 ## Virtual tags
