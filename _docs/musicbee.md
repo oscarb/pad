@@ -44,6 +44,29 @@ Artists: Guest | `Feauturing`     | Left
 [ ] Keep columns sized to panel 
 
 
+
+## Custom tags
+
+Tag | Display name  | Save to music file as tag
+---:|---------------|------------------------------
+1   | Sort Artist   | Artist Sort-Order
+2   | Sort Album Artist | Album Artist Sort-Order
+3   |  |
+4   |  |
+5   | Game          | Game
+6   | Game Series   | Game Series
+7   | Song          | Song
+8   | Platform      | Platform 
+9   | Album Year    | Save to MusicBee database only
+10  | Edition       | Save to MusicBee database only
+
+
+
+
+
+
+
+
 ## Virtual tags
 
 Song
