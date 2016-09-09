@@ -1,6 +1,8 @@
 ---
 title: MusicBee
-tags: [apps]
+tags:
+  - apps
+published: true
 ---
 
 # MusicBee
@@ -13,8 +15,4 @@ Preferences > Layout(1) > Main Panel > Configure Fields
 
 Original label | Override label | Alignment
 ---------------|----------------|----------
-Track# | ` ` | Right
-
-
-
-
+Track# | ` \# ` | Right
