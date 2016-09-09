@@ -54,4 +54,9 @@ Title short
 
 
 
+ `$Split(<Title>," (feat",1)`
+ : Title short
+
+
+
 
