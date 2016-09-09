@@ -50,7 +50,7 @@ Artists: Guest | `Feauturing`     | Left
 Label | Formula 
 ------|------------------------------------
 Song  | `$Split(<Title>," (feat",1)` 
-Disc Nr | `$If($Group(<Disc#>,3)="0-9",$If(<Disc Count>>1,"Disc "<Disc#>$IsNull(<Edition>,," - "),),"Vol. "<Disc#>": "<Grouping>)$IsNull(<Edition>,,<Edition>)`
+Disc Nr | ```$If($Group(<Disc#>,3)="0-9",$If(<Disc Count>>1,"Disc "<Disc#>$IsNull(<Edition>,," - "),),"Vol. "<Disc#>": "<Grouping>)$IsNull(<Edition>,,<Edition>)``` 
 
 
 
