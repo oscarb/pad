@@ -24,16 +24,8 @@ Track#         | ` # `            | Right
 ## Virtual tags
 
 Label | Formula 
-------|---------|---------------------------
-Title Short | `$Split(<Title>," (feat",1)` 
-
-
-
-
-Title short
-: Displays title without featuring artists
-  `$Split(<Title>," (feat",1)`
-
+------|------------------------------------
+Title Short     | `$Split(<Title>," (feat",1)` 
 
 
 
