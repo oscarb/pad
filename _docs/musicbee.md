@@ -11,7 +11,20 @@ published: true
 
 ### Default Album and Tracks view
 
-#### Preferences > Layout(1) > Customize Layout > Configure Fields
+
+#### Preferences > Layout(1) > Main Panel > Customize Layout
+
+Grouping header | Font | Contrast
+----------------|------|----------
+L: Album Artist | Roboto Light, 16pt | 90%
+R:              |      | 
+
+
+
+
+
+
+##### Configure Fields
 
 Original label | Override label   | Alignment
 ---------------|------------------|----------
@@ -37,6 +50,7 @@ Artists: Guest | `Feauturing`     | Left
 Label | Formula 
 ------|------------------------------------
 Song  | `$Split(<Title>," (feat",1)` 
+Disc Nr | `$If($Group(<Disc#>,3)="0-9",$If(<Disc Count>>1,"Disc "<Disc#>$IsNull(<Edition>,," - "),),"Vol. "<Disc#>": "<Grouping>)$IsNull(<Edition>,,<Edition>)`
 
 
 
