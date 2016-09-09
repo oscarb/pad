@@ -20,3 +20,11 @@ Original label | Override label   | Alignment
 `Love`         | `♥`              | Middle
 `Track#`       | ` # `            | Right
 
+
+## Virtual tags
+
+Label | Formula | Comment
+------|---------|---------------------------
+Title Short | `$Split(<Title>," (feat",1)` | Track titles without featuring artists
+
+
