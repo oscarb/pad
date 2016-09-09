@@ -23,9 +23,12 @@ Original label | Override label   | Alignment
 
 ## Virtual tags
 
-Label | Formula | Comment
+Label | Formula 
 ------|---------|---------------------------
-Title Short | `$Split(<Title>," (feat",1)` | Track titles without featuring artists
+Title Short[^1] | `$Split(<Title>," (feat",1)` 
+
+
+[^1]: Shows titles without featuring artists
 
 
 ### Track titles without featuring artists
