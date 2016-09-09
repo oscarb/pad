@@ -31,8 +31,8 @@ Title Short | `$Split(<Title>," (feat",1)`
 
 
 Title short
-: `$Split(<Title>," (feat",1)`
-  _Displays title without featuring artists_
+: Displays title without featuring artists
+  `$Split(<Title>," (feat",1)`
 
 
 
