@@ -16,6 +16,7 @@ published: true
 Original label | Override label   | Alignment
 ---------------|------------------|----------
 `#`            | `Playlist Track` | Right
-`Track#`       | ` # `            | Right
+`Artwork`      | `Artwork`        | Middle
 `Love`         | `♥`              | Middle
+`Track#`       | ` # `            | Right
 
