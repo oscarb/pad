@@ -7,6 +7,13 @@ published: true
 
 # MusicBee
 
+## Filters
+
+* Organized
+  * Match `all` of the following rules
+  	- Path starts with `D:\Users\archive\Oscar\Music\Library`
+
+
 ## Views
 
 ### Default Album and Tracks view
@@ -36,6 +43,10 @@ Album | Roboto Regular 13pt | 80%
 Virtual Album Year | Roboto Regular 10pt | 70%
 Album Rating |  | 90%
 Custom16 | Roboto Regular 24pt | 30%
+
+[x} Group tracks with a header (Album Artist)  ([ ] except for playlists)
+[ ] Display first few tracks only  ([ ] except for playlists)
+[x] Do not show artwork for albums with less than `2` tracks
 
 
 
