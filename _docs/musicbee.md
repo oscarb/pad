@@ -20,6 +20,15 @@ Artwork        | `Artwork`        | Middle
 Love           | `♥`              | Middle
 Track#         | ` # `            | Right
 
+#### Displayed fields 
+
+- Artwork
+- ♥
+- #
+- _Title short_
+- Rating 
+- _Featuring_
+
 
 ## Virtual tags
 
