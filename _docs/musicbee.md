@@ -36,23 +36,6 @@ Title Short[^1] | `$Split(<Title>," (feat",1)`
 Title Short | `$Split(<Title>," (feat",1)` 
 
 
-### Test
-
-**Title short**
-`$Split(<Title>," (feat",1)` 
- 
- 
-### Title short
- `$Split(<Title>," (feat",1)` 
-
-
-
-
-
-Title short
-: `$Split(<Title>," (feat",1)` 
-
-
 
  `$Split(<Title>," (feat",1)`
  : Title short
