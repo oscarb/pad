@@ -27,11 +27,13 @@ Artists: Guest | `Feauturing`     | Left
 |:------:|:-:|--:|:--------------|:-------|-----:|:-----------|
     ☺    | ♥ | 1 | The End       | ☼☼☼☼☼  | 3:58 | 
 
+- [ ] Keep columns sized to panel 
+
 ## Virtual tags
 
 Label | Formula 
 ------|------------------------------------
-Title Short     | `$Split(<Title>," (feat",1)` 
+Song  | `$Split(<Title>," (feat",1)` 
 
 
 
