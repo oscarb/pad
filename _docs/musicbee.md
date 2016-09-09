@@ -11,8 +11,10 @@ published: true
 
 ### Default Album and Tracks view
 
-Preferences > Layout(1) > Main Panel > Configure Fields
+#### Preferences > Layout(1) > Main Panel > Configure Fields
 
 Original label | Override label | Alignment
 ---------------|----------------|----------
-Track# | ` \# ` | Right
+`Track#`       | ` \# `         | Right
+`Love`         | `♥`            | Middle
+
