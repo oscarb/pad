@@ -47,6 +47,8 @@ Artists: Guest | `Feauturing`     | Left
 
 ## Custom tags
 
+### Tags
+
 Tag | Display name  | Save to music file as tag
 ---:|---------------|------------------------------
 1   | Sort Artist   | Artist Sort-Order
@@ -60,12 +62,13 @@ Tag | Display name  | Save to music file as tag
 9   | Album Year    | Save to MusicBee database only
 10  | Edition       | Save to MusicBee database only
 
+### Identifiers
 
-
-
-
-
-
+* Game
+* Game Series
+* Song
+* Platform
+* Album Year
 
 ## Virtual tags
 
