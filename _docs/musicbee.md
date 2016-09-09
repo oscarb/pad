@@ -34,6 +34,9 @@ Field | Font | Contrast
 Album Artist |  |  
 Album | Roboto Regular 13pt | 80%
 Virtual Album Year | Roboto Regular 10pt | 70%
+Album Rating |  | 90%
+Custom16 | Roboto Regular 24pt | 30%
+
 
 
 
