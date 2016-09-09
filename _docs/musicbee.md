@@ -27,8 +27,9 @@ Artists: Guest | `Feauturing`     | Left
 |:------:|:-:|--:|:--------------|:-------|-----:|:-----------|
     ☺    | ♥ | 1 | The End       | ☼☼☼☼☼  | 3:58 | 
 
-- [] Keep columns sized to panel 
-- [x] Keep columns sized to panel 
+
+[] Keep columns sized to panel 
+[x] Keep columns sized to panel 
 
 
 
