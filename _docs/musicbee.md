@@ -54,7 +54,7 @@ Disc Nr | ```$If($Group(<Disc#>,3)="0-9",$If(<Disc Count>>1,"Disc "<Disc#>$IsNul
 
 Song
 : ``` 
-   $Split(<Title>," (feat",1)
+  $Split(<Title>," (feat",1)
   ``` 
   
 Disc Nr
