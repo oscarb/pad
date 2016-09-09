@@ -30,6 +30,9 @@ Track#         | ` # `            | Right
 - _Featuring_
 
 
+Artwork | ♥ | # | _Title short_ | Rating | _Featuring_
+
+
 ## Virtual tags
 
 Label | Formula 
