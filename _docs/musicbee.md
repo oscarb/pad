@@ -16,7 +16,7 @@ published: true
 
 Grouping header | Font | Contrast
 ----------------|------|----------
-L: Album Artist | Roboto Light, 16pt | 90%
+L: `Album Artist` | Roboto Light, 16pt | 90%
 R:              |      | 
 
 
@@ -45,12 +45,6 @@ Artists: Guest | `Feauturing`     | Left
 
 
 ## Virtual tags
-
-Label | Formula 
-------|------------------------------------
-Song  | `$Split(<Title>," (feat",1)` 
-Disc Nr | ```$If($Group(<Disc#>,3)="0-9",$If(<Disc Count>>1,"Disc "<Disc#>$IsNull(<Edition>,," - "),),"Vol. "<Disc#>": "<Grouping>)$IsNull(<Edition>,,<Edition>)``` 
-
 
 Song
 : ``` 
