@@ -32,7 +32,7 @@ Track#         | ` # `            | Right
 
  Artwork | ♥ | # | _Title short_ | Rating | Time |  _Featuring_
 |:------:|:-:|--:|:--------------|:-------|-----:|:-----------|
-         | ♥ | 1 | The End       | ☺☺☺☺☺  | 3:58 | 
+    ☺    | ♥ | 1 | The End       | ☼☼☼☼☼  | 3:58 | 
 
 
 ## Virtual tags
