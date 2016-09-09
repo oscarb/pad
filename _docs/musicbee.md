@@ -16,8 +16,23 @@ published: true
 
 Grouping header | Font | Contrast
 ----------------|------|----------
-L: `Album Artist` | Roboto Light, 16pt | 90%
+L: `Album Artist` | Roboto Light 16pt | 90%
 R:              |      | 
+
+
+Sub-grouping header | Font | Contrast
+--------------------|------|----------
+Disc Label          | Roboto Light 12pt | 60%
+
+[ ] Precede with a blank line
+
+
+Fields displayed: below artwork
+
+Field | Font | Contrast 
+------|------|---------------
+Album Artist |  |  
+Album | Roboto Regular 13pt | 80%
 
 
 
@@ -87,5 +102,8 @@ Disc Label v2
   $If($Group(<Disc#>,3)="0-9",$If(<Disc Count> > 1,"Disc "<Disc#>$IsNull(<Edition>,," - "<Edition>),),)
   ```
   
-
+Virtual Album Year 
+: ```
+$IsNull(<Album Year>,$Left(<Year>,4),$Left(<Album Year>,4)
+```
 
