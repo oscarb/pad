@@ -33,6 +33,7 @@ Field | Font | Contrast
 ------|------|---------------
 Album Artist |  |  
 Album | Roboto Regular 13pt | 80%
+Virtual Album Year | Roboto Regular 10pt | 70%
 
 
 
