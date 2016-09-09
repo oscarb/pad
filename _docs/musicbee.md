@@ -77,9 +77,15 @@ Track
   $Split(<Title>," (feat",1)
   ``` 
   
-Disc Label
+Disc Label v1
 : ```
   $If($Group(<Disc#>,3)="0-9",$If(<Disc Count>>1,"Disc "<Disc#>$IsNull(<Edition>,," - "),),"Vol. "<Disc#>": "<Grouping>)$IsNull(<Edition>,,<Edition>)
   ``` 
+
+Disc Label v2
+: ```
+  $If($Group(<Disc#>,3)="0-9",$If(<Disc Count> > 1,"Disc "<Disc#>$IsNull(<Edition>,," - "<Edition>),),)
+  ```
+  
 
 
