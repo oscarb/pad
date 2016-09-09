@@ -36,20 +36,14 @@ Title Short | `$Split(<Title>," (feat",1)`
 ### Test
 
 **Title short**
- `$Split(<Title>," (feat",1)` 
+`$Split(<Title>," (feat",1)` 
  
  
 ### Title short
-
  `$Split(<Title>," (feat",1)` 
 
 
 
-_Title short_
- `$Split(<Title>," (feat",1)`
-
-
->  `$Split(<Title>," (feat",1)` 
 
 
 * Title short
