@@ -28,3 +28,31 @@ Label | Formula | Comment
 Title Short | `$Split(<Title>," (feat",1)` | Track titles without featuring artists
 
 
+### Track titles without featuring artists
+
+Title Short | `$Split(<Title>," (feat",1)` 
+
+
+### Test
+
+**Title short**
+ `$Split(<Title>," (feat",1)` 
+ 
+ 
+### Title short
+
+ `$Split(<Title>," (feat",1)` 
+
+
+
+_Title short_
+ `$Split(<Title>," (feat",1)`
+
+
+>  `$Split(<Title>," (feat",1)` 
+
+
+* Title short
+	`$Split(<Title>," (feat",1)` 
+    
+
