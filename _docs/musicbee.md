@@ -25,10 +25,9 @@ Track#         | ` # `            | Right
 
 Label | Formula 
 ------|---------|---------------------------
-Title Short[^1] | `$Split(<Title>," (feat",1)` 
+Title Short | `$Split(<Title>," (feat",1)` 
 
 
-[^1]: Shows titles without featuring artists
 
 
 ### Track titles without featuring artists
