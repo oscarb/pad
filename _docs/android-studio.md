@@ -5,4 +5,4 @@ tags: [android]
 
 # Android Studio
 
-> https://developer.android.com/studio/index.html
+* [Download Android Studio and SDK Tools](https://developer.android.com/studio/index.html)
