@@ -159,7 +159,7 @@ Disable "Start OneDrive on startup" from OneDrive settings
 
 ### 7-Zip
 
-* [7-zip & Windows 7: Make "Extract to <folder>" default on double-click - Super User](http://superuser.com/questions/259353/7-zip-windows-7-make-extract-to-folder-default-on-double-click/447791#447791)
+* [7-zip & Windows 7: Make "Extract to folder" default on double-click - Super User](http://superuser.com/questions/259353/7-zip-windows-7-make-extract-to-folder-default-on-double-click/447791#447791)
 
 ### WinRAR
 Settings > Compression > Remove redundant folders from extraction path
