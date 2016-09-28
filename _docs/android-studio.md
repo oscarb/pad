@@ -1,6 +1,8 @@
 ---
 title: Android Studio
-tags: [android]
+tags:
+  - android
+published: true
 ---
 
 # Android Studio
@@ -11,6 +13,7 @@ tags: [android]
 
 * [Color Themes](http://color-themes.com/?view=index)
   * [OceanSunset](http://color-themes.com/?view=theme&id=563a1a8e80b4acf11273aed1)
+  * [Gedit Original Oblivion](http://color-themes.com/?view=theme&id=563a1a6580b4acf11273ae4d)
 
 ### Install 
 
