@@ -14,6 +14,14 @@ published: true
   	- Path starts with `D:\Users\archive\Oscar\Music\Library`
 
 
+## Settings
+
+### General
+
+* Minimize to `Mini Player`
+
+
+
 ## Views
 
 ### Default Album and Tracks view
@@ -121,4 +129,3 @@ Virtual Album Year
 : ```
 $IsNull(<Album Year>,$Left(<Year>,4),$Left(<Album Year>,4)
 ```
-
