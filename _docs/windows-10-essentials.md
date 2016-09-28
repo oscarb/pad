@@ -160,7 +160,9 @@ Disable "Start OneDrive on startup" from OneDrive settings
 ### 7-Zip
 
 * [How To Automatically Extract ZIP Files After Downloading](http://www.guidingtech.com/24662/automatically-extract-zip-files/)
+
 * [7-zip & Windows 7: Make "Extract to folder" default on double-click - Super User](http://superuser.com/questions/259353/7-zip-windows-7-make-extract-to-folder-default-on-double-click/447791#447791)
+* [Make 7-Zip extract to folder when double-clicking archives. (based on http://superuser.com/a/447791)](https://gist.github.com/zabbarob/5891200)
 
 ### WinRAR
 Settings > Compression > Remove redundant folders from extraction path
