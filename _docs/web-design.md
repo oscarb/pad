@@ -49,6 +49,8 @@ https://codepad.co
 
 * 5 Links that can make every Graphic Designer’s life easy. — Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/5-links-that-can-make-every-graphic-designers-life-easy-9af76f65e9cb#.5k16yr9px))
 
+* The Ultimate Collection of Prototyping Tools for UX/UI Designers ([blog.prototypr.io](https://blog.prototypr.io/the-ultimate-collection-of-prototyping-tools-for-ux-ui-designers-61f9446dc09c#.faf2r1db5))
+
 ### Tools
 
 * Briefs ([giveabrief.com](http://giveabrief.com/))
