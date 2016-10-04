@@ -23,6 +23,40 @@ published: true
 * Markdown support
 * .ignore
 
+## Virtual devices
+
+* Nexus 5 API 24
+  * Android 7.0 x86_64
+
 ### Install 
 
 File > Import settings...
+
+* HAXM 
+* Enable USB debugging on device
+
+
+
+## Resources
+
+* https://www.kth.se/social/files/54f7169bf276544d8db2455a/Intro%20till%20Android%20Studio.pdf
+* [(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio – Google Developers – Medium](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.ml68l2prx)
+* [Android Studio Tips Of the Day - Roundup #1](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
+* [Android Studio Tips Of the Day - Roundup #5](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
+* [Android Studio Tips and Tricks - Michael Evans](http://michaelevans.org/blog/2016/01/06/android-studio-tips-and-tricks/)
+* [Android Studio Tips and Tricks](http://www.coderefer.com/android-studio-tips-and-tricks/)
+* [Android Studio: (About) 10 Things You (Probably) Didn’t Know You Could Do - YouTube](https://www.youtube.com/watch?v=eOV2owswDkE)
+* [Android Studio Tips & Tricks - Android Emulator 2.0 - YouTube](https://www.youtube.com/watch?v=9Pf_1Hws1ag)
+* [Android Studio Tips - Like a pro! - YouTube](https://www.youtube.com/watch?v=R8jz4sgbnmU)
+* [Productivity Tips After a Year of Working in Android Studio | Jana Technology](https://technology.jana.com/2016/01/08/productivity-tips-after-a-year-of-working-in-android-studio/)
+* [Tips & Tricks For App Development Using Android Studio | TechNetExperts](http://www.technetexperts.com/mobile/tips-tricks-for-app-development-using-android-studio/)
+* [pavlospt/Android-Studio-Tips-by-Philippe-Breault: Every Android Studio Tip posted by Phillipe Breault](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault)
+* [Page not found · GitHub](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/blob/master/_config.yml)
+* [Android Studio Tips and Tricks | Android Developers](http://www.androiddocs.com/sdk/installing/studio-tips.html)
+* [Popular Android Studio Programming Tips - Popular Tips](https://coderwall.com/android%20studio/popular)
+* [Common Android Virtual Device Configurations](https://code.tutsplus.com/tutorials/common-android-virtual-device-configurations--mobile-1574)
+* [6 Android Tools Every Android Developer Should Know About](https://www.airpair.com/android/android-tools-every-android-developer-should-know-about)
+* [Android Development Patterns: Best Practices for Professional Developers - Phil Dutson - Google Böcker](https://books.google.se/books?id=UFGaCwAAQBAJ&pg=PT36&lpg=PT36&dq=android+studio+best+virtual+device&source=bl&ots=pVU5TK43qj&sig=rnDi73F_STeLwB5CVykpp3rA7gw&hl=sv&sa=X&ved=0ahUKEwi5u5r2ksHPAhWHdCwKHYTqD084FBDoAQhQMAY#v=onepage&q=android%20studio%20best%20virtual%20device&f=false)
+* [Android Studio 2.0 | Android Developers Blog](http://android-developers.blogspot.se/2016/04/android-studio-2-0.html)
+* [Android development with Android Studio - Tutorial](http://www.vogella.com/tutorials/Android/article.html)
+* [Beginning Android Development Tutorial: Installing Android Studio](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
