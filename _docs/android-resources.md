@@ -60,3 +60,5 @@ The best Android resources from all over the web, gathered.
 * Android Material Design Colours ([gist.github.com](https://gist.github.com/daniellevass/b0b8cfa773488e138037))
 * unit-1/7_Android-Lifecycle.md at master · accesscode-2-1/unit-1 ([github.com](https://github.com/accesscode-2-1/unit-1/blob/master/lessons/7_Android-Lifecycle.md))
 * A beginners guide to an effective Android testing strategy \| David Guerrero's blog ([davidguerrerodiaz.wordpress.com](https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/))
+
+* Top 5 Android libraries every Android developer should know about | Infinum ([infinum.co](https://infinum.co/the-capsized-eight/articles/top-5-android-libraries-every-android-developer-should-know-about))
