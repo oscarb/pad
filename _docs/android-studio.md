@@ -18,6 +18,11 @@ published: true
   * [Castle of Ice](http://color-themes.com/?view=theme&id=563a1aa980b4acf11273af45)
   * [Chester](http://color-themes.com/?view=theme&id=563a1aa280b4acf11273af1d)
 
+## Plugins
+
+* Markdown support
+* .ignore
+
 ### Install 
 
 File > Import settings...
