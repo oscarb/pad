@@ -101,6 +101,19 @@ pre {
   overflow-x: auto;
 }
 
+kbd {
+    background-color: hsla(0,0%,96%,1);
+    border-style: outset;
+    border-color: hsla(0,0%,90%,1);
+    border-bottom-color: hsla(0, 0%, 98%, 1);
+    border-right-color: hsla(0, 0%, 98%, 1);
+    border-width: 1px;
+    border-radius: 2px;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-family: 'Droid Sans Mono', monospace;
+}
+
 table {
   width:100%;
   border-collapse:collapse;
