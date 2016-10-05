@@ -78,6 +78,7 @@ Shortcut | Action
 * Use <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd> for smarter completion
 * Find more tips with the Productivity Guide in the Help menu
 * Display documentation with <kbd>Ctrl</kbd> + <kbd>Q</kbd>
+* Select the next of selection with <kbd>Alt</kbd> + <kbd>J</kbd>
 
 
 Edit Custom VM options...
