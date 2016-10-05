@@ -66,21 +66,24 @@ Shortcut | Action
 * Look into the body of a called method with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>
 * Select code and extract into a method with <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
 * View parameters of a method with <kbd>Ctrl</kbd> + <kbd>P</kbd>
+* Evaluate expressions when debugging with <kbd>Alt</kbd> + <kbd>F8</kbd>
+* Inspect variables while debugging by holding <kbd>Alt</kbd> while clicking on them
+* Test regular expressions with Check RegExp
+* Use <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd> for smarter completion
+* Find more tips with the Productivity Guide in the Help menu
+* Dipslay documentation with <kbd>Ctrl</kbd> + <kbd>Q</kbd>
+
 
 
 ### Resources
 * Android Studio Tips Of the Day - Roundup #1 ([www.developerphil.com](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/))
 * (About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio –  ([Google Developers – Medium](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.olspr5v48))
+* Android Studio Tips and Tricks ([Michael Evans](http://michaelevans.org/blog/2016/01/06/android-studio-tips-and-tricks/))
 
 
 
 ## Resources
 
-* [Android Studio Tips Of the Day - Roundup #1](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
-* [Android Studio Tips Of the Day - Roundup #5](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
-* [Android Studio Tips and Tricks - Michael Evans](http://michaelevans.org/blog/2016/01/06/android-studio-tips-and-tricks/)
-* [Android Studio Tips and Tricks](http://www.coderefer.com/android-studio-tips-and-tricks/)
-* [Android Studio: (About) 10 Things You (Probably) Didn’t Know You Could Do - YouTube](https://www.youtube.com/watch?v=eOV2owswDkE)
 * [Android Studio Tips & Tricks - Android Emulator 2.0 - YouTube](https://www.youtube.com/watch?v=9Pf_1Hws1ag)
 * [Android Studio Tips - Like a pro! - YouTube](https://www.youtube.com/watch?v=R8jz4sgbnmU)
 * [Productivity Tips After a Year of Working in Android Studio | Jana Technology](https://technology.jana.com/2016/01/08/productivity-tips-after-a-year-of-working-in-android-studio/)
