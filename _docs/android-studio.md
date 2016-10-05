@@ -23,6 +23,7 @@ published: true
 * Markdown support
 * .ignore
 * Key Promoter
+* CodeGlance
 
 ## Virtual devices
 
@@ -59,6 +60,7 @@ Shortcut | Action
 <kbd>Ctrl</kbd> + <kbd>NumPad-0</kbd> | Reset Font Size 
 <kbd>Ctrl</kbd> + <kbd>R</kbd> | Refactor This... 
 <kbd>Ctrl</kbd> + <kbd>NumPad ,</kbd> | Run
+<kbd>Alt</kbd> + <kbd>'</kbd> | VCS popup
 
 
 
