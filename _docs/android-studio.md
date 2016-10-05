@@ -45,6 +45,7 @@ File > Import settings...
 * Editor > General > Appearance: Show line numbers
 * Editor > General > Appearance: Show method separators
 * Auto import Java: Add unambiguous imports on the fly
+* Optmize imports on the fly
 
 Setup horizontal scroll wheel to <kbd>Alt</kbd> + <kbd>←</kbd>/<kbd></kbd>
 
@@ -96,6 +97,7 @@ org.gradle.configureondemand=true
 
 
 ### Resources
+
 * Android Studio Tips Of the Day - Roundup #1 ([www.developerphil.com](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/))
 * (About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio –  ([Google Developers – Medium](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.olspr5v48))
 * Android Studio Tips and Tricks ([Michael Evans](http://michaelevans.org/blog/2016/01/06/android-studio-tips-and-tricks/))
@@ -104,15 +106,3 @@ org.gradle.configureondemand=true
 
 
 ## Resources
-
-* [Tips & Tricks For App Development Using Android Studio | TechNetExperts](http://www.technetexperts.com/mobile/tips-tricks-for-app-development-using-android-studio/)
-* [pavlospt/Android-Studio-Tips-by-Philippe-Breault: Every Android Studio Tip posted by Phillipe Breault](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault)
-* [Page not found · GitHub](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/blob/master/_config.yml)
-* [Android Studio Tips and Tricks | Android Developers](http://www.androiddocs.com/sdk/installing/studio-tips.html)
-* [Popular Android Studio Programming Tips - Popular Tips](https://coderwall.com/android%20studio/popular)
-* [Common Android Virtual Device Configurations](https://code.tutsplus.com/tutorials/common-android-virtual-device-configurations--mobile-1574)
-* [6 Android Tools Every Android Developer Should Know About](https://www.airpair.com/android/android-tools-every-android-developer-should-know-about)
-* [Android Development Patterns: Best Practices for Professional Developers - Phil Dutson - Google Böcker](https://books.google.se/books?id=UFGaCwAAQBAJ&pg=PT36&lpg=PT36&dq=android+studio+best+virtual+device&source=bl&ots=pVU5TK43qj&sig=rnDi73F_STeLwB5CVykpp3rA7gw&hl=sv&sa=X&ved=0ahUKEwi5u5r2ksHPAhWHdCwKHYTqD084FBDoAQhQMAY#v=onepage&q=android%20studio%20best%20virtual%20device&f=false)
-* [Android Studio 2.0 | Android Developers Blog](http://android-developers.blogspot.se/2016/04/android-studio-2-0.html)
-* [Android development with Android Studio - Tutorial](http://www.vogella.com/tutorials/Android/article.html)
-* [Beginning Android Development Tutorial: Installing Android Studio](https://www.raywenderlich.com/120177/beginning-android-development-tutorial-installing-android-studio)
