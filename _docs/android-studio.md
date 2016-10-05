@@ -82,12 +82,24 @@ Edit Custom VM options...
 -Xmx1024m
 ```
 
+C:\Users\Oscar\.gradle\gradle.properties
+```
+org.gradle.daemon=true
+
+org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX: +HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
+
+org.gradle.parallel=true
+
+org.gradle.configureondemand=true
+```
+
 
 
 ### Resources
 * Android Studio Tips Of the Day - Roundup #1 ([www.developerphil.com](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/))
 * (About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio –  ([Google Developers – Medium](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.olspr5v48))
 * Android Studio Tips and Tricks ([Michael Evans](http://michaelevans.org/blog/2016/01/06/android-studio-tips-and-tricks/))
+* Tips & Tricks For App Development Using Android Studio ([TechNetExperts](http://www.technetexperts.com/mobile/tips-tricks-for-app-development-using-android-studio/))
 
 
 
