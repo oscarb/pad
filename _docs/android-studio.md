@@ -45,7 +45,7 @@ File > Import settings...
 * Editor > General > Appearance: Show method separators
 * Auto import Java: Add unambiguous imports on the fly
 
-
+Setup horizontal scroll wheel to <kbd>Alt</kbd> + <kbd>←</kbd>/<kbd></kbd>
 
 ### Keyboard shortcuts
 
@@ -54,6 +54,7 @@ Shortcut | Action
 <kbd>Ctrl</kbd> + <kbd>NumPad +</kbd> | Increase Font Size 
 <kbd>Ctrl</kbd> + <kbd>NumPad -</kbd> | Decrease Font Size 
 <kbd>Ctrl</kbd> + <kbd>NumPad-0</kbd> | Reset Font Size 
+<kbd>Ctrl</kbd> + <kbd>R</kbd> | Refactor This... 
 
 
 
@@ -71,7 +72,8 @@ Shortcut | Action
 * Test regular expressions with Check RegExp
 * Use <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd> for smarter completion
 * Find more tips with the Productivity Guide in the Help menu
-* Dipslay documentation with <kbd>Ctrl</kbd> + <kbd>Q</kbd>
+* Display documentation with <kbd>Ctrl</kbd> + <kbd>Q</kbd>
+* 
 
 
 
@@ -84,8 +86,6 @@ Shortcut | Action
 
 ## Resources
 
-* [Android Studio Tips & Tricks - Android Emulator 2.0 - YouTube](https://www.youtube.com/watch?v=9Pf_1Hws1ag)
-* [Android Studio Tips - Like a pro! - YouTube](https://www.youtube.com/watch?v=R8jz4sgbnmU)
 * [Productivity Tips After a Year of Working in Android Studio | Jana Technology](https://technology.jana.com/2016/01/08/productivity-tips-after-a-year-of-working-in-android-studio/)
 * [Tips & Tricks For App Development Using Android Studio | TechNetExperts](http://www.technetexperts.com/mobile/tips-tricks-for-app-development-using-android-studio/)
 * [pavlospt/Android-Studio-Tips-by-Philippe-Breault: Every Android Studio Tip posted by Phillipe Breault](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault)
