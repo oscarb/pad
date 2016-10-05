@@ -35,6 +35,11 @@ File > Import settings...
 * HAXM 
 * Enable USB debugging on device
 
+## Keyboard shortcuts
+
+Shortcut | Action 
+`Ctrl` `NumPad +` | Increase Font Size 
+`Ctrl` `NumPad -` | Decrease Font Size 
 
 
 ## Resources
