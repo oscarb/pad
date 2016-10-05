@@ -36,9 +36,13 @@ File > Import settings...
 * Enable USB debugging on device
 
 
+
 ## Settings
 
 * Mouse: Change font size (zoom) with Ctrl + Mouse Wheel
+* Font: Consolas 12px
+
+
 
 ### Keyboard shortcuts
 
