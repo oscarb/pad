@@ -41,6 +41,9 @@ File > Import settings...
 
 * Mouse: Change font size (zoom) with Ctrl + Mouse Wheel
 * Font: Consolas 12px
+* Editor > General > Appearance: Show line numbers
+* Editor > General > Appearance: Show method separators
+* 
 
 
 
