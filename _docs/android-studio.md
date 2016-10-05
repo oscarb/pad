@@ -56,6 +56,12 @@ Shortcut | Action
 <kbd>Ctrl</kbd> + <kbd>NumPad-0</kbd> | Reset Font Size 
 
 
+
+## Tips
+
+* Rename variable, method or class with <kbd>Shift</kbd> + <kbd>F6</kbd>
+
+
 ## Resources
 
 * https://www.kth.se/social/files/54f7169bf276544d8db2455a/Intro%20till%20Android%20Studio.pdf
