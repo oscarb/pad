@@ -43,7 +43,7 @@ File > Import settings...
 * Font: Consolas 12px
 * Editor > General > Appearance: Show line numbers
 * Editor > General > Appearance: Show method separators
-* 
+* Auto import Java: Add unambiguous imports on the fly
 
 
 
