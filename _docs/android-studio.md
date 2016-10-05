@@ -35,7 +35,12 @@ File > Import settings...
 * HAXM 
 * Enable USB debugging on device
 
-## Keyboard shortcuts
+
+## Settings
+
+* Mouse: Change font size (zoom) with Ctrl + Mouse Wheel
+
+### Keyboard shortcuts
 
 Shortcut | Action 
 ---------|--------
