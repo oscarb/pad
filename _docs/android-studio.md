@@ -63,6 +63,7 @@ Shortcut | Action
 * Extend selections with <kbd>Alt</kbd> + <kbd>↑</kbd>
 * Insert code snippets with <kbd>Ctrl</kbd> + <kbd>J</kbd>
 * Move between methods with <kbd>Alt</kbd> + <kbd>↑</kbd>/<kbd>↓</kbd>
+* Look into the body of a called method with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>
 
 
 ## Resources
