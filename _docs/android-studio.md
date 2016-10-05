@@ -46,6 +46,7 @@ Shortcut | Action
 ---------|--------
 <kbd>Ctrl</kbd> + <kbd>NumPad +</kbd> | Increase Font Size 
 <kbd>Ctrl</kbd> + <kbd>NumPad -</kbd> | Decrease Font Size 
+<kbd>Ctrl</kbd> + <kbd>NumPad-0</kbd> | Reset Font Size 
 
 
 ## Resources
