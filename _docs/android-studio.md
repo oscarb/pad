@@ -46,6 +46,7 @@ File > Import settings...
 * Editor > General > Appearance: Show method separators
 * Auto import Java: Add unambiguous imports on the fly
 * Optmize imports on the fly
+* Prefer XML editor
 
 Setup horizontal scroll wheel to <kbd>Alt</kbd> + <kbd>←</kbd>/<kbd></kbd>
 
