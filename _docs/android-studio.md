@@ -38,8 +38,8 @@ File > Import settings...
 ## Keyboard shortcuts
 
 Shortcut | Action 
-`Ctrl` `NumPad +` | Increase Font Size 
-`Ctrl` `NumPad -` | Decrease Font Size 
+<kbd>Ctrl</kbd> + <kbd>NumPad +</kbd> | Increase Font Size 
+<kbd>Ctrl</kbd> + <kbd>NumPad -</kbd> | Decrease Font Size 
 
 
 ## Resources
