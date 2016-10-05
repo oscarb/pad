@@ -22,6 +22,7 @@ published: true
 
 * Markdown support
 * .ignore
+* Key Promoter
 
 ## Virtual devices
 
@@ -73,7 +74,13 @@ Shortcut | Action
 * Use <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd> for smarter completion
 * Find more tips with the Productivity Guide in the Help menu
 * Display documentation with <kbd>Ctrl</kbd> + <kbd>Q</kbd>
-* 
+
+
+Edit Custom VM options...
+```
+-Xms256m
+-Xmx1024m
+```
 
 
 
@@ -86,7 +93,6 @@ Shortcut | Action
 
 ## Resources
 
-* [Productivity Tips After a Year of Working in Android Studio | Jana Technology](https://technology.jana.com/2016/01/08/productivity-tips-after-a-year-of-working-in-android-studio/)
 * [Tips & Tricks For App Development Using Android Studio | TechNetExperts](http://www.technetexperts.com/mobile/tips-tricks-for-app-development-using-android-studio/)
 * [pavlospt/Android-Studio-Tips-by-Philippe-Breault: Every Android Studio Tip posted by Phillipe Breault](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault)
 * [Page not found · GitHub](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/blob/master/_config.yml)
