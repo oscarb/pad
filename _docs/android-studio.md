@@ -82,6 +82,8 @@ Shortcut | Action
 * Display documentation with <kbd>Ctrl</kbd> + <kbd>Q</kbd>
 * Select the next of selection with <kbd>Alt</kbd> + <kbd>J</kbd>
 
+When switching between a debug apk and a signed release apk on the same device, remember to first uninstall the debug apk _for all users_. 
+
 
 Edit Custom VM options...
 ```
