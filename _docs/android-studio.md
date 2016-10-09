@@ -81,6 +81,8 @@ Shortcut | Action
 * Find more tips with the Productivity Guide in the Help menu
 * Display documentation with <kbd>Ctrl</kbd> + <kbd>Q</kbd>
 * Select the next of selection with <kbd>Alt</kbd> + <kbd>J</kbd>
+* Use scratches for keeping code temporarily 
+* Use the `tools:` namespace in layout-files for previewing in Android Studio
 
 When switching between a debug apk and a signed release apk on the same device, remember to first uninstall the debug apk _for all users_. 
 
@@ -110,6 +112,7 @@ org.gradle.configureondemand=true
 * (About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio –  ([Google Developers – Medium](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.olspr5v48))
 * Android Studio Tips and Tricks ([Michael Evans](http://michaelevans.org/blog/2016/01/06/android-studio-tips-and-tricks/))
 * Tips & Tricks For App Development Using Android Studio ([TechNetExperts](http://www.technetexperts.com/mobile/tips-tricks-for-app-development-using-android-studio/))
+* [Things You May Not Know: Tools Attributes — Randomly Typing](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes)
 
 
 
