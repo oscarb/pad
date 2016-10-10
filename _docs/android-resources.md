@@ -65,3 +65,10 @@ The best Android resources from all over the web, gathered.
 * A beginners guide to an effective Android testing strategy \| David Guerrero's blog ([davidguerrerodiaz.wordpress.com](https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/))
 
 * Top 5 Android libraries every Android developer should know about | Infinum ([infinum.co](https://infinum.co/the-capsized-eight/articles/top-5-android-libraries-every-android-developer-should-know-about))
+
+* [How to avoid headaches with Android themes and styles | SUPENTA Blog](http://blog.supenta.com/2014/06/15/how-to-avoid-headaches-with-android-themes-and-styles/)
+
+## Data-binding
+* [Android Data Binding](http://mlsdev.com/en/blog/57-android-data-binding)
+
+
