@@ -13,6 +13,8 @@ published: true
 
 * [Adobe Acrobat Reader](https://play.google.com/store/apps/details?id=com.adobe.reader)
 * [Andie Graph](https://play.google.com/store/apps/details?id=net.supware.tipro)
+* [AutoNotification](https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification)
+* [AutoVoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice)
 * [bankid](https://play.google.com/store/apps/details?id=com.bankid.bus)
 * [Bredbandskollen](https://play.google.com/store/apps/details?id=se.iis.bbk)
 * [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
@@ -25,6 +27,7 @@ published: true
 * [DS photo](https://play.google.com/store/apps/details?id=com.synology.dsphoto)
 * [DS video](https://play.google.com/store/apps/details?id=com.synology.dsvideo)
 * [DS file](https://play.google.com/store/apps/details?id=com.synology.DSfile)
+* Facebook lite
 * [feedly: your work newsfeed](https://play.google.com/store/apps/details?id=com.devhd.feedly)
 * [Google Cast](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
 * [Hitta.se](https://play.google.com/store/apps/details?id=se.hitta.android.app)
@@ -39,6 +42,7 @@ published: true
 * [Pocket](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)
 * [PomoWear Start Working](https://play.google.com/store/apps/details?id=com.vngrs.android.pomodoro)
 * [Riktiga Vykort](https://play.google.com/store/apps/details?id=se.posten.riktigavykort)
+* [ResSaldo](https://play.google.com/store/apps/details?id=se.supertips.android.ressaldo)
 * [Smart Connect](https://play.google.com/store/apps/details?id=com.sonyericsson.extras.liveware)
 * [SMS Backup +](https://play.google.com/store/apps/details?id=com.zegoggles.smssync)
 * [Splitwise](https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile)
@@ -53,8 +57,8 @@ published: true
 * [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 * [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 * [WhatsApp Messenger](https://play.google.com/store/apps/details?id=com.whatsapp)
-* [WorkFlowy - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.workflowy.android)
-* [YouTube - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+* [WorkFlowy](https://play.google.com/store/apps/details?id=com.workflowy.android)
+* [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 
 ## Preparations
@@ -120,6 +124,4 @@ App | Location
 ----|---------
 Nova | ?
 Takser | ? 
-WhatsApp | 
-
-
+WhatsApp |
