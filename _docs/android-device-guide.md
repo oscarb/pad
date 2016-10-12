@@ -86,7 +86,7 @@ Disable built in Calendar
 * AR effect
 * Calendar
 * Chrome
-* File COmmander
+* File Commander
 * Google Play Books
 * Google PLay Games
 * Google Play Movies & TV
@@ -123,5 +123,5 @@ Disable built in Calendar
 App | Location
 ----|---------
 Nova | ?
-Takser | ? 
+Tasker | ? 
 WhatsApp |
