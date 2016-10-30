@@ -68,7 +68,7 @@ Name | Lowest price | Platform | Protype for
 [UXPin](https://www.uxpin.com/) | $19/month | Web | Any
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 [Weld](https://www.weld.io/) | Free[^weld] | Web | Web
-[Wireframe.cc ](https://wireframe.cc/) | Free[^wireframecc] | Web | Web
+[Wireframe.cc](https://wireframe.cc/) | Free[^wireframecc] | Web | Any
 [WireframeSketcher](http://wireframesketcher.com/)  | $99 | Mac, Windows | Any
 [Wires](http://quirktools.com/wires/) | Free | Web | Web
 
