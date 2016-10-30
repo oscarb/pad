@@ -56,6 +56,7 @@ Name | Lowest price | Platform | Protype for
 [UX App](https://www.ux-app.com/) | $5/month | Web | Any
 [UXPin](https://www.uxpin.com/) | $19/month | Web | Any
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
+[Weld](https://www.weld.io/) | Free[^weld] | Web | Web
 
 
 **Last updated:** 2016-10-30
@@ -76,6 +77,7 @@ Name | Lowest price | Platform | Protype for
 [^protopie]: Windows version will be ready soon
 [^prott]: 1 project
 [^webflow]: Unlimited hosted projects, 2 hosted projects
+[^weld]: “Made in Weld” mark, Only .SE/NU domain, Connect own domain
 
 ## Resources
 * [Comparison of software prototyping tools - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_software_prototyping_tools)
