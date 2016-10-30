@@ -28,6 +28,7 @@ Name | Lowest price | Platform | Protype for
 [Demonstrate](https://itunes.apple.com/in/app/demonstrate-mobile-prototyping/id726285449) | Free | iOS | iPhone
 [Easee](https://easee.design/) | Free | Web | Web
 [Fast Mockup](https://fast-mockup.com/) | Free | Windows | Software
+[Figma](https://www.figma.com/) | Free[^figma] | Mac, Windows | Any
 [Flairbuilder](http://flairbuilder.com/)  | $99 | Mac, Windows | Any
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
@@ -119,6 +120,8 @@ Name | Lowest price | Platform | Protype for
 [^wireframecc]: Public wireframes, single-page wireframes
 
 ## Resources
+
+* [Prototyper Hunt | prototype software & prototyping resources](http://prototyperhunt.com/)
 
 
 * [A Full List of UX Prototyping Tools - Mockplus](http://www.mockplus.com/blog/post/121-a-full-list-of-ux-prototyping-tools)
