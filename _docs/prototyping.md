@@ -48,3 +48,5 @@ Tool | Lowest price | Platform | Protype for
 * [A Full List of UX Prototyping Tools - Mockplus](http://www.mockplus.com/blog/post/121-a-full-list-of-ux-prototyping-tools)
 
 * [Prototyping Tools Cooper](http://www.cooper.com/prototyping-tools)
+
+## Footnotes
