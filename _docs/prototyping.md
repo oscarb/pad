@@ -25,6 +25,7 @@ Name | Lowest price | Platform | Protype for
 [CanvasFlip](https://www.canvasflip.com/) | Free[^canvasflip] | Web | Any
 [Concept.ly](http://concept.ly/) | Free[^conceptly] | Web | Any
 [Demonstrate](https://itunes.apple.com/in/app/demonstrate-mobile-prototyping/id726285449) | Free | iOS | iPhone
+[Flairbuilder](http://flairbuilder.com/)  | $99 | Mac, Windows | Any
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
 [Fluid UI](https://www.fluidui.com/) | Free[^fluid] | Web | Any
@@ -88,7 +89,7 @@ Name | Lowest price | Platform | Protype for
 * [A Full List of UX Prototyping Tools - Mockplus](http://www.mockplus.com/blog/post/121-a-full-list-of-ux-prototyping-tools)
 
 
-
+* [Prototyping Tools](http://www.prototypingtools.co/)
 * [Prototyping Tools Cooper](http://www.cooper.com/prototyping-tools)
 
 ## Footnotes
