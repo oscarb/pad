@@ -136,8 +136,8 @@ Name | Lowest price | Platform | Protype for
 ## Resources
 
 * [The Ultimate Collection of Prototyping Tools for UX/UI Designers](https://blog.prototypr.io/the-ultimate-collection-of-prototyping-tools-for-ux-ui-designers-61f9446dc09c#.6ouqzdmvx)
-
-* [Prototyper Hunt | prototype software & prototyping resources](http://prototyperhunt.com/)
+* [A Full List of UX Prototyping Tools - Mockplus](http://www.mockplus.com/blog/post/121-a-full-list-of-ux-prototyping-tools)
+* [Prototyper Hunt \| prototype software & prototyping resources](http://prototyperhunt.com/)
 * [The Ideal Design Workflow](https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.xnrax2koo)
 * [A Full List of UX Prototyping Tools - Mockplus](http://www.mockplus.com/blog/post/121-a-full-list-of-ux-prototyping-tools)
 * [The top 10 prototyping tools of 2016  Creative Bloq](http://www.creativebloq.com/web-design/top-10-prototyping-tools-2016-21619216)
