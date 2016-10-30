@@ -48,6 +48,7 @@ Name | Lowest price | Platform | Protype for
 [Pidoco](https://pidoco.com/en) | $12/month | Web | Any 
 [Principle](http://principleformac.com/) | $129 | Mac | Any
 [Proto.io](https://proto.io/) | Free[^protoio] | Web | Mobile
+[ProtoPie](https://www.protopie.io/) | Free | Mac[^protopie] | Mobile
 [ProtoShare](http://www.protoshare.com/) | $29/month |  Web | Any
 [Prototyping on Paper](https://popapp.in/) | Free[^pop] | Mac, Windows, Android | Mobile
 [UXPin](https://www.uxpin.com/) | $19/month | Web | Any
@@ -66,6 +67,7 @@ Name | Lowest price | Platform | Protype for
 [^neonto]: Free for non-commercial use
 [^pop]: 2 projects
 [^protoio]: 1 active project, 5 prototype screens, No additional reviewers, 10MB of storage
+[^protopie]: Windows version will be ready soon
 [^webflow]: Unlimited hosted projects, 2 hosted projects
 
 ## Resources
