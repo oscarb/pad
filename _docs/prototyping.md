@@ -32,7 +32,7 @@ Name | Lowest price | Platform | Protype for
 [Fluid UI](https://www.fluidui.com/) | Free[^fluid] | Web | Any
 [Form](http://www.relativewave.com/form/) | Free | Mac | iOS
 [ForeUI](http://www.foreui.com/) | $150 | Mac, Windows | Any
-[Frame Box](http://framebox.org/) | $150 | Mac, Windows | Any
+[Frame Box](http://framebox.org/) | Free | Web | Web
 [Framer](https://framerjs.com/) | $129 | Mac | Any
 [HotGloo](https://www.hotgloo.com/) | €15/month | Web | Any
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
