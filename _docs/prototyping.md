@@ -68,6 +68,7 @@ Name | Lowest price | Platform | Protype for
 [Prott App](https://itunes.apple.com/app/id917618029) | Free | iOS | Mobile
 [UX App](https://www.ux-app.com/) | $5/month | Web | Any
 [UXPin](https://www.uxpin.com/) | $19/month | Web | Any
+[Visio ](https://products.office.com/en-us/Visio/) | $299.99| Mac, Windows | Any
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 [Weld](https://www.weld.io/) | Free[^weld] | Web | Web
 [Wireframe.cc](https://wireframe.cc/) | Free[^wireframecc] | Web | Any
@@ -101,7 +102,6 @@ Name | Lowest price | Platform | Protype for
 [^wireframecc]: Public wireframes, single-page wireframes
 
 ## Resources
-* [16 Design Tools for Prototyping and Wireframing Article](https://www.sitepoint.com/tools-prototyping-wireframing-2/)
 * [The 18 best wireframe tools  Creative Bloq](http://www.creativebloq.com/wireframes/top-wireframing-tools-11121302)
 * [The top 10 prototyping tools of 2016  Creative Bloq](http://www.creativebloq.com/web-design/top-10-prototyping-tools-2016-21619216)
 * [The 7 Best Prototyping Tools for UI and UX Designers in 2016](https://blog.prototypr.io/the-7-best-prototyping-tools-for-ui-and-ux-designers-in-2016-701263ae65e8#.ekrtqfl12)
