@@ -18,6 +18,7 @@ Tool | Lowest price | Platform | Protype for
 [Atomic](https://atomic.io/) | $15/month | Web | Any
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
+[Framer](https://framerjs.com/) | $129 | Mac | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
 [Principle](http://principleformac.com/) | $129 | Mac | Any
 [Proto.io](https://proto.io/) | No | | 
