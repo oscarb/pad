@@ -21,6 +21,7 @@ Name | Lowest price | Platform | Protype for
 [Atomic](https://atomic.io/) | $15/month | Web | Any
 [Avocado](https://github.com/ideo/avocado/)  | Free | Mac | Mobile 
 [Axure](http://www.axure.com/) | $29/month[^axure] | Mac, Windows | Any
+[Balsamiq](https://balsamiq.com/) | $89 | Mac, Windows, Web | Any
 [Briefs](http://giveabrief.com/) | $9.99 | Mac | iOS
 [CanvasFlip](https://www.canvasflip.com/) | Free[^canvasflip] | Web | Any
 [Concept.ly](http://concept.ly/) | Free[^conceptly] | Web | Any
@@ -31,6 +32,7 @@ Name | Lowest price | Platform | Protype for
 [Fluid UI](https://www.fluidui.com/) | Free[^fluid] | Web | Any
 [Form](http://www.relativewave.com/form/) | Free | Mac | iOS
 [ForeUI](http://www.foreui.com/) | $150 | Mac, Windows | Any
+[Frame Box](http://framebox.org/) | $150 | Mac, Windows | Any
 [Framer](https://framerjs.com/) | $129 | Mac | Any
 [HotGloo](https://www.hotgloo.com/) | €15/month | Web | Any
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
@@ -38,8 +40,10 @@ Name | Lowest price | Platform | Protype for
 [Ionic Creator](http://ionic.io/products/creator)  | Free[^ionic] | Mac, Windows | Any
 [iRise](https://www.irise.com/features/prototyping/)  | $29/month | Web, Mac, Windows | Any
 [Justinmind](https://www.justinmind.com/) | $19/month | Mac, Windows | Any
-[Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any
+[Kony Visualizer](http://www.kony.com/products/visualizer) | Free | Mac, Windows | Any
+[Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any 
 [Marvel Apps](https://marvelapp.com/apps/)  | Free[^marvel] | iOS, Android | Mobile
+
 [Mockingbird](https://gomockingbird.com/home)  | $12/month | Web | Web
 [Mockplus](http://www.mockplus.com/) | Free | Windows, Mac, Android, iOS | Any
 [Moqups](https://moqups.com/) | Free[^moqups] | Windows, Mac, Android, iOS | Any
