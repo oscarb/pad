@@ -47,6 +47,7 @@ Name | Lowest price | Platform | Protype for
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any 
 [Marvel Apps](https://marvelapp.com/apps/)  | Free[^marvel] | iOS, Android | Mobile
 [Mockingbird](https://gomockingbird.com/home)  | Free | Web | Web
+[MockingBot](https://mockingbot.com/) | Free | Mac, Windows, Linux | Mobile
 [MockFlow](https://mockflow.com/apps/wireframepro/) | Free[^mockflow] | Web | Web
 [Mockplus](http://www.mockplus.com/) | Free | Windows, Mac, Android, iOS | Any
 [Mockups.me](http://mockups.me/) | $99/year | Mac, Windows | Any
