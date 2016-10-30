@@ -32,13 +32,14 @@ Name | Lowest price | Platform | Protype for
 [Flairbuilder](http://flairbuilder.com/)  | $99 | Mac, Windows | Any
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
-[Floid](https://floid.io/) | Free | Mac | Any
+[Floid](https://floid.io/) | Free | Mac[^floid] | Any
 [Fluid UI](https://www.fluidui.com/) | Free[^fluid] | Web | Any
 [Form](http://www.relativewave.com/form/) | Free | Mac | iOS
 [ForeUI](http://www.foreui.com/) | $150 | Mac, Windows | Any
 [Frame Box](http://framebox.org/) | Free | Web | Web
 [Framer](https://framerjs.com/) | $129 | Mac | Any
 [Froont](http://froont.com/)  | Free[^froont] | Web | Web
+[Fuse](https://www.fusetools.com)  Free | Mac, Windows | Mobile
 [HotGloo](https://www.hotgloo.com/) | €15/month | Web | Any
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
 [InVision](https://www.invisionapp.com/) | Free[^invision] | Web | Any
@@ -100,6 +101,7 @@ Name | Lowest price | Platform | Protype for
 [^canvasflip]: 1 prototype
 [^conceptly]: 2 projects
 [^figma]: Free through the end of 2016, always free for students.
+[^floid]: Plan to launch on Windows very soon
 [^fluid]: 1 project, 10 pages, No uploads, Wireframe library
 [^froont]: 1 project
 [^indigo]: Free Academic Licenses Available
