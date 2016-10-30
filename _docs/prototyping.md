@@ -24,6 +24,7 @@ Name | Lowest price | Platform | Protype for
 [Briefs](http://giveabrief.com/) | $9.99 | Mac | iOS
 [CanvasFlip](https://www.canvasflip.com/) | Free[^canvasflip] | Web | Any
 [Concept.ly](http://concept.ly/) | Free[^conceptly] | Web | Any
+[Demonstrate](https://itunes.apple.com/in/app/demonstrate-mobile-prototyping/id726285449) | Free | iOS | iPhone
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
 [Fluid UI](https://www.fluidui.com/) | Free[^fluid] | Web | Any
