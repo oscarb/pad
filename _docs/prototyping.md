@@ -38,6 +38,7 @@ Name | Lowest price | Platform | Protype for
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
 [InVision](https://www.invisionapp.com/) | Free[^invision] | Web | Any
 [Ionic Creator](http://ionic.io/products/creator)  | Free[^ionic] | Mac, Windows | Any
+[iPlotz](http://iplotz.com/)  | Free[^iplotz] | Mac, Windows | Any
 [iRise](https://www.irise.com/features/prototyping/)  | $29/month | Web, Mac, Windows | Any
 [Justinmind](https://www.justinmind.com/) | $19/month | Mac, Windows | Any
 [Kony Visualizer](http://www.kony.com/products/visualizer) | Free | Mac, Windows | Any
@@ -75,6 +76,7 @@ Name | Lowest price | Platform | Protype for
 [^indigo]: Free Academic Licenses Available
 [^invision]: 1 prototype
 [^ionic]: 1 prototype
+[^iplotz]: 1 project, 5 wireframe pages
 [^marvel]: 2 free projects
 [^moqups]: 1 project (limited to 300 objects), 5MB of storage
 [^neonto]: Free for non-commercial use
