@@ -17,7 +17,7 @@ Tool | Lowest price/month | Platform
 -----|------|---------
 [Atomic](https://atomic.io/) | $15 | Web
 [Flinto Lite](https://www.flinto.com/) | $20 | Web
-[Flinto for Mac](https://www.flinto.com/mac) |  | Mac
+[Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac
 [Proto.io](https://proto.io/) | No | 
 
 
