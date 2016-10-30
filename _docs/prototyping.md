@@ -96,6 +96,7 @@ Name | Lowest price | Platform | Protype for
 [WireframeSketcher](http://wireframesketcher.com/)  | $99 | Mac, Windows | Any
 [wireMagic](http://wuwacorp.com/wiremagic/)  | $19 | Illustrator | Any
 [Wires](http://quirktools.com/wires/) | Free | Web | Web
+[Zeplin](https://zeplin.io/) | Free[^zeplin] | Web | Web
 
 
 
@@ -130,6 +131,7 @@ Name | Lowest price | Platform | Protype for
 [^webflow]: Unlimited hosted projects, 2 hosted projects
 [^weld]: “Made in Weld” mark, Only .SE/NU domain, Connect own domain
 [^wireframecc]: Public wireframes, single-page wireframes
+[^zeplin]: 1 project
 
 ## Resources
 
