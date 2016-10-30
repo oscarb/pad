@@ -51,7 +51,7 @@ Name | Lowest price | Platform | Protype for
 [ProtoPie](https://www.protopie.io/) | Free | Mac[^protopie] | Mobile
 [ProtoShare](http://www.protoshare.com/) | $29/month |  Web | Any
 [Prototyping on Paper](https://popapp.in/) | Free[^pop] | Mac, Windows, Android | Mobile
-[Prott](https://prottapp.com/) | Free[^prott] | Mac, Windows, Android | Any
+[Prott](https://prottapp.com/) | Free[^prott] | Web, Mac, Windows | Any
 [UXPin](https://www.uxpin.com/) | $19/month | Web | Any
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 
