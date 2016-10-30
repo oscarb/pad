@@ -53,6 +53,7 @@ Name | Lowest price | Platform | Protype for
 [Prototyping on Paper](https://popapp.in/) | Free[^pop] | Mac, Windows, Android | Mobile
 [Prott](https://prottapp.com/) | Free[^prott] | Web, Mac, Windows | Any
 [Prott App](https://itunes.apple.com/app/id917618029) | Free | iOS | Mobile
+[UX App](https://www.ux-app.com/) | $5/month | Web | Any
 [UXPin](https://www.uxpin.com/) | $19/month | Web | Any
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 
