@@ -63,7 +63,8 @@ Name | Lowest price | Platform | Protype for
 [Moqups](https://moqups.com/) | Free[^moqups] | Windows, Mac, Android, iOS | Any
 [Neonto Studio](https://www.neonto.com/) | Free[^neonto] | Mac | Mobile
 [NinjaMock](http://ninjamock.com/) | Free[^ninjamock] | Web | Any
-[Notable Prototypes](http://zurb.com/notable/features/prototypes) | N/A | Web | Any
+[Notable Prototypes](http://zurb.com/notable/features/prototypes)  | N/A | Web | Any
+[Notism](https://www.notism.io/home) | Free[^notism] | Web | Any
 [OmniGraffle](https://www.omnigroup.com/omniGraffle/) | $99.99  | Mac | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
 [Pencil](http://pencil.evolus.vn/) | Free | Mac, Windows, Linux | Any 
@@ -116,6 +117,7 @@ Name | Lowest price | Platform | Protype for
 [^moqups]: 1 project (limited to 300 objects), 5MB of storage
 [^neonto]: Free for non-commercial use
 [^ninjamock]: Your projects will be public and have NinjaMock branding.
+[^notism]: Limited to 1 project
 [^pop]: 2 projects
 [^protoio]: 1 active project, 5 prototype screens, No additional reviewers, 10MB of storage
 [^protopie]: Windows version will be ready soon
