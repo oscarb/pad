@@ -21,6 +21,7 @@ Name | Lowest price | Platform | Protype for
 [Avocado](https://github.com/ideo/avocado/)  | Free | Mac | Mobile 
 [Axure](http://www.axure.com/) | $29/month[^axure] | Mac, Windows | Any
 [Balsamiq](https://balsamiq.com/) | $89 | Mac, Windows, Web | Any
+[Boords](https://boords.com/) | Free[^boords] | Web | Any
 [Briefs](http://giveabrief.com/) | $9.99 | Mac | iOS
 [CanvasFlip](https://www.canvasflip.com/) | Free[^canvasflip] | Web | Any
 [Concept.ly](http://concept.ly/) | Free[^conceptly] | Web | Any
@@ -93,6 +94,7 @@ Name | Lowest price | Platform | Protype for
 
 
 [^axure]: Free for students
+[^boords]: 1 project, 2 storyboards
 [^canvasflip]: 1 prototype
 [^conceptly]: 2 projects
 [^fluid]: 1 project, 10 pages, No uploads, Wireframe library
