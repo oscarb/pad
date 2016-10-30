@@ -16,6 +16,7 @@ published: true
 Tool | Lowest price | Platform | Protype for
 -----|------|---------
 [Atomic](https://atomic.io/) | $15/month | Web | Any
+[Briefs](http://giveabrief.com/) | $9.99 | Mac | iOS
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
 [Framer](https://framerjs.com/) | $129 | Mac | Any
