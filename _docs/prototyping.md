@@ -26,7 +26,7 @@ Tool | Lowest price | Platform | Protype for
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
 [Principle](http://principleformac.com/) | $129 | Mac | Any
-[Proto.io](https://proto.io/) | Free[^proto.io] | | 
+[Proto.io](https://proto.io/) | Free[^proto.io] | Web | Mobile
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 
 
