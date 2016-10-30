@@ -28,6 +28,7 @@ Tool | Lowest price | Platform | Protype for
 [Principle](http://principleformac.com/) | $129 | Mac | Any
 [Proto.io](https://proto.io/) | Free[^proto.io] | Web | Mobile
 [ProtoShare](http://www.protoshare.com/) | $29/month |  Web | Any
+[UXPin](https://www.uxpin.com/) | $19/month | |
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 
 
