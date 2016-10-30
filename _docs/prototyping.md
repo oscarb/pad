@@ -22,6 +22,7 @@ Tool | Lowest price | Platform | Protype for
 [Fluid UI](https://www.fluidui.com/) | Free[^fluid] | Web | Any
 [Form](http://www.relativewave.com/form/) | Free | Mac | iOS
 [Framer](https://framerjs.com/) | $129 | Mac | Any
+[HotGloo](https://www.hotgloo.com/) | €15/month | Web | Any
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
