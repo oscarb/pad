@@ -47,7 +47,7 @@ Name | Lowest price | Platform | Protype for
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any 
 [Marvel Apps](https://marvelapp.com/apps/)  | Free[^marvel] | iOS, Android | Mobile
 [Mockingbird](https://gomockingbird.com/home)  | Free | Web | Web
-[MockFlow](https://mockflow.com/apps/wireframepro/) | Free[^mockflow] | Web | Any
+[MockFlow](https://mockflow.com/apps/wireframepro/) | Free[^mockflow] | Web | Web
 [Mockplus](http://www.mockplus.com/) | Free | Windows, Mac, Android, iOS | Any
 [Moqups](https://moqups.com/) | Free[^moqups] | Windows, Mac, Android, iOS | Any
 [Neonto Studio](https://www.neonto.com/) | Free[^neonto] | Mac | Mobile
