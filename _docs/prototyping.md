@@ -46,6 +46,7 @@ Name | Lowest price | Platform | Protype for
 
 [^axure]: Free for students
 [^canvasflip]: 1 prototype
+[^conceptly]: 2 projects
 [^fluid]: 1 project, 10 pages, No uploads, Wireframe library
 [^indigo]: Free Academic Licenses Available
 [^invision]: 1 prototype
