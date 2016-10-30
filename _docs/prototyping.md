@@ -68,6 +68,7 @@ Name | Lowest price | Platform | Protype for
 [UXPin](https://www.uxpin.com/) | $19/month | Web | Any
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 [Weld](https://www.weld.io/) | Free[^weld] | Web | Web
+[Wireframe.cc ](https://wireframe.cc/) | Free[^wireframecc] | Web | Web
 [WireframeSketcher](http://wireframesketcher.com/)  | $99 | Mac, Windows | Any
 [Wires](http://quirktools.com/wires/) | Free | Web | Web
 
@@ -93,6 +94,7 @@ Name | Lowest price | Platform | Protype for
 [^prott]: 1 project
 [^webflow]: Unlimited hosted projects, 2 hosted projects
 [^weld]: “Made in Weld” mark, Only .SE/NU domain, Connect own domain
+[^wireframecc]: Public wireframes, single-page wireframes
 
 ## Resources
 * [Comparison of software prototyping tools - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_software_prototyping_tools)
