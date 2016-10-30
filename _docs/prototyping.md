@@ -31,6 +31,7 @@ Name | Lowest price | Platform | Protype for
 [HotGloo](https://www.hotgloo.com/) | €15/month | Web | Any
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
 [InVision](https://www.invisionapp.com/) | Free[^invision] | Web | Any
+[Ionic Creator](http://ionic.io/products/creator) | Free[^ionic] | Mac, Windows | Any
 [Justinmind](https://www.justinmind.com/) | $19/month | Mac, Windows | Any
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any
 [Notable Prototypes](http://zurb.com/notable/features/prototypes) | N/A | Web | Any
@@ -47,6 +48,7 @@ Name | Lowest price | Platform | Protype for
 [^fluid]: 1 project, 10 pages, No uploads, Wireframe library
 [^indigo]: Free Academic Licenses Available
 [^invision]: 1 prototype
+[^ionic]: 1 prototype
 [^marvel]: 2 free projects
 [^protoio]: 1 active project, 5 prototype screens, No additional reviewers, 10MB of storage
 [^webflow]: Unlimited hosted projects, 2 hosted projects
