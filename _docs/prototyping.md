@@ -32,6 +32,7 @@ Name | Lowest price | Platform | Protype for
 [Flairbuilder](http://flairbuilder.com/)  | $99 | Mac, Windows | Any
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
+[Floid](https://floid.io/) | Free | Mac | Any
 [Fluid UI](https://www.fluidui.com/) | Free[^fluid] | Web | Any
 [Form](http://www.relativewave.com/form/) | Free | Mac | iOS
 [ForeUI](http://www.foreui.com/) | $150 | Mac, Windows | Any
