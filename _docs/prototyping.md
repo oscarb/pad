@@ -23,6 +23,7 @@ Name | Lowest price | Platform | Protype for
 [Balsamiq](https://balsamiq.com/) | $89 | Mac, Windows, Web | Any
 [Boords](https://boords.com/) | Free[^boords] | Web | Any
 [Briefs](http://giveabrief.com/) | $9.99 | Mac | iOS
+[Cacoo](https://cacoo.com/) | Free[^cacoo] | Web | Any
 [CanvasFlip](https://www.canvasflip.com/) | Free[^canvasflip] | Web | Any
 [Concept.ly](http://concept.ly/) | Free[^conceptly] | Web | Any
 [Demonstrate](https://itunes.apple.com/in/app/demonstrate-mobile-prototyping/id726285449) | Free | iOS | iPhone
@@ -106,6 +107,7 @@ Name | Lowest price | Platform | Protype for
 
 [^axure]: Free for students
 [^boords]: 1 project, 2 storyboards
+[^cacoo]: 6 sheets
 [^canvasflip]: 1 prototype
 [^conceptly]: 2 projects
 [^figma]: Free through the end of 2016, always free for students.
