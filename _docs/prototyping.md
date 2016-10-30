@@ -42,6 +42,7 @@ Name | Lowest price | Platform | Protype for
 [iRise](https://www.irise.com/features/prototyping/)  | $29/month | Web, Mac, Windows | Any
 [Justinmind](https://www.justinmind.com/) | $19/month | Mac, Windows | Any
 [Kony Visualizer](http://www.kony.com/products/visualizer) | Free | Mac, Windows | Any
+[LayoutIt!](http://www.layoutit.com/)  | Free | Web | Web
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any 
 [Marvel Apps](https://marvelapp.com/apps/)  | Free[^marvel] | iOS, Android | Mobile
 
