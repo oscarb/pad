@@ -13,7 +13,7 @@ published: true
 
 
 
-Tool | Lowest price | Platform | Protype for
+Name | Lowest price | Platform | Protype for
 -----|------|---------
 [Atomic](https://atomic.io/) | $15/month | Web | Any
 [Briefs](http://giveabrief.com/) | $9.99 | Mac | iOS
