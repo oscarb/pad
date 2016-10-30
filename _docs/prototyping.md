@@ -25,6 +25,7 @@ Name | Lowest price | Platform | Protype for
 [Framer](https://framerjs.com/) | $129 | Mac | Any
 [HotGloo](https://www.hotgloo.com/) | €15/month | Web | Any
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
+[Justinmind](https://www.justinmind.com/) | $19/month | Mac, Windows | Any
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any
 [Notable Prototypes](http://zurb.com/notable/features/prototypes) | N/A | Web | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
