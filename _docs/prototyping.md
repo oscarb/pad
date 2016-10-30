@@ -51,6 +51,7 @@ Name | Lowest price | Platform | Protype for
 [ProtoPie](https://www.protopie.io/) | Free | Mac[^protopie] | Mobile
 [ProtoShare](http://www.protoshare.com/) | $29/month |  Web | Any
 [Prototyping on Paper](https://popapp.in/) | Free[^pop] | Mac, Windows, Android | Mobile
+[Prott](https://prottapp.com/) | Free[^prott] | Mac, Windows, Android | Any
 [UXPin](https://www.uxpin.com/) | $19/month | Web | Any
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 
@@ -68,6 +69,7 @@ Name | Lowest price | Platform | Protype for
 [^pop]: 2 projects
 [^protoio]: 1 active project, 5 prototype screens, No additional reviewers, 10MB of storage
 [^protopie]: Windows version will be ready soon
+[^prott]: 1 project
 [^webflow]: Unlimited hosted projects, 2 hosted projects
 
 ## Resources
