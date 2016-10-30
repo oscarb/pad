@@ -98,6 +98,7 @@ Name | Lowest price | Platform | Protype for
 [^boords]: 1 project, 2 storyboards
 [^canvasflip]: 1 prototype
 [^conceptly]: 2 projects
+[^figma]: Free through the end of 2016, always free for students.
 [^fluid]: 1 project, 10 pages, No uploads, Wireframe library
 [^froont]: 1 project
 [^indigo]: Free Academic Licenses Available
