@@ -50,7 +50,7 @@ Name | Lowest price | Platform | Protype for
 [MockFlow](https://mockflow.com/apps/wireframepro/) | Free[^mockflow] | Web | Web
 [Mockplus](http://www.mockplus.com/) | Free | Windows, Mac, Android, iOS | Any
 [Mockups.me](http://mockups.me/) | $99/year | Mac, Windows | Any
-[MockupScreens](http://www.mockupscreens.com/) | $99.95 | Mac, Windows | Any
+[MockupScreens](http://www.mockupscreens.com/) | $99.95 | Mac, Windows | Desktop
 [Moqups](https://moqups.com/) | Free[^moqups] | Windows, Mac, Android, iOS | Any
 [Neonto Studio](https://www.neonto.com/) | Free[^neonto] | Mac | Mobile
 [Notable Prototypes](http://zurb.com/notable/features/prototypes) | N/A | Web | Any
