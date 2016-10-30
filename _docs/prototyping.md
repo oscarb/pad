@@ -39,7 +39,7 @@ Name | Lowest price | Platform | Protype for
 [Frame Box](http://framebox.org/) | Free | Web | Web
 [Framer](https://framerjs.com/) | $129 | Mac | Any
 [Froont](http://froont.com/)  | Free[^froont] | Web | Web
-[Fuse](https://www.fusetools.com)  Free | Mac, Windows | Mobile
+[Fuse](https://www.fusetools.com)  | Free | Mac, Windows | Mobile
 [HotGloo](https://www.hotgloo.com/) | €15/month | Web | Any
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
 [InVision](https://www.invisionapp.com/) | Free[^invision] | Web | Any
@@ -131,7 +131,7 @@ Name | Lowest price | Platform | Protype for
 
 * [Prototyper Hunt | prototype software & prototyping resources](http://prototyperhunt.com/)
 
-
+* [The Ideal Design Workflow](https://blog.prototypr.io/the-ideal-design-workflow-2c200b8e337d#.xnrax2koo)
 * [A Full List of UX Prototyping Tools - Mockplus](http://www.mockplus.com/blog/post/121-a-full-list-of-ux-prototyping-tools)
 * [The top 10 prototyping tools of 2016  Creative Bloq](http://www.creativebloq.com/web-design/top-10-prototyping-tools-2016-21619216)
 * [The 18 best wireframe tools  Creative Bloq](http://www.creativebloq.com/wireframes/top-wireframing-tools-11121302)
