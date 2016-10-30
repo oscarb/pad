@@ -22,6 +22,7 @@ Name | Lowest price | Platform | Protype for
 [Avocado](https://github.com/ideo/avocado/)  | Free | Mac | Mobile 
 [Axure](http://www.axure.com/) | $29/month[^axure] | Mac, Windows | Any
 [Briefs](http://giveabrief.com/) | $9.99 | Mac | iOS
+[CanvasFlip](https://www.canvasflip.com/) | Free[^canvasflip] | Mac | iOS
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
 [Fluid UI](https://www.fluidui.com/) | Free[^fluid] | Web | Any
@@ -42,6 +43,7 @@ Name | Lowest price | Platform | Protype for
 
 
 [^axure]: Free for students
+[^canvasflip]: 1 prototype
 [^fluid]: 1 project, 10 pages, No uploads, Wireframe library
 [^indigo]: Free Academic Licenses Available
 [^invision]: 1 prototype
