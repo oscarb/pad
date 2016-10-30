@@ -53,6 +53,7 @@ Name | Lowest price | Platform | Protype for
 [Moqups](https://moqups.com/) | Free[^moqups] | Windows, Mac, Android, iOS | Any
 [Neonto Studio](https://www.neonto.com/) | Free[^neonto] | Mac | Mobile
 [Notable Prototypes](http://zurb.com/notable/features/prototypes) | N/A | Web | Any
+[OmniGraffle](https://www.omnigroup.com/omniGraffle/) | $99.99  | Mac | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
 [Pencil](http://pencil.evolus.vn/) | Free | Mac, Windows, Linux | Any 
 [Pidoco](https://pidoco.com/en) | $12/month | Web | Any 
@@ -99,7 +100,6 @@ Name | Lowest price | Platform | Protype for
 [^wireframecc]: Public wireframes, single-page wireframes
 
 ## Resources
-* [Comparison of software prototyping tools - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_software_prototyping_tools)
 * [16 Design Tools for Prototyping and Wireframing Article](https://www.sitepoint.com/tools-prototyping-wireframing-2/)
 * [The 18 best wireframe tools  Creative Bloq](http://www.creativebloq.com/wireframes/top-wireframing-tools-11121302)
 * [The top 10 prototyping tools of 2016  Creative Bloq](http://www.creativebloq.com/web-design/top-10-prototyping-tools-2016-21619216)
@@ -107,6 +107,7 @@ Name | Lowest price | Platform | Protype for
 * [A Full List of UX Prototyping Tools - Mockplus](http://www.mockplus.com/blog/post/121-a-full-list-of-ux-prototyping-tools)
 
 
+* [Comparison of software prototyping tools - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_software_prototyping_tools)
 * [Prototyping Tools](http://www.prototypingtools.co/)
 * [Prototyping Tools Cooper](http://www.cooper.com/prototyping-tools)
 
