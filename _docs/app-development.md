@@ -11,6 +11,6 @@ published: true
 
 ## Prototyping tools
 
-See [Prototyping tools](/protoyping)
+See [Prototyping tools](/prototyping)
 
 
