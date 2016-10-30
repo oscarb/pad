@@ -59,7 +59,7 @@ Name | Lowest price | Platform | Protype for
 [^invision]: 1 prototype
 [^ionic]: 1 prototype
 [^marvel]: 2 free projects
-[^moqups]: 1 project (limited to 300 objects), 5MB of storag
+[^moqups]: 1 project (limited to 300 objects), 5MB of storage
 [^protoio]: 1 active project, 5 prototype screens, No additional reviewers, 10MB of storage
 [^webflow]: Unlimited hosted projects, 2 hosted projects
 
