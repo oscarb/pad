@@ -54,6 +54,7 @@ Name | Lowest price | Platform | Protype for
 [MockupScreens](http://www.mockupscreens.com/) | $99.95 | Mac, Windows | Desktop
 [Moqups](https://moqups.com/) | Free[^moqups] | Windows, Mac, Android, iOS | Any
 [Neonto Studio](https://www.neonto.com/) | Free[^neonto] | Mac | Mobile
+[NinjaMock](http://ninjamock.com/) | Free[^ninjamock] | Web | Any
 [Notable Prototypes](http://zurb.com/notable/features/prototypes) | N/A | Web | Any
 [OmniGraffle](https://www.omnigroup.com/omniGraffle/) | $99.99  | Mac | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
