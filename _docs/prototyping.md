@@ -21,11 +21,11 @@ Tool | Lowest price | Platform | Protype for
 [Principle](http://principleformac.com/) | $129 | Mac | Any
 
 [Proto.io](https://proto.io/) | No | | 
-[Webflow](https://webflow.com/) | Free[^1] | Web | Any
+[Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 
 
 
-[^1]: unlimited hosted projects, 2 hosted projects
+[^webflow]: unlimited hosted projects, 2 hosted projects
 
 ## Resources
 * [Comparison of software prototyping tools - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_software_prototyping_tools)
