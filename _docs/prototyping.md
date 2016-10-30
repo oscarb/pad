@@ -16,6 +16,7 @@ published: true
 Name | Lowest price | Platform | Protype for
 -----|------|---------
 [Atomic](https://atomic.io/) | $15/month | Web | Any
+[Axure](http://www.axure.com/) | $29/month[^axure] | |
 [Briefs](http://giveabrief.com/) | $9.99 | Mac | iOS
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
@@ -33,6 +34,7 @@ Name | Lowest price | Platform | Protype for
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 
 
+[^axure]: Free for students
 [^fluid]: 1 project, 10 pages, No uploads, Wireframe library
 [^indigo]: Free Academic Licenses Available
 [^marvel]: 2 free projects
