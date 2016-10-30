@@ -37,6 +37,7 @@ Name | Lowest price | Platform | Protype for
 [iRise](https://www.irise.com/features/prototyping/)  | $29/month | Web, Mac, Windows | Any
 [Justinmind](https://www.justinmind.com/) | $19/month | Mac, Windows | Any
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any
+[Marvel Apps](https://marvelapp.com/apps/)  | Free[^marvel] | iOS, Android | Mobile
 [Notable Prototypes](http://zurb.com/notable/features/prototypes) | N/A | Web | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
 [Pencil](http://pencil.evolus.vn/) | Free | Mac, Windows, Linux | Any 
