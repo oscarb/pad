@@ -71,7 +71,7 @@ Name | Lowest price | Platform | Protype for
 [Prototyping on Paper](https://popapp.in/) | Free[^pop] | Mac, Windows, Android | Mobile
 [Prott](https://prottapp.com/) | Free[^prott] | Web, Mac, Windows | Any
 [Prott App](https://itunes.apple.com/app/id917618029) | Free | iOS | Mobile
-[Savah](http://www.savahapp.com/)  | N/A | Web | Any
+[Savah](http://www.savahapp.com/)  | Free[^savah] | Web | Any
 [Silver Flows](http://silverflows.com/) | Free | Sketch | Mobile
 [SnapUp Beta](http://quickfocus.com/)  | Free | Web | Any
 [Symu.co](https://symu.co/) | Free[^symu] | Web | Web
@@ -109,6 +109,7 @@ Name | Lowest price | Platform | Protype for
 [^protoio]: 1 active project, 5 prototype screens, No additional reviewers, 10MB of storage
 [^protopie]: Windows version will be ready soon
 [^prott]: 1 project
+[^savah]: 1 project
 [^symu]: 5 screens, 50MB storage
 [^webflow]: Unlimited hosted projects, 2 hosted projects
 [^weld]: “Made in Weld” mark, Only .SE/NU domain, Connect own domain
