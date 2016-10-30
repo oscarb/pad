@@ -13,10 +13,12 @@ published: true
 
 
 
-Tool | Free
------|-----
-[Atomic](https://atomic.io/) | No
-[Proto.io](https://proto.io/) | No
+Tool | Lowest price/month | Platform 
+-----|------|---------
+[Atomic](https://atomic.io/) | $15 | Web
+[Flinto Lite](https://www.flinto.com/) | $20 | Web
+[Flinto for Mac](https://www.flinto.com/mac) |  | Mac
+[Proto.io](https://proto.io/) | No | 
 
 
 
