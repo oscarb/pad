@@ -96,7 +96,7 @@ Name | Lowest price | Platform | Protype for
 [WireframeSketcher](http://wireframesketcher.com/)  | $99 | Mac, Windows | Any
 [wireMagic](http://wuwacorp.com/wiremagic/)  | $19 | Illustrator | Any
 [Wires](http://quirktools.com/wires/) | Free | Web | Web
-[Zeplin](https://zeplin.io/) | Free[^zeplin] | Web | Web
+[Zeplin](https://zeplin.io/) | Free[^zeplin] | Web | Mobile
 
 
 
