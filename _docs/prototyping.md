@@ -27,7 +27,7 @@ Tool | Lowest price | Platform | Protype for
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
 [Principle](http://principleformac.com/) | $129 | Mac | Any
-[Proto.io](https://proto.io/) | Free[^proto.io] | Web | Mobile
+[Proto.io](https://proto.io/) | Free[^protoio] | Web | Mobile
 [ProtoShare](http://www.protoshare.com/) | $29/month |  Web | Any
 [UXPin](https://www.uxpin.com/) | $19/month | Web | Any
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
@@ -36,7 +36,7 @@ Tool | Lowest price | Platform | Protype for
 [^fluid]: 1 project, 10 pages, No uploads, Wireframe library
 [^indigo]: Free Academic Licenses Available
 [^marvel]: 2 free projects
-[^proto.io]: 1 active project, 5 prototype screens, No additional reviewers, 10MB of storage
+[^protoio]: 1 active project, 5 prototype screens, No additional reviewers, 10MB of storage
 [^webflow]: Unlimited hosted projects, 2 hosted projects
 
 ## Resources
