@@ -46,7 +46,8 @@ Name | Lowest price | Platform | Protype for
 [Lumzy](http://www.lumzy.com/) | Free | Web | Web
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any 
 [Marvel Apps](https://marvelapp.com/apps/)  | Free[^marvel] | iOS, Android | Mobile
-[Mockingbird](https://gomockingbird.com/home)  | $12/month | Web | Web
+[Mockingbird](https://gomockingbird.com/home)  | Free | Web | Web
+[MockFlow](https://mockflow.com/apps/wireframepro/) | Free[^mockflow] | Web | Web
 [Mockplus](http://www.mockplus.com/) | Free | Windows, Mac, Android, iOS | Any
 [Moqups](https://moqups.com/) | Free[^moqups] | Windows, Mac, Android, iOS | Any
 [Neonto Studio](https://www.neonto.com/) | Free[^neonto] | Mac | Mobile
@@ -79,6 +80,7 @@ Name | Lowest price | Platform | Protype for
 [^ionic]: 1 prototype
 [^iplotz]: 1 project, 5 wireframe pages
 [^marvel]: 2 free projects
+[^mockflow]:  1 Project in each App
 [^moqups]: 1 project (limited to 300 objects), 5MB of storage
 [^neonto]: Free for non-commercial use
 [^pop]: 2 projects
