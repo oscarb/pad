@@ -27,6 +27,8 @@ Tool | Lowest price | Platform | Protype for
 [Webflow](https://webflow.com/) | Free[^webflow] | Web | Any
 
 
+
+[^indigo]: Free Academic Licenses Available
 [^marvel]: 2 free projects
 [^webflow]: Unlimited hosted projects, 2 hosted projects
 
