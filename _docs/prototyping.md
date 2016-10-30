@@ -19,7 +19,7 @@ Tool | Lowest price | Platform | Protype for
 [Briefs](http://giveabrief.com/) | $9.99 | Mac | iOS
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
-[Fluid UI](https://www.fluidui.com/) | Free[^fluid] | | Any
+[Fluid UI](https://www.fluidui.com/) | Free[^fluid] | Web | Any
 [Framer](https://framerjs.com/) | $129 | Mac | Any
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any
