@@ -43,9 +43,9 @@ Name | Lowest price | Platform | Protype for
 [Justinmind](https://www.justinmind.com/) | $19/month | Mac, Windows | Any
 [Kony Visualizer](http://www.kony.com/products/visualizer) | Free | Mac, Windows | Any
 [LayoutIt!](http://www.layoutit.com/)  | Free | Web | Web
+[Lumzy](http://www.lumzy.com/) | Free | Web | Web
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any 
 [Marvel Apps](https://marvelapp.com/apps/)  | Free[^marvel] | iOS, Android | Mobile
-
 [Mockingbird](https://gomockingbird.com/home)  | $12/month | Web | Web
 [Mockplus](http://www.mockplus.com/) | Free | Windows, Mac, Android, iOS | Any
 [Moqups](https://moqups.com/) | Free[^moqups] | Windows, Mac, Android, iOS | Any
