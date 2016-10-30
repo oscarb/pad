@@ -26,6 +26,7 @@ Name | Lowest price | Platform | Protype for
 [CanvasFlip](https://www.canvasflip.com/) | Free[^canvasflip] | Web | Any
 [Concept.ly](http://concept.ly/) | Free[^conceptly] | Web | Any
 [Demonstrate](https://itunes.apple.com/in/app/demonstrate-mobile-prototyping/id726285449) | Free | iOS | iPhone
+[Fast Mockup](https://fast-mockup.com/) | Free | Windows | Software
 [Flairbuilder](http://flairbuilder.com/)  | $99 | Mac, Windows | Any
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
