@@ -40,6 +40,7 @@ Name | Lowest price | Platform | Protype for
 [Marvel Apps](https://marvelapp.com/apps/)  | Free[^marvel] | iOS, Android | Mobile
 [Mockingbird](https://gomockingbird.com/home)  | $12/month | Web | Web
 [Mockplus](http://www.mockplus.com/) | Free | Windows, Mac, Android, iOS | Any
+[Moqups](https://moqups.com/) | Free[^moqups] | Windows, Mac, Android, iOS | Any
 [Notable Prototypes](http://zurb.com/notable/features/prototypes) | N/A | Web | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
 [Pencil](http://pencil.evolus.vn/) | Free | Mac, Windows, Linux | Any 
@@ -58,6 +59,7 @@ Name | Lowest price | Platform | Protype for
 [^invision]: 1 prototype
 [^ionic]: 1 prototype
 [^marvel]: 2 free projects
+[^moqups]: 1 project (limited to 300 objects), 5MB of storag
 [^protoio]: 1 active project, 5 prototype screens, No additional reviewers, 10MB of storage
 [^webflow]: Unlimited hosted projects, 2 hosted projects
 
