@@ -19,6 +19,7 @@ Tool | Lowest price | Platform | Protype for
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
 [Framer](https://framerjs.com/) | $129 | Mac | Any
+[Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
 [Principle](http://principleformac.com/) | $129 | Mac | Any
