@@ -70,7 +70,9 @@ Name | Lowest price | Platform | Protype for
 [Weld](https://www.weld.io/) | Free[^weld] | Web | Web
 [Wireframe.cc](https://wireframe.cc/) | Free[^wireframecc] | Web | Any
 [WireframeSketcher](http://wireframesketcher.com/)  | $99 | Mac, Windows | Any
+[wireMagic](http://wuwacorp.com/wiremagic/)  | $19 | Illustrator | Any
 [Wires](http://quirktools.com/wires/) | Free | Web | Web
+
 
 
 **Last updated:** 2016-10-30
