@@ -56,6 +56,7 @@ Name | Lowest price | Platform | Protype for
 [Origami](https://facebook.github.io/origami/) | Free | Mac | Any 
 [Pencil](http://pencil.evolus.vn/) | Free | Mac, Windows, Linux | Any 
 [Pidoco](https://pidoco.com/en) | $12/month | Web | Any 
+[Precursor](https://precursorapp.com/)  | Free | Web | Any 
 [Principle](http://principleformac.com/) | $129 | Mac | Any
 [Proto.io](https://proto.io/) | Free[^protoio] | Web | Mobile
 [ProtoPie](https://www.protopie.io/) | Free | Mac[^protopie] | Mobile
