@@ -25,7 +25,7 @@ Tool | Lowest price | Platform | Protype for
 
 
 
-[^webflow]: unlimited hosted projects, 2 hosted projects
+[^webflow]: Unlimited hosted projects, 2 hosted projects
 
 ## Resources
 * [Comparison of software prototyping tools - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_software_prototyping_tools)
