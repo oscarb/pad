@@ -13,14 +13,19 @@ published: true
 
 
 
-Tool | Lowest price/month | Platform 
+Tool | Lowest price | Platform | Protype for
 -----|------|---------
-[Atomic](https://atomic.io/) | $15 | Web
-[Flinto Lite](https://www.flinto.com/) | $20 | Web
-[Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac
-[Proto.io](https://proto.io/) | No | 
+[Atomic](https://atomic.io/) | $15/month | Web | Any
+[Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
+[Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
+[Principle](http://principleformac.com/) | $129 | Mac | Any
+
+[Proto.io](https://proto.io/) | No | | 
+[Webflow](https://webflow.com/) | Free[^1] | Web | Any
 
 
+
+[^1]: unlimited hosted projects, 2 hosted projects
 
 ## Resources
 * [Comparison of software prototyping tools - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_software_prototyping_tools)
