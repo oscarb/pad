@@ -23,6 +23,7 @@ Name | Lowest price | Platform | Protype for
 [Axure](http://www.axure.com/) | $29/month[^axure] | Mac, Windows | Any
 [Briefs](http://giveabrief.com/) | $9.99 | Mac | iOS
 [CanvasFlip](https://www.canvasflip.com/) | Free[^canvasflip] | Web | Any
+[Concept.ly](http://concept.ly/) | Free[^conceptly] | Web | Any
 [Flinto Lite](https://www.flinto.com/) | $20/month | Web | Mobile
 [Flinto for Mac](https://www.flinto.com/mac) | $99 | Mac | iOS
 [Fluid UI](https://www.fluidui.com/) | Free[^fluid] | Web | Any
