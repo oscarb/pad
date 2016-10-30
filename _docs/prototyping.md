@@ -79,6 +79,7 @@ Name | Lowest price | Platform | Protype for
 [Prott App](https://itunes.apple.com/app/id917618029) | Free | iOS | Mobile
 [Savah](http://www.savahapp.com/)  | Free[^savah] | Web | Any
 [Silver Flows](http://silverflows.com/) | Free | Sketch | Mobile
+[snapp](https://snapp.click/?ref=prototyperhunt)  | Free[^snapp] | Sketch | Mobile
 [SnapUp Beta](http://quickfocus.com/)  | Free | Web | Any
 [Symu.co](https://symu.co/) | Free[^symu] | Web | Web
 [UX App](https://www.ux-app.com/) | $5/month | Web | Any
@@ -120,6 +121,7 @@ Name | Lowest price | Platform | Protype for
 [^protopie]: Windows version will be ready soon
 [^prott]: 1 project
 [^savah]: 1 project
+[^snapp]: Up to 3 free apps
 [^symu]: 5 screens, 50MB storage
 [^webflow]: Unlimited hosted projects, 2 hosted projects
 [^weld]: “Made in Weld” mark, Only .SE/NU domain, Connect own domain
