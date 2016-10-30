@@ -79,7 +79,7 @@ Name | Lowest price | Platform | Protype for
 [Prott App](https://itunes.apple.com/app/id917618029) | Free | iOS | Mobile
 [Savah](http://www.savahapp.com/)  | Free[^savah] | Web | Any
 [Silver Flows](http://silverflows.com/) | Free | Sketch | Mobile
-[snapp](https://snapp.click/?ref=prototyperhunt)  | Free[^snapp] | Sketch | Mobile
+[snapp](https://snapp.click/)  | Free[^snapp] | Web | Mobile
 [SnapUp Beta](http://quickfocus.com/)  | Free | Web | Any
 [Symu.co](https://symu.co/) | Free[^symu] | Web | Web
 [UX App](https://www.ux-app.com/) | $5/month | Web | Any
