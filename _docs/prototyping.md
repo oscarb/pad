@@ -97,6 +97,7 @@ Name | Lowest price | Platform | Protype for
 [^mockflow]:  1 Project in each App
 [^moqups]: 1 project (limited to 300 objects), 5MB of storage
 [^neonto]: Free for non-commercial use
+[^ninjamock]: Your projects will be public and have NinjaMock branding.
 [^pop]: 2 projects
 [^protoio]: 1 active project, 5 prototype screens, No additional reviewers, 10MB of storage
 [^protopie]: Windows version will be ready soon
