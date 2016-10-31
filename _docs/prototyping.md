@@ -55,7 +55,7 @@ Name | Lowest price | Platform | Protype for
 [Lumzy](http://www.lumzy.com/) | Free | Web | Web
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any 
 [Marvel Apps](https://marvelapp.com/apps/)  | Free[^marvel] | iOS, Android | Mobile
-[Mockingbird](https://gomockingbird.com/home)  | Free | Web | Web
+[Mockingbird](https://gomockingbird.com/home)  | $12/month | Web | Web
 [MockingBot](https://mockingbot.com/) | Free | Mac, Windows, Linux | Mobile
 [MockFlow](https://mockflow.com/apps/wireframepro/) | Free[^mockflow] | Web | Web
 [Mockplus](http://www.mockplus.com/) | Free | Windows, Mac, Android, iOS | Any
