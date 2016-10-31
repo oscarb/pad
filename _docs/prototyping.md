@@ -56,7 +56,7 @@ Name | Lowest price | Platform | Protype for
 [Marvel](https://marvelapp.com/) | Free[^marvel] | Web | Any 
 [Marvel Apps](https://marvelapp.com/apps/)  | Free[^marvel] | iOS, Android | Mobile
 [Mockingbird](https://gomockingbird.com/home)  | $12/month | Web | Web
-[MockingBot](https://mockingbot.com/) | Free | Mac, Windows, Linux | Mobile
+[MockingBot](https://mockingbot.com/) | Free[^mockingbot] | Mac, Windows, Linux | Mobile
 [MockFlow](https://mockflow.com/apps/wireframepro/) | Free[^mockflow] | Web | Web
 [Mockplus](http://www.mockplus.com/) | Free | Windows, Mac, Android, iOS | Any
 [Mockup.io](https://mockup.io/)  | Free | Web | Mobile
@@ -120,6 +120,7 @@ Name | Lowest price | Platform | Protype for
 [^iplotz]: 1 project, 5 wireframe pages
 [^marvel]: 2 free projects
 [^mockflow]:  1 Project in each App
+[^mockingbot]: No export, 100 MB image storage
 [^moqups]: 1 project (limited to 300 objects), 5MB of storage
 [^neonto]: Free for non-commercial use
 [^ninjamock]: Your projects will be public and have NinjaMock branding.
