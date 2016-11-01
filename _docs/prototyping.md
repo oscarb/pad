@@ -16,6 +16,7 @@ published: true
 Name | Lowest price | Platform | Protype for
 -----|--------------|----------|------------
 [Antetype](http://www.antetype.com/) | $189.99 | Mac | Any
+[Armature](https://getarmature.com/) | $24 | Illustrator | Any
 [AppCooker](http://www.appcooker.com/) | $29.99 | Mac | iOS 
 [Atomic](https://atomic.io/) | $15/month | Web | Any
 [Avocado](https://github.com/ideo/avocado/)  | Free | Mac | Mobile 
