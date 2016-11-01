@@ -90,6 +90,7 @@ Name | Lowest price | Platform | Protype for
 [snapp](https://snapp.click/)  | Free[^snapp] | Web | Mobile
 [SnapUp Beta](http://quickfocus.com/)  | Free | Web | Any
 [Symu.co](https://symu.co/) | Free[^symu] | Web | Web
+[TapCase ](http://tapcaseapp.com/) | Free | iOS | iOS
 [UX App](https://www.ux-app.com/) | $5/month | Web | Any
 [UXPin](https://www.uxpin.com/) | $19/month | Web | Any
 [Vectr](https://vectr.com/) | Free | Mac, Windows, Web | Any
