@@ -41,6 +41,7 @@ Name | Lowest price | Platform | Protype for
 [Framer](https://framerjs.com/) | $129 | Mac | Any
 [Froont](http://froont.com/)  | Free[^froont] | Web | Web
 [Fuse](https://www.fusetools.com)  | Free | Mac, Windows | Mobile
+[Gliffy](https://www.gliffy.com/) | Free[^gliffy] | Web | Any
 [HotGloo](https://www.hotgloo.com/) | €15/month | Web | Any
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
 [InVision](https://www.invisionapp.com/) | Free[^invision] | Web | Any
@@ -115,6 +116,7 @@ Name | Lowest price | Platform | Protype for
 [^floid]: Plan to launch on Windows very soon
 [^fluid]: 1 project, 10 pages, No uploads, Wireframe library
 [^froont]: 1 project
+[^gliffy]: 5 public diagram limit
 [^indigo]: Free Academic Licenses Available
 [^invision]: 1 prototype
 [^ionic]: 1 prototype
