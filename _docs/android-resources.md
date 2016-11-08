@@ -72,3 +72,5 @@ The best Android resources from all over the web, gathered.
 * [Android Data Binding](http://mlsdev.com/en/blog/57-android-data-binding)
 
 
+## Material Design
+* Eight don’ts for your Material Design app ([blog.prototypr.io](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329#.hlheokq4p))
