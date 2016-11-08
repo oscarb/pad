@@ -86,7 +86,7 @@ Name | Lowest price | Platform | Protype for
 [Prott](https://prottapp.com/) | Free[^prott] | Web, Mac, Windows | Any
 [Prott App](https://itunes.apple.com/app/id917618029) | Free | iOS | Mobile
 [Red Pen](https://redpen.io/)  | $20/month | Web | Any
-[Savah](http://www.savahapp.com/)  | Free[^savah] | Web | Any
+[Savah](http://www.savahapp.com/)  | Free[^savah] | Web | iPhone/iPad, Web
 [Silver Flows](http://silverflows.com/) | Free | Sketch | Mobile
 [snapp](https://snapp.click/)  | Free[^snapp] | Web | Mobile
 [SnapUp Beta](http://quickfocus.com/)  | Free | Web | Any
