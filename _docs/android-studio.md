@@ -27,6 +27,8 @@ published: true
 
 ## Virtual devices
 
+Use x86 images instead of x86_64, for faster boot-up of emulator
+
 * Nexus 5 API 24
   * Android 7.0 x86_64
 
@@ -48,6 +50,7 @@ File > Import settings...
 * Auto import Java: Add unambiguous imports on the fly
 * Optmize imports on the fly
 * Prefer XML editor
+* Remove file header comments _Created by Oscar on..._ 
 
 Setup horizontal scroll wheel to <kbd>Alt</kbd> + <kbd>←</kbd>/<kbd></kbd>
 
