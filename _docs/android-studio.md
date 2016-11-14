@@ -121,7 +121,7 @@ org.gradle.configureondemand=true
 * Android Studio Tips and Tricks ([Michael Evans](http://michaelevans.org/blog/2016/01/06/android-studio-tips-and-tricks/))
 * Tips & Tricks For App Development Using Android Studio ([TechNetExperts](http://www.technetexperts.com/mobile/tips-tricks-for-app-development-using-android-studio/))
 * [Things You May Not Know: Tools Attributes — Randomly Typing](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes)
-* [50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer – Medium](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.saghh212l)
+* 50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer – Medium ([medium.com](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.saghh212l))
 
 
 
