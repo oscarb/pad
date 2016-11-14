@@ -41,6 +41,11 @@ File > Import settings...
 
 
 
+## Code style
+
+* [Google](https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml)
+* [Square](https://github.com/square/java-code-styles)
+
 ## Settings
 
 * Mouse: Change font size (zoom) with Ctrl + Mouse Wheel
