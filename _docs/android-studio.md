@@ -79,6 +79,7 @@ Abbreviation: Intnt
 Description: Create an intent that starts an Activity
 
 Template text: 
+
 ```
 android.content.Intent intent = new Intent(this, $className$.class);
 intent.putExtra($CURSOR$);
