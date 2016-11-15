@@ -76,9 +76,9 @@ Shortcut | Action
 ### Create a new intent
 
 Abbreviation
-: Intnt
+ : Intnt
 Description
-: Create an intent that starts an Activity
+ : Create an intent that starts an Activity
 
 Template text: 
 
