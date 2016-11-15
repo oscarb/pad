@@ -71,6 +71,28 @@ Shortcut | Action
 <kbd>Alt</kbd> + <kbd>'</kbd> | VCS popup
 
 
+## Live Templates
+
+### Create a new intent
+
+Abbreviation: Intnt
+Description: Create an intent that starts an Activity
+
+Template text: 
+```
+android.content.Intent intent = new Intent(this, $className$.class);
+intent.putExtra($CURSOR$);
+startActivity(intent);
+```
+
+Reformat according to style
+
+Template variables
+
+Name | Expression | Default value | Skip if defined 
+-----|------------|---------------|-----------------
+className | classNameComplete() | | 
+CURSOR | | | 
 
 
 ## Tips
