@@ -56,6 +56,7 @@ File > Import settings...
 * Optmize imports on the fly
 * Prefer XML editor
 * Remove file header comments _Created by Oscar on..._ 
+* Editor > General > Code Completion > Autopopup documentation in (ms)
 
 Setup horizontal scroll wheel to <kbd>Alt</kbd> + <kbd>←</kbd>/<kbd></kbd>
 
