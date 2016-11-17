@@ -1,9 +1,14 @@
 ---
 title: Development Resources
-tags: [development, resources]
+tags:
+  - development
+  - resources
+published: true
 ---
 
 # Development Resources
+
+Get started with Node.js and web development - hypercev
 
 * [LEARN SOMETHING NEW](http://learnsomethingnew.co/)
 * The Best Way to Learn CSS ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906){:.css})
