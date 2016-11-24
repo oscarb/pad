@@ -110,6 +110,7 @@ Corners: 12px
 ## Resources
 
 * Material Palette
+* [Icons - Style - Material design guidelines](https://material.google.com/style/icons.html#icons-product-icons)
 
 ### Tutorials
 
