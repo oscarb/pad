@@ -65,13 +65,13 @@ Apply tint and shade
 	* Type: Linear 
     * Angle: -45°
     * Left slider
-    	* Opacity: 20% (10% according to Google)
+    	* Opacity: 20% (10% if background is Grey 100--Grey 300)
         * Shade color
-    * Midpoint location: 50% (33% according to Google)
+    * Midpoint location: 50% 
     * Right slider
     	* Opacity: 0%
         * Shade color
-    * Color: white
+    * Color: 
 10. Copy background layer, lock background layer, select shape layer and paste in front
 11. Crop long shadow object and background object
 12. Delete bottom path from the group that was created
