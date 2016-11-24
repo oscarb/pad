@@ -66,8 +66,8 @@ Apply tint and shade
 	* Mode: Multiply
     * Opacity: 20%
     * X Offset: 0 px
-    * Y Offset: 4px
-    * Blur: 4 px
+    * Y Offset: ~~4px~~ 1px
+    * Blur: ~~4px~~ 1px
     * Color: shade color
    
 ### Shade
