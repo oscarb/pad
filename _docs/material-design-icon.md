@@ -86,14 +86,22 @@ Apply tint and shade
 #### Alternative 2
 
 Apply shade as in 
-    
+   
+### Finish
 
-        
-
-
-### Shade
-Apply tint and shade if material is paper, no tint/shade on color
-
+1. Copy background object to finish layer
+2. Apply gradient
+   * Type: Radial
+   * Angle: 45
+   * Left slider
+     * Color: white
+     * Opacity: 10%
+   * Midpoint slider location: 33%
+   * Right slider
+     * Color: white
+     * Opacity: 0%
+3. Gradient tool: drag from top left corner of grid to bottom right of background
+4. 
 
 
 ## Specifications
