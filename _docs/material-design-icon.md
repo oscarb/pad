@@ -78,9 +78,9 @@ Apply tint and shade
 2. Change drop shadow on top object to:
 	* Mode: Multiply
     * Opacity: 20%
-    * X Offset: 0 px
-    * Y Offset: 1 px
-    * Blur: 0
+    * X Offset: 4 px
+    * Y Offset: 4 px
+    * Blur: 4 px
     * Color: shade color
 
 #### Alternative 2
