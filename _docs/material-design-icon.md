@@ -101,7 +101,6 @@ Apply shade as in
      * Color: white
      * Opacity: 0%
 3. Gradient tool: drag from top left corner of grid to bottom right of background
-4. 
 
 
 ## Specifications
