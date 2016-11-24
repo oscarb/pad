@@ -65,9 +65,9 @@ Apply tint and shade
 1. Effect > Stylize > Drop shadow
 	* Mode: Multiply
     * Opacity: 20%
-    * X Offset: 0 px
-    * Y Offset: ~~4px~~ 1px
-    * Blur: ~~4px~~ 1px
+    * X Offset: 4 px
+    * Y Offset: 4 px 
+    * Blur: 4px
     * Color: shade color
    
 ### Shade
@@ -78,10 +78,11 @@ Apply tint and shade
 2. Change drop shadow on top object to:
 	* Mode: Multiply
     * Opacity: 20%
-    * X Offset: 4 px
-    * Y Offset: 4 px
-    * Blur: 4 px
+    * X Offset: 0 px
+    * Y Offset: 1 px
+    * Blur: 0 px
     * Color: shade color
+3. Shade should be on top of drop shadow
 
 #### Alternative 2
 
