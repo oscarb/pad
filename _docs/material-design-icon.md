@@ -25,6 +25,24 @@ tags: [android, material design]
 
 Apply tint and shade
 
+### Drop shadow
+
+1. Copy background object, paste in front twice
+2. Apply drop shadow to front object
+	* Mode: Multiply 
+    * Opacity: 12%
+    * X Offset: 0 px
+    * Y Offsset: 0 px
+    * Blur: 2 px
+    * Color: Black #000000
+3. Apply drop shadow to bottom object:
+	* Mode: Multiply 
+    * Opacity: 24%
+    * X Offset: 0 px
+    * Y Offsset: 4 px
+    * Blur: 2 px
+    * Color: Black #000000
+
 ## Shapes
 
 ### Tint
