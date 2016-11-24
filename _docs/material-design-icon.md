@@ -128,6 +128,11 @@ Apply shade as in
 
 Corners: 12px
 
+## Tips
+
+* Use Grey 200+ as brighter colors will make tinted edges invisible
+* Use Grey 800- as darker colors will make shaded edges invisible
+
 ## Resources
 
 * Material Palette
