@@ -32,7 +32,6 @@ tags: [android, material design]
 4. Minus Front with the top and middle object selected
 5. Change color to white, transparency to 20% as per guidelines
 
-
 ### Long shadow
 1. Copy object
 2. Paste in Front twice
