@@ -113,8 +113,8 @@ Corners: 12px
 * Material Palette
 * [Icons - Style - Material design guidelines](https://material.google.com/style/icons.html#icons-product-icons)
 
-### Tutorials
+### Guides
 
 * [Material Design Icon Tutorial - YouTube](https://www.youtube.com/watch?v=ZoRE9bv1mcc)
-
+* [What Google missed in their guidelines for Material Design iconography](https://stories.uplabs.com/what-google-missed-in-their-guidelines-for-material-design-iconography-daf9f88000ec#.dnifjeudf)
 
