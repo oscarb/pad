@@ -58,8 +58,8 @@ Apply tint and shade
 3. Move top object diagonally down and right (45 degrees) out of background shape
 4. Set blend options to specified distance 1 px
 5. Select moved object and top object
-6. Object > Blend > Make
-7. Expand objects
+6. Object > Blend > Make, then Object > Blend > Expand 
+8. Expand objects
 8. Unite in pathfinder
 9. Apply gradient
 	* Type: Linear 
