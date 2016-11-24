@@ -21,7 +21,9 @@ tags: [android, material design]
 4. Minus Front with the top and middle object selected
 5. Change color to shading color, transparency to 20% as per guidelines
 
+## Background
 
+Apply tint and shade
 
 ## Shapes
 
@@ -70,7 +72,20 @@ tags: [android, material design]
    
 ### Shade
 
-    
+#### Alternative 1
+
+1. Copy shape, paste in front
+2. Change drop shadow on top object to:
+	* Mode: Multiply
+    * Opacity: 20%
+    * X Offset: 0 px
+    * Y Offset: 1 px
+    * Blur: 0
+    * Color: shade color
+
+#### Alternative 2
+
+Apply shade as in 
     
 
         
