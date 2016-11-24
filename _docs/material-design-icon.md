@@ -67,6 +67,7 @@ Apply tint and shade
     * Left slider
     	* Opacity: 20%
         * Shade color
+    * Midpoint location: 50%
     * Right slider
     	* Opacity: 0%
         * Shade color
