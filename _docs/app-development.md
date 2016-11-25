@@ -15,7 +15,9 @@ See [Prototyping tools](/prototyping)
 
 ## Architecture
 
+* [Advocating Against Android Fragments – Square Corner Blog – Medium](https://medium.com/square-corner-blog/advocating-against-android-fragments-81fd0b462c97#.sh7xp18n1)
 * [The next best architecture • Premium Minds Blog](https://blog.premium-minds.com/the-next-best-architecture/)
 * [Architecting Android with Data Binding and MVVM in mind](https://medium.cobeisfresh.com/architecting-android-with-data-binding-and-mvvm-in-mind-8874bbec0b0d#.b32weolsc)
 * [Android Databinding: Goodbye Presenter, hello ViewModel! – VG Tech](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
+* [ivacf/archi: Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.](https://github.com/ivacf/archi)
 
