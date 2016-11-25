@@ -71,6 +71,10 @@ The best Android resources from all over the web, gathered.
 ## Data-binding
 * [Android Data Binding](http://mlsdev.com/en/blog/57-android-data-binding)
 
+## Animation
+
+* [Animated icons on Android](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.8itegavnu)
+
 ## Libraries
 
 ### Http
@@ -85,7 +89,8 @@ The best Android resources from all over the web, gathered.
 * For the most stable and approved, use [Glide](https://github.com/bumptech/glide)
 
 
+
 ## Material Design
-* Eight don’ts for your Material Design app ([blog.prototypr.io](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329#.hlheokq4p))
+* Eight don'ts for your Material Design app ([blog.prototypr.io](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329#.hlheokq4p))
 * Keyline Pushing - Android Apps on Google Play ([play.google.com](https://play.google.com/store/apps/details?id=com.faizmalkani.keylines&hl=en))
 * Material Cue - Android Apps on Google Play ([play.google.com](https://play.google.com/store/apps/details?id=com.actinarium.materialcue))
