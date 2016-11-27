@@ -72,6 +72,12 @@ The best Android resources from all over the web, gathered.
 * [Android Data Binding](http://mlsdev.com/en/blog/57-android-data-binding)
 * Android Data Binding: The Big Event ([medium.com](https://medium.com/google-developers/android-data-binding-the-big-event-2697089dd0d7#.qyja8vidk))
 * Android Data Binding: Let’s Flip This Thing ([medium.com](https://medium.com/google-developers/android-data-binding-lets-flip-this-thing-dc17792d6c24#.xlh2siat3))
+* Writing Testable Android MVVM App: Part 1. ViewModel ([medium.com](https://medium.com/@hiBrianLee/writing-testable-android-mvvm-app-part-1-ac2c39f31710#.74fuwc62f))
+
+## Architecture
+ 
+### MVVM 
+* MVVM with Data Binding on Android | The Programming Corner ([srodrigo.me](http://srodrigo.me/mvvm-with-data-binding-on-android/))
 
 ## Animation
 
