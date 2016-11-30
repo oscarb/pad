@@ -21,3 +21,6 @@ See [Prototyping tools](/prototyping)
 * [Android Databinding: Goodbye Presenter, hello ViewModel! – VG Tech](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
 * [ivacf/archi: Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.](https://github.com/ivacf/archi)
 
+## Code playground
+
+* [repl.it - Online REPL, Compiler & IDE](https://repl.it/)
