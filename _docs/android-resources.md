@@ -79,6 +79,10 @@ The best Android resources from all over the web, gathered.
 ### MVVM 
 * MVVM with Data Binding on Android | The Programming Corner ([srodrigo.me](http://srodrigo.me/mvvm-with-data-binding-on-android/))
 
+### MVP
+* [Restoring state in Android MVP architecture | Inside PSPDFKit](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
+
+
 ## Animation
 
 * [Animated icons on Android](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.8itegavnu)
