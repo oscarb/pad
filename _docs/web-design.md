@@ -16,6 +16,11 @@ published: true
 * The Best UX/UI Designer Tools, Resources, Blogs & Books Collection – Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/the-best-ux-ui-designer-tools-resources-blogs-books-collection-93952ed1da07#.c3zd45q6e))
 * UX Myths ([uxmyths.com](http://uxmyths.com/))
 
+### Typograhpy 
+
+* How to Set Perfect Line Lengths for Your Webpages ([blog.prototypr.io](https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344#.rvq7ksdww))
+
+
 ## Resources
 
 * [Resizer](http://design.google.com/resizer/)
