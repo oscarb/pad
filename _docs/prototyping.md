@@ -86,6 +86,7 @@ Name | Lowest price | Platform | Protype for
 [Prototyping on Paper](https://popapp.in/) | Free[^pop] | Mac, Windows, Android | Mobile
 [Prott](https://prottapp.com/) | Free[^prott] | Web, Mac, Windows | Any
 [Prott App](https://itunes.apple.com/app/id917618029) | Free | iOS | Mobile
+[Quant-UX](https://www.quant-ux.com/#home.html) | Free | Web | Any
 [Red Pen](https://redpen.io/)  | $20/month | Web | Any
 [Savah](http://www.savahapp.com/)  | Free[^savah] | Web | iPhone/iPad, Web
 [Silver Flows](http://silverflows.com/) | Free | Sketch | Mobile
