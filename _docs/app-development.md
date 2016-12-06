@@ -24,3 +24,7 @@ See [Prototyping tools](/prototyping)
 ## Code playground
 
 * [repl.it - Online REPL, Compiler & IDE](https://repl.it/)
+
+## Icons
+
+* [Test icon for free on Android & iOS | IconTester.com](http://www.icontester.com/)
