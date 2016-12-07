@@ -86,6 +86,8 @@ The best Android resources from all over the web, gathered.
 ## Animation
 
 * [Animated icons on Android](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.8itegavnu)
+* [Animation: Jump-through](https://blog.prototypr.io/animation-jump-through-861f4f5b3de4#.a8h78xgqw)
+
 
 ## Libraries
 
