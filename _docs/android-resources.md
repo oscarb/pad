@@ -77,6 +77,7 @@ The best Android resources from all over the web, gathered.
 ## Architecture
 
 * [Effective Java for Android (cheatsheet). – RockNNull – Medium](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.5qkwt1fxs)
+* [Android Architecture: MVP or MVVM or Something Else | Viblo](https://viblo.asia/ChauBaoLong/posts/qzaGzLWrkyO)
  
 ### MVVM 
 * MVVM with Data Binding on Android | The Programming Corner ([srodrigo.me](http://srodrigo.me/mvvm-with-data-binding-on-android/))
@@ -84,6 +85,7 @@ The best Android resources from all over the web, gathered.
 ### MVP
 * [Restoring state in Android MVP architecture | Inside PSPDFKit](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
 * [Your presenters don’t need all those lifecycle events – Medium](https://medium.com/@anupcowkur/your-presenters-dont-need-all-those-lifecycle-events-721f500eeef4#.y1vt7h43q)
+* [MVP – Mosby](http://hannesdorfmann.com/mosby/mvp/)
 
 
 ## Animation
@@ -121,3 +123,7 @@ The best Android resources from all over the web, gathered.
 
 ### Custom views
 * [Android: draw a custom view – Medium](https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.wtge1s9q4)
+
+## Testing
+
+* [Simple unit tests for Android | Blog](https://stfalcon.com/en/blog/post/simple-unit-tests-for-android?utm_source=Android+Weekly&utm_campaign=a73cc3ac35-Android_Weekly_232&utm_medium=email&utm_term=0_4eb677ad19-a73cc3ac35-338005577)
