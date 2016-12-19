@@ -110,3 +110,8 @@ The best Android resources from all over the web, gathered.
 * Eight don'ts for your Material Design app ([blog.prototypr.io](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329#.hlheokq4p))
 * Keyline Pushing - Android Apps on Google Play ([play.google.com](https://play.google.com/store/apps/details?id=com.faizmalkani.keylines&hl=en))
 * Material Cue - Android Apps on Google Play ([play.google.com](https://play.google.com/store/apps/details?id=com.actinarium.materialcue))
+
+## Layout
+
+### ConstraintLayout
+* [Guide to ConstraintLayout – Medium](https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013#.hgwi6ptvc)
