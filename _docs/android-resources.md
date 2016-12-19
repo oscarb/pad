@@ -117,3 +117,6 @@ The best Android resources from all over the web, gathered.
 
 ### ConstraintLayout
 * [Guide to ConstraintLayout – Medium](https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013#.hgwi6ptvc)
+
+### Custom views
+* [Android: draw a custom view – Medium](https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.wtge1s9q4)
