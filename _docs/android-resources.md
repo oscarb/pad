@@ -83,6 +83,7 @@ The best Android resources from all over the web, gathered.
 
 ### MVP
 * [Restoring state in Android MVP architecture | Inside PSPDFKit](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
+* [Your presenters don’t need all those lifecycle events – Medium](https://medium.com/@anupcowkur/your-presenters-dont-need-all-those-lifecycle-events-721f500eeef4#.y1vt7h43q)
 
 
 ## Animation
