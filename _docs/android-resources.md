@@ -75,6 +75,8 @@ The best Android resources from all over the web, gathered.
 * Writing Testable Android MVVM App: Part 1. ViewModel ([medium.com](https://medium.com/@hiBrianLee/writing-testable-android-mvvm-app-part-1-ac2c39f31710#.74fuwc62f))
 
 ## Architecture
+
+* [Effective Java for Android (cheatsheet). – RockNNull – Medium](https://medium.com/rocknnull/effective-java-for-android-cheatsheet-bf4e3433889a#.5qkwt1fxs)
  
 ### MVVM 
 * MVVM with Data Binding on Android | The Programming Corner ([srodrigo.me](http://srodrigo.me/mvvm-with-data-binding-on-android/))
