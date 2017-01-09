@@ -12,6 +12,7 @@ The best Android resources from all over the web, gathered.
 
 ## Resources
 
+* Preparing your Android Environment for development — Android Tutorials pt. 1 – Medium ([medium.com](https://medium.com/@rafael_toledo/preparing-your-android-environment-for-development-android-tutorials-pt-1-5f76ca2b8a32#.voq2b4wto))
 
 * Learn Date and Time in Android - CodeProject ([www.codeproject.com](http://www.codeproject.com/Articles/1009239/Learn-Date-and-Time-in-Android))
 
