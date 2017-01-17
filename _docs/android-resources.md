@@ -146,4 +146,5 @@ The best Android resources from all over the web, gathered.
 
 ## Intents
 
-Check to see if the intent can be resolved using `resolveActivity`
+* Check to see if the intent can be resolved using `resolveActivity`
+* Share using the ShareCompat library
