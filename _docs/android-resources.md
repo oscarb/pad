@@ -103,10 +103,13 @@ The best Android resources from all over the web, gathered.
 
 * Discovering Android API ([blog.autsoft.hu](https://blog.autsoft.hu/discovering-the-android-api-part-1/?utm_source=Android+Weekly&utm_campaign=454d4b53e2-Android_Weekly_239&utm_medium=email&utm_term=0_4eb677ad19-454d4b53e2-338005577))
 
+
+
 ### Http
 
 * For REST APIs, use [Retrofit](https://square.github.io/retrofit/)
 * For other purposes, use [OkHttp](http://square.github.io/okhttp/)
+* Build Uri:s with [buildUpon()](https://developer.android.com/reference/android/net/Uri.html#buildUpon())
 
 
 ### Images
