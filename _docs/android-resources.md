@@ -114,6 +114,9 @@ The best Android resources from all over the web, gathered.
 * JSONObject
 
 
+
+
+
 ### Images
 
 * For the latest and best regarding memory, use [Fresco](http://frescolib.org/)
@@ -137,3 +140,10 @@ The best Android resources from all over the web, gathered.
 ## Testing
 
 * [Simple unit tests for Android | Blog](https://stfalcon.com/en/blog/post/simple-unit-tests-for-android?utm_source=Android+Weekly&utm_campaign=a73cc3ac35-Android_Weekly_232&utm_medium=email&utm_term=0_4eb677ad19-a73cc3ac35-338005577)
+
+
+# Various tips 
+
+## Intents
+
+Check to see if the intent can be resolved using `resolveActivity`
