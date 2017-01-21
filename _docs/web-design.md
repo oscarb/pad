@@ -15,10 +15,12 @@ published: true
 * [Best of UX Links of 2016 — Prototyping: From UX to Front End](https://blog.prototypr.io/best-of-ux-links-of-2016-eb2f44a2c9c0#.z4uvwvbix)
 * The Best UX/UI Designer Tools, Resources, Blogs & Books Collection – Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/the-best-ux-ui-designer-tools-resources-blogs-books-collection-93952ed1da07#.c3zd45q6e))
 * UX Myths ([uxmyths.com](http://uxmyths.com/))
+* Mockuuups Studio - Product mockups, made easy & instantly ([mockuuups.studio](https://mockuuups.studio/))
 
 ### Typograhpy 
 
 * How to Set Perfect Line Lengths for Your Webpages ([blog.prototypr.io](https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344#.rvq7ksdww))
+* Type Anything ([typeanything.io](https://typeanything.io/))
 
 
 ## Resources
