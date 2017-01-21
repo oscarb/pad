@@ -37,6 +37,7 @@ published: true
 * www.premiumpixels.com ([www.premiumpixels.com](http://www.premiumpixels.com/))
 * Unsplash \| High-Resolution Photos ([unsplash.com](https://unsplash.com/))
 * 5 Links that can make every Graphic Designer’s life easy. — Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/5-links-that-can-make-every-graphic-designers-life-easy-9af76f65e9cb#.5k16yr9px))
+* Color Hunt ([colorhunt.co](http://colorhunt.co/))
 
 
 
