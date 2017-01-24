@@ -34,6 +34,12 @@ See [Prototyping tools](/prototyping)
 * [IN COLOR BALANCE | selection of color](http://color.romanuke.com/)
 * [Coolors.co - The super fast color schemes generator](https://coolors.co/)
 * [Pictaculous - A Color Palette Generator (courtesy of MailChimp)](http://www.pictaculous.com/)
+* [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* [Search Images by Color with Spectrum - Shutterstock Labs](http://www.shutterstock.com/labs/spectrum/)
+* [TinEye Reverse Image Search](https://www.tineye.com/)
 
 ## Fonts
 * [Typography Inspiration for the Modern Web · Typewolf](https://www.typewolf.com/)
+
+## Inspiration
+* [Designspiration — Design Inspiration](http://designspiration.net/)
