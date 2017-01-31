@@ -29,6 +29,15 @@ tags: [macOS]
 
 ## Settings
 
+### General 
+
+* Sidebar icon size: small
+* Default web browser: Chrome
+
+### Dock
+
+* Show and hide automatically
+
 ### Shortcuts
 
 * Mission Control
