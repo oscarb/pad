@@ -9,6 +9,7 @@ tags: [macOS]
 
 - Google Chrome
 - Spectacle
+- DoubleCommand   
 
 ### Mail
 
