@@ -11,6 +11,10 @@ tags: [macOS]
 - Spectacle
 - [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 
+### Chrome
+
+- Workflowy
+
 ### Mail
 
 - https://itunes.apple.com/se/app/spark-love-your-email-again/id1176895641?mt=12&ign-mpt=uo%3D4
