@@ -10,6 +10,7 @@ tags: [macOS]
 - Google Chrome
 - Spectacle
 - [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
+- LastPass
 
 ### Chrome
 
