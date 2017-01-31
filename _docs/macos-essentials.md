@@ -9,7 +9,7 @@ tags: [macOS]
 
 - Google Chrome
 - Spectacle
-- DoubleCommand   
+- [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 
 ### Mail
 
