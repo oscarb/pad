@@ -23,6 +23,14 @@ tags: [macOS]
 - https://www.lessannoyingcrm.com/blog/2010/08/149/Create+application+shortcuts+in+Google+Chrome+on+a+Mac
 - http://fluidapp.com/
 
+## Settings
+
+### Shortcuts
+
+* Mission Control
+
+Move left a space: cmd + >
+Move right a space: cmd + <
 
 ### Must have
 - https://www.google.se/search?q=macbook+pro+must+have+apps&rlz=1C5CHFA_enSE730SE730&oq=macbook+pro+must+have+apps&aqs=chrome..69i57j0l5.8933j0j4&sourceid=chrome&ie=UTF-8
