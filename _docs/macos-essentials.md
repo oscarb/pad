@@ -15,11 +15,17 @@ published: true
 - LastPass
 - Spotify
 
-### Applicationize
+### Turn web apps into apps
+
+- Prose.io
+
+* Applicationize
 
 https://applicationize.me/now
 
-- Prose.io
+* https://github.com/jiahaog/nativefier
+
+
 
 
 ### Chrome
