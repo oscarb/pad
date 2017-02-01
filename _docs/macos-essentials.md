@@ -49,3 +49,11 @@ Move right a space: cmd + <
 ### Must have
 - https://www.google.se/search?q=macbook+pro+must+have+apps&rlz=1C5CHFA_enSE730SE730&oq=macbook+pro+must+have+apps&aqs=chrome..69i57j0l5.8933j0j4&sourceid=chrome&ie=UTF-8
 - http://lifehacker.com/top-10-free-alternatives-to-expensive-software-1791300629
+
+## Issues
+
+### Low Bluetooth Audio Quailty
+
+Enter in terminal
+
+    sudo killall coreaudiod
