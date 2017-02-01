@@ -11,6 +11,7 @@ tags: [macOS]
 - Spectacle
 - [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 - LastPass
+- Spotify
 
 ### Chrome
 
