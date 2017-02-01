@@ -57,3 +57,5 @@ Move right a space: cmd + <
 Enter in terminal
 
     sudo killall coreaudiod
+    
+Or change sound input away from bluetooth, see http://superuser.com/a/1163164
