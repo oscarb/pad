@@ -1,6 +1,8 @@
 ---
 title: macOS Essentials
-tags: [macOS]
+tags:
+  - macOS
+published: true
 ---
 
 # macOS Essentials
@@ -12,6 +14,13 @@ tags: [macOS]
 - [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 - LastPass
 - Spotify
+
+### Applicationize
+
+https://applicationize.me/now
+
+- Prose.io
+
 
 ### Chrome
 
