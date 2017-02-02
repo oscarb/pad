@@ -25,8 +25,14 @@ published: true
 
 ## Static site generators
 
+https://www.staticgen.com/
+
 * Jekyll
 * Hugo
+
+## Headless CMS
+
+https://headlesscms.org/
 
 
 ## Resources
