@@ -1,6 +1,8 @@
 ---
 title: Android Development Notes
-tags: [android]
+tags:
+  - android
+published: true
 ---
 
 # Android Development Notes
@@ -25,3 +27,15 @@ See
 http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes
 
 * [Android Project Structure — alternative way – Google Developers Experts – Medium](https://medium.com/google-developer-experts/android-project-structure-alternative-way-29ce766682f0#.h71ecd3x8)
+
+## Lifecycle
+
+* Use `onStop()` for when Android is killing the acitivity
+
+## Loader
+
+* Use loaders to avoid recreating asynct tasks between config changes
+
+* [ud851-Exercises/MainActivity.java at T05b.02-Solution-AddAsyncTaskLoader · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/blob/T05b.02-Solution-AddAsyncTaskLoader/app/src/main/java/com/example/android/asynctaskloader/MainActivity.java)
+* [Leveraging Loaders in Github Query - YouTube](https://www.youtube.com/watch?v=5o7SN8Z3VWs)
+
