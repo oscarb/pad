@@ -42,3 +42,5 @@ http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools
 * Cache data so loader won't start ehen user navigates away from activity
 https://github.com/udacity/ud851-Exercises/blob/T05b.03-Solution-PolishAsyncTask/app/src/main/java/com/example/android/asynctaskloader/MainActivity.java
 
+* [Comparing S05.01-Exercise-AsyncTaskLoader...S05.01-Solution-AsyncTaskLoader · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S05.01-Exercise-AsyncTaskLoader...S05.01-Solution-AsyncTaskLoader)
+
