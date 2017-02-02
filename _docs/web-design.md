@@ -23,6 +23,12 @@ published: true
 * Type Anything ([typeanything.io](https://typeanything.io/))
 
 
+## Static site generators
+
+* Jekyll
+* Hugo
+
+
 ## Resources
 
 * [Resizer](http://design.google.com/resizer/)
