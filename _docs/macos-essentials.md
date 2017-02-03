@@ -22,6 +22,8 @@ published: true
  - https://frontendcurated.com/best-markdown-editors-abf8d5250cee#.z1jv6zzt7
 - https://www.quora.com/Whats-the-best-Markdown-editor-for-Mac-OS-X
 - http://thesweetsetup.com/apps/favorite-markdown-writing-app-mac/
+- https://www.slant.co/topics/899/~best-markdown-editor-for-os-x
+- https://www.raywenderlich.com/119949/top-five-markdown-editors
 
 ### Turn web apps into apps
 
