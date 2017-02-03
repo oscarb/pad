@@ -25,6 +25,8 @@ published: true
 
 ## Static site generators
 
+http://blog.formkeep.com/not-sure-which-static-site-generator-to-pick/
+
 https://www.staticgen.com/
 
 * Jekyll
