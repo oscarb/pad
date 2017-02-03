@@ -14,6 +14,14 @@ published: true
 - [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 - LastPass
 - Spotify
+- MacDown
+
+### Markdown
+
+ - https://www.maketecheasier.com/best-markdown-editors-for-macos/
+ - https://frontendcurated.com/best-markdown-editors-abf8d5250cee#.z1jv6zzt7
+- https://www.quora.com/Whats-the-best-Markdown-editor-for-Mac-OS-X
+- http://thesweetsetup.com/apps/favorite-markdown-writing-app-mac/
 
 ### Turn web apps into apps
 
