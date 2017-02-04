@@ -64,6 +64,8 @@ published: true
 ## Preparations
 
 * Login to Nordea with BankID and generate a new BankId with the old one
+* Check SMS
+* Check SIM-card size!
 
 ## What to backup when formatting?
 
