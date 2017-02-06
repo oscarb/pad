@@ -17,6 +17,10 @@ published: true
 * UX Myths ([uxmyths.com](http://uxmyths.com/))
 * Mockuuups Studio - Product mockups, made easy & instantly ([mockuuups.studio](https://mockuuups.studio/))
 
+### SVG
+
+https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/
+
 ### Typograhpy 
 
 * How to Set Perfect Line Lengths for Your Webpages ([blog.prototypr.io](https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344#.rvq7ksdww))
