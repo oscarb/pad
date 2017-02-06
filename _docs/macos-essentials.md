@@ -16,6 +16,7 @@ published: true
 - Spotify
 - MacDown
 - Vectr
+* [Scroll Reverser](http://pilotmoon.com/scrollreverser/)
 
 ### Markdown
 
