@@ -15,6 +15,7 @@ published: true
 - LastPass
 - Spotify
 - MacDown
+- Vectr
 
 ### Markdown
 
