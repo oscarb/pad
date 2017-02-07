@@ -71,7 +71,9 @@ See [Prototyping Tools](/prototyping)
 
 http://avatars.adorable.io/#demo
 
+## Animation
 
+https://uxplanet.org/popular-web-animation-techniques-a6a467309028#.r07cxnbsn
 
 ## Read later
 * Understanding Creative Careers – Prototyping: From UX to Front End ([blog.prototypr.io](https://blog.prototypr.io/understanding-creative-careers-846abf17d8f7#.4ae1q7j66))
@@ -93,5 +95,3 @@ http://avatars.adorable.io/#demo
 ## CSS Frameworks
 
 ### Foundation
-
-
