@@ -51,3 +51,7 @@ https://github.com/udacity/ud851-Exercises/blob/T05b.03-Solution-PolishAsyncTask
 * SQLLite Db
 * File
 * Server
+
+### Preferences
+
+* Use PreferenceFragment instead of Preference Activity
