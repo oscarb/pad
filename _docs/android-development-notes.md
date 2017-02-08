@@ -73,3 +73,6 @@ Reading From SharedPreferences
 * `getSharedPreferences`: Gets a specific SharedPreferences instance by name in case you have more than one preference in the same context!
 
 Preference Change Listener
+
+Update preference fragment
+* [Preference Summary - YouTube](https://www.youtube.com/watch?v=cXqgkDC8fNg)
