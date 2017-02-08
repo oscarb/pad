@@ -77,3 +77,4 @@ Preference Change Listener
 
 Update preference fragment
 * [Preference Summary - YouTube](https://www.youtube.com/watch?v=cXqgkDC8fNg)
+* [Comparing T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary)
