@@ -8,6 +8,12 @@ published: true
 
 # Jekyll
 
+Build site
+
+    bundle exec jekyll serve
+    
+    
+
 ## Resources
 
 * [GitHub Pages for Non-Rubyists – Eric Matthes – Teacher, hacker, author...](https://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
