@@ -32,6 +32,16 @@ http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools
 
 * Use `onStop()` for when Android is killing the acitivity
 
+`onCreate` -> `onStart` -> `onResume`
+
+`onPause` -> `onStop` -> `onDestroy`
+
+`onPause` -> `onResume`
+
+`onPause` -> `onStop` -> `onRestart` -> `onStart` 
+
+
+
 ## Loader
 
 * Use loaders to avoid recreating asynct tasks between config changes
