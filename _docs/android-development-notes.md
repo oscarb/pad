@@ -83,6 +83,10 @@ Update preference fragment
 
 * [Settings - Patterns - Material design guidelines](https://material.io/guidelines/patterns/settings.html#settings-placement)
 
+Should it be a setting?
+
+![Make it a setting?](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/582a4eda_screen-shot-2016-11-14-at-3.55.51-pm/screen-shot-2016-11-14-at-3.55.51-pm.png)
+
 ### SQLLite Database
 
 * [sql-sqlite-commands-cheat-sheet.pdf](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57ed880e_sql-sqlite-commands-cheat-sheet/sql-sqlite-commands-cheat-sheet.pdf)
