@@ -71,3 +71,5 @@ https://github.com/udacity/ud851-Exercises/blob/T05b.03-Solution-PolishAsyncTask
 Reading From SharedPreferences
 * `getDefaultSharedPreferences` : Gets a SharedPreferences instance that points to the default file that is used by the preference framework in the given context!
 * `getSharedPreferences`: Gets a specific SharedPreferences instance by name in case you have more than one preference in the same context!
+
+Preference Change Listener
