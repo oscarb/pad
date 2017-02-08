@@ -80,3 +80,7 @@ Preference Change Listener
 Update preference fragment
 * [Preference Summary - YouTube](https://www.youtube.com/watch?v=cXqgkDC8fNg)
 * [Comparing T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary)
+
+### SQLLite Database
+
+* [sql-sqlite-commands-cheat-sheet.pdf](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57ed880e_sql-sqlite-commands-cheat-sheet/sql-sqlite-commands-cheat-sheet.pdf)
