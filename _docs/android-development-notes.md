@@ -44,3 +44,10 @@ https://github.com/udacity/ud851-Exercises/blob/T05b.03-Solution-PolishAsyncTask
 
 * [Comparing S05.01-Exercise-AsyncTaskLoader...S05.01-Solution-AsyncTaskLoader · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S05.01-Exercise-AsyncTaskLoader...S05.01-Solution-AsyncTaskLoader)
 
+## Persistance
+
+* onSavedInstance
+* SharedPreferences
+* SQLLite Db
+* File
+* Server
