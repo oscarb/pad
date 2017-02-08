@@ -56,3 +56,4 @@ https://github.com/udacity/ud851-Exercises/blob/T05b.03-Solution-PolishAsyncTask
 
 * Use PreferenceFragment instead of Preference Activity
 * [Make a PreferenceFragment - YouTube](https://www.youtube.com/watch?v=AFCywvOnM2M)
+* [Comparing T06.02-Exercise-MakeAPreferenceFragment...T06.02-Solution-MakeAPreferenceFragment · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T06.02-Exercise-MakeAPreferenceFragment...T06.02-Solution-MakeAPreferenceFragment)
