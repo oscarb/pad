@@ -70,6 +70,8 @@ https://codepad.co
 See [Prototyping Tools](/prototyping)
 
 http://avatars.adorable.io/#demo
+http://pravatar.cc/
+http://lorempixel.com/
 
 ## Animation
 
