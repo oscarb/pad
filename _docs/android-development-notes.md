@@ -73,6 +73,7 @@ Reading From SharedPreferences
 * `getSharedPreferences`: Gets a specific SharedPreferences instance by name in case you have more than one preference in the same context!
 
 Preference Change Listener
+* Don't forget to unregister in onDestroy
 
 Update preference fragment
 * [Preference Summary - YouTube](https://www.youtube.com/watch?v=cXqgkDC8fNg)
