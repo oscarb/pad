@@ -91,3 +91,6 @@ Should it be a setting?
 
 * [sql-sqlite-commands-cheat-sheet.pdf](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57ed880e_sql-sqlite-commands-cheat-sheet/sql-sqlite-commands-cheat-sheet.pdf)
 * [SQL Tutorial](http://www.w3schools.com/sql/)
+
+Create a database
+https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheDatabase...T07.02-Solution-CreateTheDatabase
