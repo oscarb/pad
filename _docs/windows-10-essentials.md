@@ -249,6 +249,8 @@ Settings > Compression > Remove redundant folders from extraction path
 
 ### Android Studio
 
+See [Android Studio](android-studio)
+
 
 ### Atom
 #### Settings
