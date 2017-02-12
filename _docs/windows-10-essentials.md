@@ -148,6 +148,35 @@ Software
 ### Adobe Illustrator
 
 
+### Logitech Options
+
+All applications
+
+Scroll left: Ctrl + Shift + Tab
+Scroll right: Ctrl + Tab
+Middle button: Gesture button
+Up button: Ctrl + Shift + <
+Down button: Back
+
+Android Studio
+
+Scroll left: Alt + Vänsterpil
+Scroll right: Alt + Högerpil
+Middle button: Gesture button
+Up button: Ctrl + Shift + <
+Down button: Back
+
+Spotify
+
+Scroll left: Ctrl + Vänsterpil
+Scroll right: Ctrl + Högerpil
+Middle button: Gesture button
+Up button: Ctrl + Shift + <
+Down button: Back
+
+### SumatraPDF
+
+* [Download Sumatra PDF - a free reader](http://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 
 ### SDFormatter
 
@@ -311,7 +340,7 @@ https://www.rainmeter.net/
   * [How to Create a Shortcut for Any "Modern" Windows App](http://lifehacker.com/how-to-create-a-shortcut-for-any-modern-windows-app-1722569853)
 * LibreOffice
 	* [Home LibreOffice - Free Office Suite - Fun Project - Fantastic People](https://www.libreoffice.org/)
-* [Download Sumatra PDF - a free reader](http://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
+
 * [Online Data Backup  Offsite, Onsite & Cloud Crashplan](https://www.crashplan.com/en-us/)
 * [f.lux: software to make your life better](https://justgetflux.com/)
 * [Avira 2016 - Download free antivirus for PC & Mac](http://www.avira.com/)
