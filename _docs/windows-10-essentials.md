@@ -225,6 +225,9 @@ Settings > Compression > Remove redundant folders from extraction path
 ### Spotify
 * Connect to Last.fm
 * Toastify ([toastify.codeplex.com](https://toastify.codeplex.com/))
+* Fix media/multimedia keys not working?
+	* https://community.spotify.com/t5/Spotify-Community-Blog/Post-of-the-Week-Windows-Media-Keys-Fix/ba-p/590494
+    * https://community.spotify.com/t5/Spotify-Community-Blog/Post-of-the-Week-Windows-Media-Keys-Fix/bc-p/983276/highlight/true#M1553
 
 ### Chrome
 
