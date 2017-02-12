@@ -127,7 +127,7 @@ Create the following web apps using Chrome and pin to taskbar
  * Spotify
  * MusicBee
  * WorkFlowy
- * Video Station
+ * Chrome
  
 Refresh icon cache with `ie4uinit.exe -show` 
  
