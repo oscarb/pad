@@ -24,6 +24,11 @@ Windows 10 Essentials
 * AMD Drivers
   * _Desktop Graphics Radeon HD 5700 Series PCIe Windows 10 - 64 bit_
 
+
+## Before installation
+
+* Move Windows USB and Keyboard USB reciever to front USB ports
+
 ## During installation
 Skip serial -- activation is done automatically
 
