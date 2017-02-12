@@ -273,6 +273,10 @@ Settings > Compression > Remove redundant folders from extraction path
 > **Paths:** /volume1/downloads=Z:\downloads
 
 
+### WiinUSoft
+
+
+
 
 ### Development
 
