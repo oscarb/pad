@@ -74,7 +74,6 @@ Tweaks
 ### Map personal folders
 `C:\Users\Oscar\<FOLDER>  -> D:\Users\Oscar\<FOLDER>`
 where `<FOLDER>` is 
- * Desktop
  * Documents
  * Downloads
  * Music
