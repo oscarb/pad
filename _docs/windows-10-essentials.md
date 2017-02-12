@@ -72,7 +72,7 @@ Tweaks
 ### Switch to a local account
 
 ### Map personal folders
-`C:\Users\Oscar\<FOLDER>  -> D:\Users\Oscar\<FOLDER>`
+`C:\Users\Oscar\<FOLDER>`  -> D:\Users\Oscar\<FOLDER>`
 where `<FOLDER>` is 
  * Documents
  * Downloads
