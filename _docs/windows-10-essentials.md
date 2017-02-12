@@ -15,7 +15,6 @@ Windows 10 Essentials
 
 ### Backup
 * Speed Dial settings
-* StackEdit docs and settings
 * Android Studio settings
 * List of extensions for Atom and Brackets
 * PuTTY sessions
