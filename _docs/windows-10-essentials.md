@@ -27,7 +27,7 @@ Windows 10 Essentials
 
 ## Before installation
 
-* Move Windows USB and Keyboard USB reciever to front USB ports
+* Move Windows USB and keyboard USB reciever to front USB ports
 
 ## During installation
 Skip serial -- activation is done automatically
