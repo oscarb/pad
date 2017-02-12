@@ -77,8 +77,9 @@ Tweaks
 ### Switch to a local account
 
 ### Map personal folders
-`C:\Users\Oscar\<FOLDER>`  -> D:\Users\Oscar\<FOLDER>`
-where `<FOLDER>` is 
+
+`C:\Users\Oscar\<FOLDER>`  -> `D:\Users\Oscar\<FOLDER>` where `<FOLDER>` is 
+
  * Documents
  * Downloads
  * Music
@@ -103,9 +104,10 @@ where `<FOLDER>` is
  * Control Panel > Language > Advanced settings > Change language bar hot keys
  * Control Panel > Mouse: Mouse speed
  * Control Panel > Power Options 
- * Control Panel > Windows Update
-   * Select "Notify to schedule restart"
-   * Run update
+ 
+### Disable automatic restart after update 
+
+See http://tunecomp.net/disable-automatic-reboot-after-updates-installation-in-windows-10/
    
 ### Windows Settings 
  * Settings > System > Multitasking > Disable Snap Assist
