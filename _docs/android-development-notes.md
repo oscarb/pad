@@ -94,3 +94,8 @@ Should it be a setting?
 
 Create a database
 https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheDatabase...T07.02-Solution-CreateTheDatabase
+
+## Security 
+
+Smartphone Secure Development Guidelines — ENISA
+https://www.enisa.europa.eu/publications/smartphone-secure-development-guidelines-2016
