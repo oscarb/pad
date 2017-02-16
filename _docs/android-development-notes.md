@@ -97,6 +97,8 @@ https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheData
 
 ## Content provider
 
+[Example App](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete)
+
 1. Get permission to use the ContentProvider.
 	`<uses-permission android:name="com.example.appname.TERMS_READ" />
 2. Get the ContentResolver
@@ -108,4 +110,18 @@ https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheData
 4. Identify the data you are reading or manipulating to create a URI
 5. In the case of reading from the ContentProvider, display the information in the UI
 
+Methods
+query, insert, update, delete
+
+URI
+content://com.example.appname/specificData
+
+CONTENT_URI
+
+Cursor methods arguments
+
+projection - filter columns
+selection - how to filter rows
+selection args - what to filter
+sort order
 
