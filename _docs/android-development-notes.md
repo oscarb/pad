@@ -99,6 +99,9 @@ https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheData
 
 [Example App](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete)
 
+ud851-Exercises/Lesson08-Quiz-Example/T08.02-Exercise-AddAsyncTaskToRetrieveCursor at student · udacity/ud851-Exercises
+https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example/T08.02-Exercise-AddAsyncTaskToRetrieveCursor
+
 1. Get permission to use the ContentProvider.
 	`<uses-permission android:name="com.example.appname.TERMS_READ" />
 2. Get the ContentResolver
