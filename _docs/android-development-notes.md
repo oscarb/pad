@@ -98,7 +98,14 @@ https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheData
 ## Content provider
 
 1. Get permission to use the ContentProvider.
+	`<uses-permission android:name="com.example.appname.TERMS_READ" />
 2. Get the ContentResolver
+	```
+    ContentResolver resolver = getContentResolver();
+    Cursor cursor = resolver.query(Contract.CONTENT_URI, null, null, null, null);
+    ``` 
 3. Pick one of four basic actions on the data: query, insert, update, delete
 4. Identify the data you are reading or manipulating to create a URI
 5. In the case of reading from the ContentProvider, display the information in the UI
+
+
