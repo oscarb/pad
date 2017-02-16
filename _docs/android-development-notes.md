@@ -94,3 +94,11 @@ Should it be a setting?
 
 Create a database
 https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheDatabase...T07.02-Solution-CreateTheDatabase
+
+## Content provider
+
+1. Get permission to use the ContentProvider.
+2. Get the ContentResolver
+3. Pick one of four basic actions on the data: query, insert, update, delete
+4. Identify the data you are reading or manipulating to create a URI
+5. In the case of reading from the ContentProvider, display the information in the UI
