@@ -164,5 +164,8 @@ public String getType(@NonNull Uri uri) {
 
 The best way to asynchronously load data from any ContentProvider is with a CursorLoader
 
+[Comparing S09.05-Exercise-MoreDetails...S09.05-Solution-MoreDetails · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S09.05-Exercise-MoreDetails...S09.05-Solution-MoreDetails)
+
+
 BulkInsert
 [Comparing S09.02-Exercise-ContentProviderBulkInsert...S09.02-Solution-ContentProviderBulkInsert · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S09.02-Exercise-ContentProviderBulkInsert...S09.02-Solution-ContentProviderBulkInsert)
