@@ -157,3 +157,5 @@ public String getType(@NonNull Uri uri) {
     }
 }
 ```
+
+The best way to asynchronously load data from any ContentProvider is with a CursorLoader
