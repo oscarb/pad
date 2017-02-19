@@ -102,6 +102,8 @@ https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheData
 ud851-Exercises/Lesson08-Quiz-Example/T08.02-Exercise-AddAsyncTaskToRetrieveCursor at student · udacity/ud851-Exercises
 https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example/T08.02-Exercise-AddAsyncTaskToRetrieveCursor
 
+[Comparing S09.01-Exercise-ContentProviderFoundation...S09.01-Solution-ContentProviderFoundation · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S09.01-Exercise-ContentProviderFoundation...S09.01-Solution-ContentProviderFoundation)
+
 1. Get permission to use the ContentProvider.
 	`<uses-permission android:name="com.example.appname.TERMS_READ" />
 2. Get the ContentResolver
