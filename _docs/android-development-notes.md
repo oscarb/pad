@@ -104,6 +104,8 @@ https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example/T0
 
 [Comparing S09.01-Exercise-ContentProviderFoundation...S09.01-Solution-ContentProviderFoundation · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S09.01-Exercise-ContentProviderFoundation...S09.01-Solution-ContentProviderFoundation)
 
+[Comparing S09.04-Exercise-UsingCursorLoader...S09.04-Solution-UsingCursorLoader · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S09.04-Exercise-UsingCursorLoader...S09.04-Solution-UsingCursorLoader)
+
 1. Get permission to use the ContentProvider.
 	`<uses-permission android:name="com.example.appname.TERMS_READ" />
 2. Get the ContentResolver
@@ -161,3 +163,6 @@ public String getType(@NonNull Uri uri) {
 ```
 
 The best way to asynchronously load data from any ContentProvider is with a CursorLoader
+
+BulkInsert
+[Comparing S09.02-Exercise-ContentProviderBulkInsert...S09.02-Solution-ContentProviderBulkInsert · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S09.02-Exercise-ContentProviderBulkInsert...S09.02-Solution-ContentProviderBulkInsert)
