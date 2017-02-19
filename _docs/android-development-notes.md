@@ -113,6 +113,14 @@ https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example/T0
 4. Identify the data you are reading or manipulating to create a URI
 5. In the case of reading from the ContentProvider, display the information in the UI
 
+
+Creating a content provider
+1. Extend the ContentProvider class and implement the required methods
+2. Register it in the Manifest
+3. Define URI's
+4. Add URI's to the contract class
+5- Build a URIMatcher to match URI patterns
+
 Methods
 query, insert, update, delete
 
@@ -128,3 +136,5 @@ selection - how to filter rows
 selection args - what to filter
 sort order
 
+Match integer: #
+Match string: *
