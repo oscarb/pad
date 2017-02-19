@@ -138,3 +138,22 @@ sort order
 
 Match integer: #
 Match string: *
+
+Example of `getType`:
+
+```
+public String getType(@NonNull Uri uri) {
+    int match = sUriMatcher.match(uri);
+
+    switch (match) {
+        case TASKS:
+            // directory
+            return "vnd.android.cursor.dir" + "/" + TaskContract.AUTHORITY + "/" + TaskContract.PATH_TASKS;
+        case TASK_WITH_ID:
+            // single item type
+            return "vnd.android.cursor.item" + "/" + TaskContract.AUTHORITY + "/" + TaskContract.PATH_TASKS;
+        default:
+            throw new UnsupportedOperationException("Unknown uri: " + uri);
+    }
+}
+```
