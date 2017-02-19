@@ -66,6 +66,10 @@ Shortcut | Action
 <kbd>Ctrl</kbd> + <kbd>R</kbd> | Refactor This... 
 <kbd>Ctrl</kbd> + <kbd>NumPad ,</kbd> | Run
 <kbd>Alt</kbd> + <kbd>'</kbd> | VCS popup
+<kbd>Ctrl</kbd> + <kbd>NumPad 1</kbd> | Toggle Presentation mode
+<kbd>Ctrl</kbd> + <kbd>NumPad 2</kbd> | Toggle Distraction Free mode
+<kbd>Ctrl</kbd> + <kbd>NumPad 3</kbd> | Toggle Full Screen mode
+
 
 
 ## Live Templates
