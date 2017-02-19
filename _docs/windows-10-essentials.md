@@ -130,6 +130,7 @@ Create the following web apps using Chrome and pin to taskbar
  * Chrome
  
 Refresh icon cache with `ie4uinit.exe -show` 
+Change command line argument from `--app-id:` to `--app:` to specify a url to use
  
 > **Location:** C:\Users\Oscar\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
 
