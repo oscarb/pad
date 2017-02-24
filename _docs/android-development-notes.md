@@ -169,3 +169,7 @@ The best way to asynchronously load data from any ContentProvider is with a Curs
 
 BulkInsert
 [Comparing S09.02-Exercise-ContentProviderBulkInsert...S09.02-Solution-ContentProviderBulkInsert · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S09.02-Exercise-ContentProviderBulkInsert...S09.02-Solution-ContentProviderBulkInsert)
+
+## Code Quality
+
+* Manual check
