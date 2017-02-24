@@ -16,6 +16,10 @@ See
 * [Tasks and Back Stack](https://developer.android.com/guide/components/activities/tasks-and-back-stack.html#TaskLaunchModes)
 * [android - How can I return to a parent activity correctly?](http://stackoverflow.com/questions/12276027/how-can-i-return-to-a-parent-activity-correctly/15933890#15933890)
 
+## Uri
+
+Build Urls using [Uri.Builder](https://developer.android.com/reference/android/net/Uri.Builder.html)
+
 ## compileSdkVersion, minSdkVersion, and targetSdkVersion
 
 * [Picking your compileSdkVersion, minSdkVersion, targetSdkVersion](https://medium.com/google-developers/picking-your-compilesdkversion-minsdkversion-targetsdkversion-a098a0341ebd#.6xnsu03hg)
