@@ -177,3 +177,7 @@ BulkInsert
 ## Code Quality
 
 * Manual check
+* Reformat code (Ctrl+Alt+L)
+* Optimize imports
+* Inspect code
+* Code cleanup
