@@ -98,7 +98,7 @@ The best Android resources from all over the web, gathered.
 * [How we design a beautiful animation · Jeremie Martinez](http://jeremie-martinez.com/2016/09/15/train-animations/)
 * [An Introduction to Icon Animation Techniques | Android Design Patterns](http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
 * [alexjlockwood/adp-delightful-details: This is the sample app corresponding to my blog post about icon animations.](https://github.com/alexjlockwood/adp-delightful-details)
-*  [alexjlockwood/ShapeShifter: SVG path morphing animation editor](https://github.com/alexjlockwood/ShapeShifter)
+* [alexjlockwood/ShapeShifter: SVG path morphing animation editor](https://github.com/alexjlockwood/ShapeShifter)
 
 ## Libraries
 
