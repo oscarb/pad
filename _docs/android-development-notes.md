@@ -345,6 +345,8 @@ To handle broadcasts when app is started: dynamic broadcast receiver
 
 Register in onResume() and unregister in onPause if it only is needed for foreground stuff.
 
+[Comparing T10.05-Exercise-ChargingBroadcastReceiver...T10.05-Solution-ChargingBroadcastReceiver · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.05-Exercise-ChargingBroadcastReceiver...T10.05-Solution-ChargingBroadcastReceiver)
+
 ## Android Debug Bridge
 
 
