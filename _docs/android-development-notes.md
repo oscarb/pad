@@ -187,3 +187,22 @@ BulkInsert
 ## Services
 
 Background tassk
+
+"More background" than Loader (more front-end)
+
+Start a service
+* Start
+* Schedule
+* Bind - for ongoing communication with an activity
+
+Lifecycle:
+* A service is started from a context with _startService()_ 
+* onCreate()
+* onStartCommadn()
+* Service is running
+	* Create AsyncTask
+* stopSelf()
+* onDestroy()
+
+## JobService
+
