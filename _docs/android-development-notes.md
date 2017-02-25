@@ -217,6 +217,11 @@ Automatically runs on the background thread in order
 
 ### JobService
 
+Runs on the main thread.
+
+[Adding a JobService - YouTube](https://www.youtube.com/watch?v=vZBxSDhXDlc)
+[Exercise: Schedule with FirebaseJobDispatcher - YouTube](https://www.youtube.com/watch?v=lVwknCi7i_s)
+
 ### ForegroundService
 
 Service required to have a non-dismissible ongoing notification. Less likely to be destroyed when memory gets low.
@@ -232,7 +237,7 @@ Service required to have a non-dismissible ongoing notification. Less likely to 
 * Schedule the JobService with FirebaseJobDispatcher
 
 Example
-`` 
+```
 Driver driver = new GooglePlayDriver(context);
 FirebaseJobDispatcher dispatcher = new FirebaseJobDispatcher(driver);
 
@@ -262,8 +267,9 @@ Job myJob = dispatcher.newJobBuilder()
 ```
 
 [Scheduling Jobs - YouTube](https://www.youtube.com/watch?v=bTFIr9pWnCg)
-[firebase/firebase-jobdispatcher-android: The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed.](https://github.com/firebase/firebase-jobdispatcher-android)
+[The Firebase JobDispatcher](https://github.com/firebase/firebase-jobdispatcher-android)
 
+[Comparing T10.04-Exercise-PeriodicSyncWithJobDispatcher...T10.04-Solution-PeriodicSyncWithJobDispatcher · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.04-Exercise-PeriodicSyncWithJobDispatcher...T10.04-Solution-PeriodicSyncWithJobDispatcher)
 
 ## String resources
 
