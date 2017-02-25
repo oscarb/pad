@@ -259,3 +259,5 @@ Use a PendingIntent to open your App from a notification.
 
 [Comparing T10.02-Exercise-CreateNotification...T10.02-Solution-CreateNotification · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.02-Exercise-CreateNotification...T10.02-Solution-CreateNotification)
 
+[Add actions to notifications](https://github.com/udacity/ud851-Exercises/compare/T10.03-Exercise-NotificationActions...T10.03-Solution-NotificationActions)
+
