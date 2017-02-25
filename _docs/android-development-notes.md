@@ -215,8 +215,8 @@ Automatically runs on the background thread in order
 
 ### Pluralization
 
-
-```XML
+XML
+```
 <plurals name="charge_notification_count">
    <item quantity="zero">Hydrate while charging reminder sent %d times</item>
    <item quantity="one">Hydrate while charging reminder sent %d time</item>
@@ -224,7 +224,8 @@ Automatically runs on the background thread in order
 </plurals>
 ```
 
-```Java
+Java
+```
 String formattedChargingReminders = getResources().getQuantityString(R.plurals.charge_notification_count, chargingReminders, chargingReminders);
 ```
 
