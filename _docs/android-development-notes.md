@@ -195,6 +195,8 @@ Services outlasts activites
 Start a service
 * Start
 * Schedule
+  * JobScheduler
+    * FirebaseJobDispatcher
 * Bind - for ongoing communication with an activity
 
 Lifecycle:
@@ -217,7 +219,44 @@ Automatically runs on the background thread in order
 
 ### ForegroundService
 
-Service required to have a non-dismissible ongoing notification
+Service required to have a non-dismissible ongoing notification. Less likely to be destroyed when memory gets low.
+
+## JobScheduler
+
+### FirebaseJobDispatcher
+
+Example
+`` 
+Driver driver = new GooglePlayDriver(context);
+FirebaseJobDispatcher dispatcher = new FirebaseJobDispatcher(driver);
+
+Job myJob = dispatcher.newJobBuilder()
+    // the JobService that will be called
+    .setService(MyJobService.class)
+    // uniquely identifies the job
+    .setTag("complex-job")
+    // one-off job
+    .setRecurring(false)
+    // don't persist past a device reboot
+    .setLifetime(Lifetime.UNTIL_NEXT_BOOT)
+    // start between 0 and 15 minutes (900 seconds)     
+    .setTrigger(Trigger.executionWindow(0, 900))
+    // overwrite an existing job with the same tag
+    .setReplaceCurrent(true)
+    // retry with exponential backoff 
+    .setRetryStrategy(RetryStrategy.DEFAULT_EXPONENTIAL)
+    // constraints that need to be satisfied for the job to run
+    .setConstraints(
+        // only run on an unmetered network
+        Constraint.ON_UNMETERED_NETWORK,
+        // only run when the device is charging
+        Constraint.DEVICE_CHARGING
+    )
+    .build();
+```
+
+[Scheduling Jobs - YouTube](https://www.youtube.com/watch?v=bTFIr9pWnCg)
+[firebase/firebase-jobdispatcher-android: The Firebase JobDispatcher is a library for scheduling background jobs in your Android app. It provides a JobScheduler-compatible API that works on all recent versions of Android (API level 9+) that have Google Play services installed.](https://github.com/firebase/firebase-jobdispatcher-android)
 
 
 ## String resources
@@ -264,4 +303,18 @@ Use a PendingIntent to open your App from a notification.
 [Comparing T10.02-Exercise-CreateNotification...T10.02-Solution-CreateNotification · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.02-Exercise-CreateNotification...T10.02-Solution-CreateNotification)
 
 [Add actions to notifications](https://github.com/udacity/ud851-Exercises/compare/T10.03-Exercise-NotificationActions...T10.03-Solution-NotificationActions)
+
+## Memory prioritization
+
+* Critical
+	* Active apps
+    * Foreground processes
+* High
+	* Visible processes
+* Medium
+    * Service processes
+* Low
+   * Background processes
+   * Empty processes
+   
 
