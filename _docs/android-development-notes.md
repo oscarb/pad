@@ -211,6 +211,8 @@ Lifecycle:
 Automatically runs on the background thread in order
 
 [Comparing T10.01-Exercise-IntentServices...T10.01-Solution-IntentServices · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.01-Exercise-IntentServices...T10.01-Solution-IntentServices)
+
+
 ### JobService
 
 
@@ -235,6 +237,14 @@ String formattedChargingReminders = getResources().getQuantityString(R.plurals.c
 [Documentation](https://developer.android.com/guide/topics/resources/string-resource.html#Plurals)
 
 
+## PendingIntent
 
+Intent in your app designed to be started by another app/service.
+
+This allows a notification (which is handled by the NotificationManager (a system service)) to start your App.
+
+## Notifications
+
+Use NotificationCompat.Builder to create notifications.
 
 
