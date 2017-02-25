@@ -224,7 +224,7 @@ Automatically runs on the background thread in order
 </plurals>
 ```
 
-```java
+```Java
 String formattedChargingReminders = getResources().getQuantityString(R.plurals.charge_notification_count, chargingReminders, chargingReminders);
 ```
 
