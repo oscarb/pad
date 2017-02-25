@@ -349,7 +349,7 @@ Register in onResume() and unregister in onPause if it only is needed for foregr
 
 
 Start app
-`` 
+```
 adb shell am start -n com.package.name/com.package.name.ActivityName
 ```
 
