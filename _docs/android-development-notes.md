@@ -189,6 +189,8 @@ BulkInsert
 Background tassk
 
 "More background" than Loader (more front-end)
+Loaders outlasts configuration changes
+Services outlasts activites
 
 Start a service
 * Start
@@ -207,6 +209,8 @@ Lifecycle:
 ### IntentService
 
 Automatically runs on the background thread in order
+
+[Example code]([Comparing T10.01-Exercise-IntentServices...T10.01-Solution-IntentServices · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.01-Exercise-IntentServices...T10.01-Solution-IntentServices))
 
 ### JobService
 
