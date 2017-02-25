@@ -257,3 +257,5 @@ Use a PendingIntent to open your App from a notification.
 [Using Big View Styles | Android Developers](https://developer.android.com/training/notify-user/expanded.html)
 [Notification.BigPictureStyle | Android Developers](https://developer.android.com/reference/android/app/Notification.BigPictureStyle.html)
 
+[Comparing T10.02-Exercise-CreateNotification...T10.02-Solution-CreateNotification · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.02-Exercise-CreateNotification...T10.02-Solution-CreateNotification)
+
