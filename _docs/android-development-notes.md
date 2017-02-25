@@ -44,6 +44,8 @@ http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools
 
 `onPause` -> `onStop` -> `onRestart` -> `onStart` 
 
+![Lifecycle](https://i.stack.imgur.com/HNzS6.png)
+
 
 
 ## Loader
