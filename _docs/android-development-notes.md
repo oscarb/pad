@@ -222,6 +222,8 @@ Runs on the main thread.
 [Adding a JobService - YouTube](https://www.youtube.com/watch?v=vZBxSDhXDlc)
 [Exercise: Schedule with FirebaseJobDispatcher - YouTube](https://www.youtube.com/watch?v=lVwknCi7i_s)
 
+
+
 ### ForegroundService
 
 Service required to have a non-dismissible ongoing notification. Less likely to be destroyed when memory gets low.
@@ -329,4 +331,39 @@ Use a PendingIntent to open your App from a notification.
    * Background processes
    * Empty processes
    
+## Broadcast Receiver
 
+System Broadcast Intents - triggers for various device changes. 
+
+Creating a broadcast receiever: 
+
+* Static - triggered even when app is offline
+* Dynamic - dependent on apps lifecycle
+
+To handle broadcasts when app isn't started: JobDispatcher or in some cases a static broadcast receiver
+To handle broadcasts when app is started: dynamic broadcast receiver
+
+Register in onResume() and unregister in onPause if it only is needed for foreground stuff.
+
+## Android Debug Bridge
+
+
+Start app
+`` 
+adb shell am start -n com.package.name/com.package.name.ActivityName
+```
+
+Simulate unplugging from USB
+```
+adb shell dumpsys battery set usb 0
+```
+
+Above for Android 6.0+
+```
+adb shell dumpsys battery unplug
+```
+
+Simulate plugging into power 
+```
+adb shell dumpsys battery reset
+```
