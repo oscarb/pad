@@ -200,7 +200,7 @@ Lifecycle:
 * onCreate()
 * onStartCommadn()
 * Service is running
-	* Create AsyncTask
+* Create AsyncTask
 * stopSelf()
 * onDestroy()
 
