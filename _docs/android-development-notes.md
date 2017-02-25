@@ -215,6 +215,10 @@ Automatically runs on the background thread in order
 
 ### JobService
 
+### ForegroundService
+
+Service required to have a non-dismissible ongoing notification
+
 
 ## String resources
 
