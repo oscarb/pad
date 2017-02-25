@@ -227,9 +227,9 @@ XML
 Java
 ```
 String formattedChargingReminders = getResources().getQuantityString(R.plurals.charge_notification_count, chargingReminders, chargingReminders);
+```
 
 [Documentation](https://developer.android.com/guide/topics/resources/string-resource.html#Plurals)
-```
 
 
 
