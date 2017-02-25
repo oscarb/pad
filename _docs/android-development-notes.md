@@ -204,5 +204,31 @@ Lifecycle:
 * stopSelf()
 * onDestroy()
 
-## JobService
+### IntentService
+
+Automatically runs on the background thread in order
+
+### JobService
+
+
+## String resources
+
+### Pluralization
+
+
+```XML
+<plurals name="charge_notification_count">
+   <item quantity="zero">Hydrate while charging reminder sent %d times</item>
+   <item quantity="one">Hydrate while charging reminder sent %d time</item>
+   <item quantity="other">Hydrate while charging reminder sent %d times</item>
+</plurals>
+```
+
+```java
+String formattedChargingReminders = getResources().getQuantityString(R.plurals.charge_notification_count, chargingReminders, chargingReminders);
+```
+
+
+
+
 
