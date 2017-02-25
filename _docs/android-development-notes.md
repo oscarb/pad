@@ -367,3 +367,5 @@ Simulate plugging into power
 ```
 adb shell dumpsys battery reset
 ```
+
+[Android Debug Bridge | Android Studio](https://developer.android.com/studio/command-line/adb.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=adb&utm_campaign=training)
