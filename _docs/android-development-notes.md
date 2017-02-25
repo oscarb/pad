@@ -194,6 +194,7 @@ Services outlasts activites
 
 Start a service
 * Start
+  * IntentService
 * Schedule
   * JobScheduler
     * FirebaseJobDispatcher
