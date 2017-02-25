@@ -223,7 +223,7 @@ Runs on the main thread.
 [Adding a JobService - YouTube](https://www.youtube.com/watch?v=vZBxSDhXDlc)
 [Exercise: Schedule with FirebaseJobDispatcher - YouTube](https://www.youtube.com/watch?v=lVwknCi7i_s)
 
-
+It’s important that we verify that we’ve imported `jobdispatcher.JobService` rather than the Android framework’s `JobService`, because if you do, you’ll definitely have some headaches. Double and triple check that please.
 
 ### ForegroundService
 
