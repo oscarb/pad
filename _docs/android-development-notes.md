@@ -253,3 +253,5 @@ Use a PendingIntent to open your App from a notification.
 
 [Notifications - Patterns - Material design guidelines](https://material.io/guidelines/patterns/notifications.html#)
 
+[Notifications | Android Developers](https://developer.android.com/guide/topics/ui/notifiers/notifications.html)
+
