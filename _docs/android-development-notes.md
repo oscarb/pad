@@ -9,7 +9,7 @@ published: true
 
 ## `android:launchMode`
 
-When up-navigation is present, use `singleTop` for the main activity to preserve state when navigating upwards.
+When up-navigation is present, use `singleTop` for the main activity to preserve state when navigating upwards. This will also stop new activites from being started from a notification.
 
 See 
 * [android:launchMode](https://developer.android.com/guide/topics/manifest/activity-element.html#lmode)
@@ -245,6 +245,11 @@ This allows a notification (which is handled by the NotificationManager (a syste
 
 ## Notifications
 
-Use NotificationCompat.Builder to create notifications.
+* Use NotificationCompat.Builder to create notifications.
+* Get the NotificationManager: `context.getSystemService(Context.NOTIFICATION_SERVICE)`
+* Notify! `notificationManager.notify(...)`
 
+Use a PendingIntent to open your App from a notification.
+
+[Notifications - Patterns - Material design guidelines](https://material.io/guidelines/patterns/notifications.html#)
 
