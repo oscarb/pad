@@ -225,6 +225,12 @@ Service required to have a non-dismissible ongoing notification. Less likely to 
 
 ### FirebaseJobDispatcher
 
+* Add Gradle dependeency
+* Create a task to be runned
+* Create a service extending JobService
+* Add the JobService to the Manifest
+* Schedule the JobService with FirebaseJobDispatcher
+
 Example
 `` 
 Driver driver = new GooglePlayDriver(context);
