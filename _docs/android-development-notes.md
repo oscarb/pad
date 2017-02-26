@@ -443,3 +443,7 @@ Different views in a RecyclerView
 ## DesignSupportLibrary
 
 * [CoordinatorLayout](http://antonioleiva.com/collapsing-toolbar-layout/)
+
+## Parcel
+
+http://blog.bradcampbell.nz/a-comparison-of-parcelable-boilerplate-libraries/
