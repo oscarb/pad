@@ -430,3 +430,8 @@ Tools > Device monitor > Perspective > Hierarcy viewer
 [Localization Checklist | Android Developers](https://developer.android.com/distribute/tools/localization-checklist.html)
 [ISO 639-2 Language Code List - Codes for the representation of names of languages (Library of Congress)](https://www.loc.gov/standards/iso639-2/php/code_list.php)
     
+    
+## RecyclerView
+
+Different views in a RecyclerView
+[Comparing S11.02-Exercise-TodayListItem...S11.02-Solution-TodayListItem · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S11.02-Exercise-TodayListItem...S11.02-Solution-TodayListItem)
