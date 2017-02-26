@@ -424,6 +424,7 @@ Tools > Device monitor > Perspective > Hierarcy viewer
 
 [Accessibility Developer Checklist | Android Developers](https://developer.android.com/guide/topics/ui/accessibility/checklist.html#recommendations)
 
+## Localization
 
-    
+[ISO 639-2 Language Code List - Codes for the representation of names of languages (Library of Congress)](https://www.loc.gov/standards/iso639-2/php/code_list.php)
     
