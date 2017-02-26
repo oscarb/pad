@@ -419,6 +419,7 @@ Tools > Device monitor > Perspective > Hierarcy viewer
 
 - Use `contentDescription` on all ImageViews, ImageButtons and Checkboxes
 	- Text labels, buttons with text and EditTexts normally do not need contentDescription
+    - Don't forget contentDescription on dynamically added views
 - Enable focus-based navigation
 - No audio-only feedback
 
