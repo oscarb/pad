@@ -372,3 +372,58 @@ adb shell dumpsys battery reset
 ```
 
 [Android Debug Bridge | Android Studio](https://developer.android.com/studio/command-line/adb.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=adb&utm_campaign=training)
+
+## View and View Groups
+
+Avoid nesting view and viewgroups too deep.
+
+General rule of thumb:
+* Avoid more than 80 views 
+* Avoid more than 10 nested groups
+
+[Views & View Groups - YouTube](https://www.youtube.com/watch?v=8agCiQzDZys)
+
+### ViewGroups
+
+#### FrameLayout
+
+#### LinearLayout
+
+#### RelativeLayout
+
+#### GridLayout
+
+#### ConstraintLayout
+
+Center vertically by putting a top-constraint to the bottom of the other view, and a bottom-constraint to the top of the other view 
+
+## TextAppearance
+
+Captions
+
+	@style/TextAppearance.AppCompat.Captiom
+    
+Headline
+
+	@style/TextAppearance.AppCompat.Display1
+    
+## Hierarchy viewer
+
+Tools > Device monitor > Perspective > Hierarcy viewer
+
+## Accessibility
+
+* TalkBack - screen reader
+* Explore by Touch - makes TalkBack speak whatever is being touched
+* Accessibility settings - display and sound options
+
+- Use `contentDescription` on all ImageViews, ImageButtons and Checkboxes
+	- Text labels, buttons with text and EditTexts normally do not need contentDescription
+- Enable focus-based navigation
+- No audio-only feedback
+
+[Accessibility Developer Checklist | Android Developers](https://developer.android.com/guide/topics/ui/accessibility/checklist.html#recommendations)
+
+
+    
+    
