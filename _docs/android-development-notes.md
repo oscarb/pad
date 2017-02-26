@@ -435,3 +435,7 @@ Tools > Device monitor > Perspective > Hierarcy viewer
 
 Different views in a RecyclerView
 [Comparing S11.02-Exercise-TodayListItem...S11.02-Solution-TodayListItem · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S11.02-Exercise-TodayListItem...S11.02-Solution-TodayListItem)
+
+## DesignSupportLibrary
+
+* [CoordinatorLayout](http://antonioleiva.com/collapsing-toolbar-layout/)
