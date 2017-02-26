@@ -383,6 +383,8 @@ General rule of thumb:
 
 [Views & View Groups - YouTube](https://www.youtube.com/watch?v=8agCiQzDZys)
 
+[Correct the ImageView's adjustViewBounds behaviour on API Level 17 and below with AdjustableImageView :: The Cheese Factory](https://inthecheesefactory.com/blog/correct-imageview-adjustviewbounds-with-adjustable-imageview/en)
+
 ### ViewGroups
 
 #### FrameLayout
