@@ -53,6 +53,7 @@ File > Import settings...
 * Prefer XML editor
 * Remove file header comments _Created by Oscar on..._ 
 * Editor > General > Code Completion > Autopopup documentation in (ms)
+* Avoid stepping into `android.*` when [debuggning](http://stackoverflow.com/questions/19486163/android-studio-how-to-debug-through-my-code-only)
 
 Setup horizontal scroll wheel to <kbd>Alt</kbd> + <kbd>←</kbd>/<kbd></kbd>
 
