@@ -103,6 +103,7 @@ The best Android resources from all over the web, gathered.
 ## Libraries
 
 * Discovering Android API ([blog.autsoft.hu](https://blog.autsoft.hu/discovering-the-android-api-part-1/?utm_source=Android+Weekly&utm_campaign=454d4b53e2-Android_Weekly_239&utm_medium=email&utm_term=0_4eb677ad19-454d4b53e2-338005577))
+[Build flexible layouts with FlexboxLayout | Android Developers Blog](https://android-developers.googleblog.com/2017/02/build-flexible-layouts-with.html?utm_source=Android+Weekly&utm_campaign=dfb62df48f-android-weekly-246&utm_medium=email&utm_term=0_4eb677ad19-dfb62df48f-338005577)
 
 
 
