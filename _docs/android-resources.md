@@ -136,6 +136,9 @@ The best Android resources from all over the web, gathered.
 ### ConstraintLayout
 * [Guide to ConstraintLayout – Medium](https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013#.hgwi6ptvc)
 
+### FlexboxLayout
+[Build flexible layouts with FlexboxLayout | Android Developers Blog](https://android-developers.googleblog.com/2017/02/build-flexible-layouts-with.html?utm_source=Android+Weekly&utm_campaign=dfb62df48f-android-weekly-246&utm_medium=email&utm_term=0_4eb677ad19-dfb62df48f-338005577)
+
 ### Custom views
 * [Android: draw a custom view – Medium](https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.wtge1s9q4)
 
