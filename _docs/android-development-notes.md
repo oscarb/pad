@@ -440,6 +440,8 @@ Different views in a RecyclerView
 
 * [android - RecyclerView store / restore state between activities - Stack Overflow](http://stackoverflow.com/questions/28236390/recyclerview-store-restore-state-between-activities/28262885#28262885)
 
+Provide height and width or face the consequences
+
 ## DesignSupportLibrary
 
 * [CoordinatorLayout](http://antonioleiva.com/collapsing-toolbar-layout/)
