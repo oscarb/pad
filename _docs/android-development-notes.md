@@ -7,6 +7,23 @@ published: true
 
 # Android Development Notes
 
+## Intents
+
+Example from [Intents and Intent Filters | Android Developers](https://developer.android.com/guide/components/intents-filters.html#ExampleSend)
+```
+// Create the text message with a string
+Intent sendIntent = new Intent();
+sendIntent.setAction(Intent.ACTION_SEND);
+sendIntent.putExtra(Intent.EXTRA_TEXT, textMessage);
+sendIntent.setType("text/plain");
+
+// Verify that the intent will resolve to an activity
+if (sendIntent.resolveActivity(getPackageManager()) != null) {
+    startActivity(sendIntent);
+}
+```
+
+
 ## `android:launchMode`
 
 When up-navigation is present, use `singleTop` for the main activity to preserve state when navigating upwards. This will also stop new activites from being started from a notification.
@@ -445,6 +462,8 @@ Provide height and width or face the consequences
 ## DesignSupportLibrary
 
 * [CoordinatorLayout](http://antonioleiva.com/collapsing-toolbar-layout/)
+
+
 
 ## Parcel
 
