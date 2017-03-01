@@ -468,3 +468,8 @@ Provide height and width or face the consequences
 ## Parcel
 
 http://blog.bradcampbell.nz/a-comparison-of-parcelable-boilerplate-libraries/
+
+
+## Style vs Theme
+
+A theme is a style applied to an activity
