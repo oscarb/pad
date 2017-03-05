@@ -474,6 +474,8 @@ http://blog.bradcampbell.nz/a-comparison-of-parcelable-boilerplate-libraries/
 
 A theme is a style applied to an activity
 
+For lists, use dimensions such as: `@dimen/list_item_icon_margin_right`
+
 ## Layout
 
 Use the smallest width qualifier
