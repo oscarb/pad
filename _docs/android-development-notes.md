@@ -478,4 +478,16 @@ A theme is a style applied to an activity
 
 Use the smallest width qualifier
 
+## Touch selectors
+
+0. Create drawable `list_item_selector.xml`
+0. Root element should be selector 
+0- Add items for different states
+   * state_pressed
+   * state_activated
+   * state_selected
+   * default
+0. Set backgroubd of item to be selected to the newly created touch selector
+
+   
 
