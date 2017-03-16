@@ -100,7 +100,7 @@ Five ways to persist data in Android:
 ### Preferences
 
 * Use PreferenceFragment instead of Preference Activity
-* [Make a PreferenceFragment - YouTube](https://www.youtube.com/watch?v=AFCywvOnM2M)
+* [Make a PreferenceFragment](https://www.youtube.com/watch?v=AFCywvOnM2M) (YouTube)
 * [Comparing T06.02-Exercise-MakeAPreferenceFragment...T06.02-Solution-MakeAPreferenceFragment · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T06.02-Exercise-MakeAPreferenceFragment...T06.02-Solution-MakeAPreferenceFragment)
 
 Reading From SharedPreferences
