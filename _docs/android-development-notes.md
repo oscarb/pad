@@ -105,8 +105,10 @@ Five ways to persist data in Android:
 
 #### Reading From SharedPreferences
 
-* `getDefaultSharedPreferences` : Gets a SharedPreferences instance that points to the default file that is used by the preference framework in the given context!
-* `getSharedPreferences`: Gets a specific SharedPreferences instance by name in case you have more than one preference in the same context!
+`getDefaultSharedPreferences` 
+: Gets a SharedPreferences instance that points to the default file that is used by the preference framework in the given context!
+`getSharedPreferences`
+: Gets a specific SharedPreferences instance by name in case you have more than one preference in the same context!
 
 Preference Change Listener
 * Don't forget to unregister in onDestroy
