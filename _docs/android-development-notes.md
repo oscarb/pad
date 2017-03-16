@@ -123,7 +123,7 @@ Five ways to persist data in Android:
 #### Guidelines
 * [Settings](https://material.io/guidelines/patterns/settings.html#settings-placement) (Material design guidelines)
 
-Should it be a setting?
+#### Should it be a setting?
 
 ![Make it a setting?](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/582a4eda_screen-shot-2016-11-14-at-3.55.51-pm/screen-shot-2016-11-14-at-3.55.51-pm.png)
 
