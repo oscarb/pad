@@ -143,6 +143,7 @@ Five ways to persist data in Android:
 * [Sunshine ContentProvider Foundation](https://github.com/udacity/ud851-Sunshine/compare/S09.01-Exercise-ContentProviderFoundation...S09.01-Solution-ContentProviderFoundation) (Code)
 * [Sunshine: Using CursorLoader](https://github.com/udacity/ud851-Sunshine/compare/S09.04-Exercise-UsingCursorLoader...S09.04-Solution-UsingCursorLoader) (Code)
 
+#### Using a ContentProvider
 1. Get permission to use the ContentProvider.
 	`<uses-permission android:name="com.example.appname.TERMS_READ" />
 2. Get the ContentResolver
