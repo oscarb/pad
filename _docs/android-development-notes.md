@@ -138,10 +138,9 @@ Five ways to persist data in Android:
 
 ## Content provider
 
-[Example App](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete)
+* [Example App](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete)
 
-ud851-Exercises/Lesson08-Quiz-Example/T08.02-Exercise-AddAsyncTaskToRetrieveCursor at student · udacity/ud851-Exercises
-https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example/T08.02-Exercise-AddAsyncTaskToRetrieveCursor
+* [AddAsyncTaskToRetrieveCursor](https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example/T08.02-Exercise-AddAsyncTaskToRetrieveCursor) (Code)
 
 [Comparing S09.01-Exercise-ContentProviderFoundation...S09.01-Solution-ContentProviderFoundation · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S09.01-Exercise-ContentProviderFoundation...S09.01-Solution-ContentProviderFoundation)
 
