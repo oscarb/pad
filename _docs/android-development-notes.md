@@ -12,7 +12,7 @@ published: true
 
 ## Intents
 
-Example from [Intents and Intent Filters | Android Developers](https://developer.android.com/guide/components/intents-filters.html#ExampleSend)
+Example from [Intents and Intent Filters](https://developer.android.com/guide/components/intents-filters.html#ExampleSend)
 ```
 // Create the text message with a string
 Intent sendIntent = new Intent();
@@ -27,7 +27,9 @@ if (sendIntent.resolveActivity(getPackageManager()) != null) {
 ```
 
 
-## `android:launchMode`
+## Preserve state when navigating upwards
+
+	android:launchMode
 
 When up-navigation is present, use `singleTop` for the main activity to preserve state when navigating upwards. This will also stop new activites from being started from a notification.
 
