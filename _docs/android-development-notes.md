@@ -141,8 +141,7 @@ Five ways to persist data in Android:
 * [Example App](https://github.com/udacity/ud851-Exercises/tree/student/Lesson09-ToDo-List/T09.07-Solution-SwipeToDelete)
 * [AddAsyncTaskToRetrieveCursor](https://github.com/udacity/ud851-Exercises/tree/student/Lesson08-Quiz-Example/T08.02-Exercise-AddAsyncTaskToRetrieveCursor) (Code)
 * [Sunshine ContentProvider Foundation](https://github.com/udacity/ud851-Sunshine/compare/S09.01-Exercise-ContentProviderFoundation...S09.01-Solution-ContentProviderFoundation) (Code)
-
-[Comparing S09.04-Exercise-UsingCursorLoader...S09.04-Solution-UsingCursorLoader · udacity/ud851-Sunshine](https://github.com/udacity/ud851-Sunshine/compare/S09.04-Exercise-UsingCursorLoader...S09.04-Solution-UsingCursorLoader)
+* [Sunshine: Using CursorLoader](https://github.com/udacity/ud851-Sunshine/compare/S09.04-Exercise-UsingCursorLoader...S09.04-Solution-UsingCursorLoader) (Code)
 
 1. Get permission to use the ContentProvider.
 	`<uses-permission android:name="com.example.appname.TERMS_READ" />
