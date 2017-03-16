@@ -7,6 +7,9 @@ published: true
 
 # Android Development Notes
 
+* TOC
+{:toc}
+
 ## Intents
 
 Example from [Intents and Intent Filters | Android Developers](https://developer.android.com/guide/components/intents-filters.html#ExampleSend)
