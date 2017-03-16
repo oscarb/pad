@@ -506,4 +506,4 @@ Use the smallest width qualifier
    * state_selected
    * default
    Note: each item can have a color as the drawable
-0. Set backgroubd of item to be selected to the newly created touch selector
+0. Set background of item to be selected to the newly created touch selector
