@@ -146,12 +146,14 @@ Five ways to persist data in Android:
 #### Using a ContentProvider
 
 1. Get permission to use the ContentProvider.
-	`<uses-permission android:name="com.example.appname.TERMS_READ" />`
+
+		<uses-permission android:name="com.example.appname.TERMS_READ" />
+
 2. Get the ContentResolver
-	```
-    ContentResolver resolver = getContentResolver();
-    Cursor cursor = resolver.query(Contract.CONTENT_URI, null, null, null, null);
-    ``` 
+
+		ContentResolver resolver = getContentResolver();
+        Cursor cursor = resolver.query(Contract.CONTENT_URI, null, null, null, null);
+
 3. Pick one of four basic actions on the data: query, insert, update, delete
 4. Identify the data you are reading or manipulating to create a URI
 5. In the case of reading from the ContentProvider, display the information in the UI
