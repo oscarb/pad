@@ -103,7 +103,7 @@ Five ways to persist data in Android:
 * [Make a PreferenceFragment](https://www.youtube.com/watch?v=AFCywvOnM2M) (YouTube)
 * [Make A Preference Fragment](https://github.com/udacity/ud851-Exercises/compare/T06.02-Exercise-MakeAPreferenceFragment...T06.02-Solution-MakeAPreferenceFragment) (Code)
 
-Reading From SharedPreferences
+#### Reading From SharedPreferences
 * `getDefaultSharedPreferences` : Gets a SharedPreferences instance that points to the default file that is used by the preference framework in the given context!
 * `getSharedPreferences`: Gets a specific SharedPreferences instance by name in case you have more than one preference in the same context!
 
