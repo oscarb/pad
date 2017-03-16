@@ -89,6 +89,8 @@ From Active ot Visible to Background
 
 ## Persistance
 
+Five ways to persist data in Android:
+
 * onSavedInstance
 * SharedPreferences
 * SQLLite Db
