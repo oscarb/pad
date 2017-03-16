@@ -121,7 +121,7 @@ Five ways to persist data in Android:
 * [PreferenceSummary](https://github.com/udacity/ud851-Exercises/compare/T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary) (Code)
 
 #### Guidelines
-* [Settings - Patterns - Material design guidelines](https://material.io/guidelines/patterns/settings.html#settings-placement)
+* [Settings](https://material.io/guidelines/patterns/settings.html#settings-placement) (Material design guidelines)
 
 Should it be a setting?
 
