@@ -116,8 +116,8 @@ Five ways to persist data in Android:
 * `SharedPreferenceChangeListener` is triggered after any value is saved to the SharedPreferences file.
 * `PreferenceChangeListener` is triggered before a value is saved to the SharedPreferences file. Because of this, it can prevent an invalid update to a preference. PreferenceChangeListeners are also attached to a single preference.
 
-Update preference fragment
-* [Preference Summary - YouTube](https://www.youtube.com/watch?v=cXqgkDC8fNg)
+#### Update preference fragment
+* [Preference Summary](https://www.youtube.com/watch?v=cXqgkDC8fNg) (YouTube) 
 * [Comparing T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary)
 
 * [Settings - Patterns - Material design guidelines](https://material.io/guidelines/patterns/settings.html#settings-placement)
