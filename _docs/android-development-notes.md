@@ -219,7 +219,7 @@ BulkInsert
 
 ## Services
 
-Background tassk
+Background task
 
 "More background" than Loader (more front-end)
 Loaders outlasts configuration changes
