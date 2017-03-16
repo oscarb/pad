@@ -70,11 +70,13 @@ An Activity is sent to the background
 From Active to Visible (but not active)
 `onPause` -> `onResume`
 
+From Active ot Visible to Background
 `onPause` -> `onStop` -> `onRestart` -> `onStart` 
 
 ![Lifecycle](https://i.stack.imgur.com/HNzS6.png)
 
 * [The Android Activity Lifecycle](https://www.youtube.com/watch?v=LFTYZrYARUw) (YouTube)
+* [Reto On The Android Activity Lifecycle](https://www.youtube.com/watch?v=0JpxCe4G5cc) (YouTube)
 
 
 ## Loader
