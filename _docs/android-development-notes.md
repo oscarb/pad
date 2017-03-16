@@ -146,7 +146,7 @@ Five ways to persist data in Android:
 #### Using a ContentProvider
 
 1. Get permission to use the ContentProvider.
-	`<uses-permission android:name="com.example.appname.TERMS_READ" />
+	`<uses-permission android:name="com.example.appname.TERMS_READ" />`
 2. Get the ContentResolver
 	```
     ContentResolver resolver = getContentResolver();
