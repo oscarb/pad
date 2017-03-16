@@ -46,13 +46,16 @@ Build URLs using [Uri.Builder](https://developer.android.com/reference/android/n
 
 * [Picking your compileSdkVersion, minSdkVersion, targetSdkVersion](https://medium.com/google-developers/picking-your-compilesdkversion-minsdkversion-targetsdkversion-a098a0341ebd#.6xnsu03hg)
 
+## Organizing code
 
 * [Please, don’t commit commented out code](https://medium.com/@kentcdodds/please-don-t-commit-commented-out-code-53d0b5b26d5f#.ju4jsavqz)
+* [Android Project Structure — alternative way](https://medium.com/google-developer-experts/android-project-structure-alternative-way-29ce766682f0#.h71ecd3x8)
+
+## Previewing layouts in Android Studio
 
 * Use tools to preview stuff, see https://developer.android.com/studio/write/tool-attributes.html
 http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes
 
-* [Android Project Structure — alternative way – Google Developers Experts – Medium](https://medium.com/google-developer-experts/android-project-structure-alternative-way-29ce766682f0#.h71ecd3x8)
 
 ## Lifecycle
 
