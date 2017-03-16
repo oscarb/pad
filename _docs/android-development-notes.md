@@ -129,7 +129,7 @@ Five ways to persist data in Android:
 
 ### SQLLite Database
 
-* [sql-sqlite-commands-cheat-sheet.pdf](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57ed880e_sql-sqlite-commands-cheat-sheet/sql-sqlite-commands-cheat-sheet.pdf)
+* [Cheat sheet](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57ed880e_sql-sqlite-commands-cheat-sheet/sql-sqlite-commands-cheat-sheet.pdf) (PDF)
 * [SQL Tutorial](http://www.w3schools.com/sql/)
 
 Create a database
