@@ -111,7 +111,7 @@ Five ways to persist data in Android:
 `getSharedPreferences`
 : Gets a specific SharedPreferences instance by name in case you have more than one preference in the same context!
 
-Preference Change Listener
+#### Preference Change Listener
 * Don't forget to unregister in onDestroy
 * `SharedPreferenceChangeListener` is triggered after any value is saved to the SharedPreferences file.
 * `PreferenceChangeListener` is triggered before a value is saved to the SharedPreferences file. Because of this, it can prevent an invalid update to a preference. PreferenceChangeListeners are also attached to a single preference.
