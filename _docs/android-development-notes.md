@@ -61,16 +61,20 @@ http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools
 
 * Use `onStop()` for when Android is killing the acitivity
 
+An Activity appears in the foreground
 `onCreate` -> `onStart` -> `onResume`
 
+An Activity is sent to the background
 `onPause` -> `onStop` -> `onDestroy`
 
+From Active to Visible (but not active)
 `onPause` -> `onResume`
 
 `onPause` -> `onStop` -> `onRestart` -> `onStart` 
 
 ![Lifecycle](https://i.stack.imgur.com/HNzS6.png)
 
+* [The Android Activity Lifecycle](https://www.youtube.com/watch?v=LFTYZrYARUw) (YouTube)
 
 
 ## Loader
