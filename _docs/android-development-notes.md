@@ -133,7 +133,8 @@ Five ways to persist data in Android:
 * [SQL Tutorial](http://www.w3schools.com/sql/)
 
 #### Create a database
-https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheDatabase...T07.02-Solution-CreateTheDatabase
+
+* [Create a database](https://github.com/udacity/ud851-Exercises/compare/T07.02-Exercise-CreateTheDatabase...T07.02-Solution-CreateTheDatabase)
 
 ## Content provider
 
