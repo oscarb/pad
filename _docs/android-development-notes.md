@@ -166,10 +166,8 @@ Five ways to persist data in Android:
 4. Add URI's to the contract class
 5- Build a URIMatcher to match URI patterns
 
-Methods
-query, insert, update, delete
 
-URI
+URI Example:
 content://com.example.appname/specificData
 
 CONTENT_URI
