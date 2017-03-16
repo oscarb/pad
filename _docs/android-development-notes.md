@@ -118,7 +118,7 @@ Five ways to persist data in Android:
 
 #### Update preference fragment
 * [Preference Summary](https://www.youtube.com/watch?v=cXqgkDC8fNg) (YouTube) 
-* [Comparing T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary)
+* [PreferenceSummary](https://github.com/udacity/ud851-Exercises/compare/T06.08-Exercise-PreferenceSummary...T06.08-Solution-PreferenceSummary) (Code)
 
 * [Settings - Patterns - Material design guidelines](https://material.io/guidelines/patterns/settings.html#settings-placement)
 
