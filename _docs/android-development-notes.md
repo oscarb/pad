@@ -83,7 +83,7 @@ From Active ot Visible to Background
 
 * Use loaders to avoid recreating async tasks between config changes
 * Code: [Add AsyncTaskLoader](https://github.com/udacity/ud851-Exercises/blob/T05b.02-Solution-AddAsyncTaskLoader/app/src/main/java/com/example/android/asynctaskloader/MainActivity.java)
-* [Leveraging Loaders in Github Query - YouTube](https://www.youtube.com/watch?v=5o7SN8Z3VWs)
+* YouTube: [Leveraging Loaders in Github Query](https://www.youtube.com/watch?v=5o7SN8Z3VWs)
 
 * Cache data so loader won't start ehen user navigates away from activity
 https://github.com/udacity/ud851-Exercises/blob/T05b.03-Solution-PolishAsyncTask/app/src/main/java/com/example/android/asynctaskloader/MainActivity.java
