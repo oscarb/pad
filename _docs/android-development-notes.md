@@ -40,7 +40,7 @@ See
 
 ## Uri
 
-Build Urls using [Uri.Builder](https://developer.android.com/reference/android/net/Uri.Builder.html)
+Build URLs using [Uri.Builder](https://developer.android.com/reference/android/net/Uri.Builder.html)
 
 ## compileSdkVersion, minSdkVersion, and targetSdkVersion
 
