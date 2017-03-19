@@ -15,4 +15,6 @@ tags: [ux]
   * [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 * Facebook
   * [Human Computer Interaction & UX – Facebook Research](https://research.fb.com/category/human-computer-interaction-and-ux/)
+* Other
+  * [ractical UX Methods](http://practicaluxmethods.com/)
   
