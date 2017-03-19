@@ -9,3 +9,4 @@ tags: [ux]
 ## Courses and education
 
 * [Intro to Design of Everyday THings](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
+* [Product Design | Udacity](https://www.udacity.com/course/product-design--ud509)
