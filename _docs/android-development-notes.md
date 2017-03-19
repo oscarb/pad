@@ -507,3 +507,11 @@ Use the smallest width qualifier
    * default
    Note: each item can have a color as the drawable
 0. Set background of item to be selected to the newly created touch selector
+
+## Launching an app
+
+* [Launch checklist](https://developer.android.com/distribute/best-practices/launch/launch-checklist.html)
+
+## Material Design
+
+* [Use Material Design](https://developer.android.com/distribute/best-practices/develop/use-material-design.html)
