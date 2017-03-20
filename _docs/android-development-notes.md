@@ -360,7 +360,7 @@ int largeIconWidth = Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB ?
 	? resources.getDimensionPixelSize(android.R.dimen.notification_large_icon_width)
 	: resources.getDimensionPixelSize(R.dimen.notification_large_icon_default);
 ```
- 
+Where `R.dimen.notification_large_icon_default` is set to `48dp`
 
 ## Memory prioritization
 
