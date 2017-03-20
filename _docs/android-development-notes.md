@@ -354,6 +354,14 @@ Use a PendingIntent to open your App from a notification.
 
 [Engage with rich notifications](https://developer.android.com/distribute/best-practices/engage/rich-notifications.html)
 
+For Android versions >= HONEYCOMB, notifcation image sizes can be found with 
+
+	int largeIconWidth = Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB ? 
+    	? resources.getDimensionPixelSize(android.R.dimen.notification_large_icon_width)
+        : resources.getDimensionPixelSize(R.dimen.notification_large_icon_default);
+        
+ 
+
 ## Memory prioritization
 
 * Critical
@@ -517,3 +525,7 @@ Use the smallest width qualifier
 ## Material Design
 
 * [Use Material Design](https://developer.android.com/distribute/best-practices/develop/use-material-design.html)
+
+## Libraries
+
+Look for support, documentation and functionality
