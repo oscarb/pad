@@ -327,6 +327,18 @@ String formattedChargingReminders = getResources().getQuantityString(R.plurals.c
 
 [Documentation](https://developer.android.com/guide/topics/resources/string-resource.html#Plurals)
 
+### String format
+
+XML
+```
+<string name="format_art_url" translatable="false">https://raw.githubusercontent.com/udacity/Sunshine-Version-2/sunshine_master/app/src/main/res/drawable-xxhdpi/art_<xliff:g id="description">%s</xliff:g>.png</string>
+```
+
+Java
+```
+context.getString(R.string.format_art_url, "clear");
+```
+
 
 ## PendingIntent
 
