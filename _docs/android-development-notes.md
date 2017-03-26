@@ -541,3 +541,7 @@ Use the smallest width qualifier
 ## Libraries
 
 Look for support, documentation and functionality
+
+## Testing
+
+[Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html?index=..%2F..%2Findex#0)
