@@ -569,6 +569,12 @@ Style with
    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"   
 ```
 
+### Card
+
+`cardPreventCornerOverlap="false"`
+
+
+
 ## Refs
 Aliases as resources
 
@@ -578,3 +584,9 @@ refs.xml
   <item type="layout" name="refName">@layout/some_layout</item>
 </resources>
 ```
+
+## RecyclerView
+
+### Item choices
+
+[Using RecyclerView Part 3 - YouTube](https://www.youtube.com/watch?v=Vz7H78-vFU0)
