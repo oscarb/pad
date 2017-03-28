@@ -588,5 +588,7 @@ refs.xml
 ## RecyclerView
 
 ### Item choices
-
+https://github.com/udacity/Advanced_Android_Development/compare/6.17_Improving_our_RecyclerView...6.18_Bonus_RecyclerView_Code
 [Using RecyclerView Part 3 - YouTube](https://www.youtube.com/watch?v=Vz7H78-vFU0)
+
+[Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
