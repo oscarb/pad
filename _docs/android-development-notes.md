@@ -450,6 +450,8 @@ General rule of thumb:
 
 #### GridLayout
 
+
+
 #### ConstraintLayout
 
 Center vertically by putting a top-constraint to the bottom of the other view, and a bottom-constraint to the top of the other view 
@@ -538,6 +540,14 @@ Use the smallest width qualifier
 
 * [Use Material Design](https://developer.android.com/distribute/best-practices/develop/use-material-design.html)
 
+### Typography
+
+Display 4 corresponds to 
+
+	android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+    
+and so on....
+
 ## Libraries
 
 Look for support, documentation and functionality
@@ -545,3 +555,13 @@ Look for support, documentation and functionality
 ## Testing
 
 [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html?index=..%2F..%2Findex#0)
+
+## Material design
+
+### Toolbar
+
+Default toolbar size height: `?attr/actionBarSize"
+
+Style with 
+
+   android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
