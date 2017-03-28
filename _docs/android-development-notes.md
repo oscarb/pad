@@ -520,6 +520,8 @@ For lists, use dimensions such as: `@dimen/list_item_icon_margin_right`
 
 Use the smallest width qualifier
 
+`?attr/listPreferredItemHeight`
+
 ## Touch selectors
 
 0. Create drawable `list_item_selector.xml`
@@ -546,7 +548,7 @@ Display 4 corresponds to
 
 	android:textAppearance="@style/TextAppearance.AppCompat.Display4"
     
-and so on....
+and so on...
 
 ## Libraries
 
@@ -563,5 +565,16 @@ Look for support, documentation and functionality
 Default toolbar size height: `?attr/actionBarSize"
 
 Style with 
+```
+   android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"   
+```
 
-   android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+## Refs
+Aliases as resources
+
+refs.xml
+```
+<resources>
+  <item type="layout" name="refName">@layout/some_layout</item>
+</resources>
+```
