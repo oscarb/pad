@@ -655,3 +655,5 @@ ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
 * Add the API key to your Android manifest file.
 
 [Comparing 8.00_Places_API_Start...8.07_Adding_Attributions · udacity/Advanced_Android_Development](https://github.com/udacity/Advanced_Android_Development/compare/8.00_Places_API_Start...8.07_Adding_Attributions)
+
+[Place Picker  |  Google Places API for Android  |  Google Developers](https://developers.google.com/places/android-api/placepicker#add)
