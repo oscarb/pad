@@ -637,6 +637,7 @@ ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
 
 [Animation Resources | Android Developers](https://developer.android.com/guide/topics/resources/animation-resource.html)
 [Animating Views Using Scenes and Transitions | Android Developers](https://developer.android.com/training/transitions/index.html)
+[Applying a Transition | Android Developers](https://developer.android.com/training/transitions/transitions.html)
 
 ### Shared elements
 * Add `android:transitionName` to view in destination
