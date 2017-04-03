@@ -593,6 +593,16 @@ https://github.com/udacity/Advanced_Android_Development/compare/6.17_Improving_o
 
 [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
 
+### Parallell scrolling
+
+0. Attach scrollListener
+* Change translation in y of background by half in relative to the y scroll
+* Clear onScrollListeners in onDestroy
+
+[Scrolling in Parallel - YouTube](https://www.youtube.com/watch?v=AGcugMbwwJ8)
+[Untitled - YouTube](https://www.youtube.com/watch?v=jKayW_Gek8w)
+
+
 ## Support higher screen ratios
 
 In order to support screen ratios such as 18.5:9 (like that on the Samsung Galaxy S8), add the following to the manifest, in the application element:
@@ -604,4 +614,5 @@ In order to support screen ratios such as 18.5:9 (like that on the Samsung Galax
 _Where ratio_float is the maximum aspect ratio your app can support, expressed as (longer dimension / shorter dimension) in decimal form. _
 
 https://android-developers.googleblog.com/2017/03/update-your-app-to-take-advantage-of.html
+
 
