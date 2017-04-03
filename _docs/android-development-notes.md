@@ -615,4 +615,24 @@ _Where ratio_float is the maximum aspect ratio your app can support, expressed a
 
 https://android-developers.googleblog.com/2017/03/update-your-app-to-take-advantage-of.html
 
+## Transitions
+
+Exclude navigation bar and status bar with `@android:id/statusBarBackground` and `@android:id/navigationBarBackground` respectively. 
+
+* Create transitions resource
+* Add to theme and enable for both starting end ending activity
+
+```
+<item name="android:windowContentTransitions">true</item>
+<item name="android:windowEnterTransition">@transition/enter_transition</item>
+<item name="android:windowReturnTransition">@transition/return_transition</item>
+```
+
+* Start activity with
+
+```
+ActivityOptionsCompat activityOptions = ActivityOptionsCompat.makeSceneTransitionAnimation(this);
+ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
+```
+
 
