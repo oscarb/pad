@@ -619,7 +619,7 @@ https://android-developers.googleblog.com/2017/03/update-your-app-to-take-advant
 
 Exclude navigation bar and status bar with `@android:id/statusBarBackground` and `@android:id/navigationBarBackground` respectively. 
 
-* Create transitions resource
+* Create transitions resource (v21)
 * Add to theme and enable for both starting end ending activity (in v21 style)
 
 ```
@@ -635,4 +635,12 @@ ActivityOptionsCompat activityOptions = ActivityOptionsCompat.makeSceneTransitio
 ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
 ```
 
+### Shared elements
+* Add `android:transitionName` to view in destination
+* Add `android:transitionName` to view in origin byt code
+
+   ViewCompat.setTransitionName(viewHolder, viewToAnimate, "transitionName")
+   
+   
+[Shared Element Transitions (solution) - YouTube](https://www.youtube.com/watch?v=gzSRpXuVKAY)
 
