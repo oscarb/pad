@@ -644,3 +644,14 @@ ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
    
 [Shared Element Transitions (solution) - YouTube](https://www.youtube.com/watch?v=gzSRpXuVKAY)
 
+## Places API
+
+* Find your app's certificate information
+  * Find debug keystore file
+  * ` keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android`
+  * Copy the key 
+* [Enable the Places API in the Developer Console](https://console.developers.google.com/flows/enableapi?apiid=placesandroid&keyType=CLIENT_SIDE_ANDROID)
+* Get an Android API key
+* Add the API key to your Android manifest file.
+
+[Comparing 8.00_Places_API_Start...8.07_Adding_Attributions · udacity/Advanced_Android_Development](https://github.com/udacity/Advanced_Android_Development/compare/8.00_Places_API_Start...8.07_Adding_Attributions)
