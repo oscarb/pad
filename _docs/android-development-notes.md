@@ -600,7 +600,7 @@ https://github.com/udacity/Advanced_Android_Development/compare/6.17_Improving_o
 * Clear onScrollListeners in onDestroy
 
 [Scrolling in Parallel - YouTube](https://www.youtube.com/watch?v=AGcugMbwwJ8)
-[Untitled - YouTube](https://www.youtube.com/watch?v=jKayW_Gek8w)
+[Scrolling in Parallel - YouTube](https://www.youtube.com/watch?v=jKayW_Gek8w)
 
 
 ## Support higher screen ratios
