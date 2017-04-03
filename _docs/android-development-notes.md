@@ -620,7 +620,7 @@ https://android-developers.googleblog.com/2017/03/update-your-app-to-take-advant
 Exclude navigation bar and status bar with `@android:id/statusBarBackground` and `@android:id/navigationBarBackground` respectively. 
 
 * Create transitions resource
-* Add to theme and enable for both starting end ending activity
+* Add to theme and enable for both starting end ending activity (in v21 style)
 
 ```
 <item name="android:windowContentTransitions">true</item>
