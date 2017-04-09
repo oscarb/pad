@@ -669,6 +669,9 @@ ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
 * Margins are automatically provided on Android 4.0+ (wrap in frame layout for backwards compability)
 * Add to manifest
 
+[Creating the Widget’s view - YouTube](https://www.youtube.com/watch?v=SUGWOtTe0kQ)
+[7.01_Sunshines_First_Widget · udacity/Advanced_Android_Development](https://github.com/udacity/Advanced_Android_Development/compare/7.00_Building_a_Total_Experience...7.01_Sunshines_First_Widget)
+
 ### AppWidgetProviderInfo (XML)
 
 Required attributes
