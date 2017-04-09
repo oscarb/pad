@@ -685,6 +685,8 @@ AppWidgetManager.getAppWidgetOptions().getInt(AppWidgetManager.OPTION_APPWIDGET_
 
 `minResizeWidth` can be set to smaller than default size `minWidth`
 
+Collection widget: [集合小部件 - YouTube](https://www.youtube.com/watch?v=9GyoNEbouYc)
+
 ### AppWidgetProviderInfo (XML)
 
 Required attributes
