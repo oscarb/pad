@@ -733,6 +733,7 @@ Test overdraw
 
 ### Memory Monitor
 
+[Manage Your App's Memory | Android Developers](https://developer.android.com/topic/performance/memory.html)
 
 
 ## Publishing
