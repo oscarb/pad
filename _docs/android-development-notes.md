@@ -667,7 +667,7 @@ ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
 
 * Use Widget Preview App in emulators to generate preview image
 * Margins are automatically provided on Android 4.0+ (wrap in frame layout for backwards compability)
-
+* Add to manifest
 
 ### AppWidgetProviderInfo (XML)
 
