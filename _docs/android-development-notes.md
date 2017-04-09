@@ -672,6 +672,19 @@ ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
 [Creating the Widget’s view - YouTube](https://www.youtube.com/watch?v=SUGWOtTe0kQ)
 [7.01_Sunshines_First_Widget · udacity/Advanced_Android_Development](https://github.com/udacity/Advanced_Android_Development/compare/7.00_Building_a_Total_Experience...7.01_Sunshines_First_Widget)
 
+SyncAdapter
+* onPerformSync()
+AppWidgetProvider
+* onReceive() 
+* onUpdate()
+IntentService
+* onHandleIntent()
+
+* Current size of widgets (Android 4.1+)
+AppWidgetManager.getAppWidgetOptions().getInt(AppWidgetManager.OPTION_APPWIDGET_MIN_WIDTH);
+
+`minResizeWidth` can be set to smaller than default size `minWidth`
+
 ### AppWidgetProviderInfo (XML)
 
 Required attributes
@@ -706,3 +719,20 @@ public class TodayWidgetProvider extends AppWidgetProvider {
   }
 }
 ```
+
+## Performance
+
+"Users will complain about performance 3x than any other issue"
+
+### Overdraw
+
+Test overdraw
+* Developer Options -> Hardware accelerated rendering -> Debug GPU Overdraw -> Show overdraw areas
+
+### Memory Monitor
+
+
+
+## Publishing
+
+* Cryptographic keys MUST have a validity period that ends after 22 October 2033.
