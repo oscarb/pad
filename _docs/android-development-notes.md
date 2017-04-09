@@ -662,3 +662,44 @@ ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
 [Comparing 8.00_Places_API_Start...8.07_Adding_Attributions · udacity/Advanced_Android_Development](https://github.com/udacity/Advanced_Android_Development/compare/8.00_Places_API_Start...8.07_Adding_Attributions)
 
 [Place Picker  |  Google Places API for Android  |  Google Developers](https://developers.google.com/places/android-api/placepicker#add)
+
+## Widgets
+
+* Use Widget Preview App in emulators to generate preview image
+* Margins are automatically provided on Android 4.0+ (wrap in frame layout for backwards compability)
+
+
+### AppWidgetProviderInfo (XML)
+
+Required attributes
+* initialLayout
+* minWidth
+* minHeight 
+
+``` 
+Size = 70dp * n - 30dp
+= 40 dp for n = 1
+= 110 dp    = n = 2
+```
+
+### AppWidgetProvider (Java)
+  * ConfigurationActivity
+
+```
+public class TodayWidgetProvider extends AppWidgetProvider {
+  @Override 
+  public void onUpdate(Context context, AppWidgetManager manager, int[} appWidgetIds) {
+    for (int appWidgetId : appWidgetIds) {
+      RemoteViews = views = new RemoteViews(context.getPackageName(), R.layot.widget_today_small);
+      
+      // Clickable widget
+      Intent intent = new Intent(context, MainActivity.class);
+      PendingIntent pendingIntent = PendingIntent.getActivity(context, 0, intent, 0);
+      views.setOnClickPendingIntent(R.id.widget, pendingIntent);
+      
+      manager.updateAppWidget(appWidgetId, views);
+      
+    }  
+  }
+}
+```
