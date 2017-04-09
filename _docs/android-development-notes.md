@@ -726,6 +726,8 @@ public class TodayWidgetProvider extends AppWidgetProvider {
 
 "Users will complain about performance 3x than any other issue"
 
+[Performance Tips | Android Developers](https://developer.android.com/training/articles/perf-tips.html)
+
 ### Overdraw
 
 Test overdraw
