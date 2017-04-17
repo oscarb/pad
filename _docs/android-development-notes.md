@@ -756,6 +756,11 @@ Test overdraw
 
 * [My take on Model View Intent (MVI) — Part 1: State Renderer](https://medium.com/hacker-daily/model-view-intent-mvi-part-1-state-renderer-187e270db15c)
 
+## Debugging
+
+* [Why your app should crash · Jeroen Mols](http://jeroenmols.com/blog/2017/03/08/appcrash/?utm_source=Android+Weekly&utm_campaign=a7b955ad5e-android-weekly-248&utm_medium=email&utm_term=0_4eb677ad19-a7b955ad5e-338005577)
+
+
 [Android Weekly #247 - oscar.bjorkman@gmail.com - Gmail](https://mail.google.com/mail/ca/u/0/#inbox/15a9f6f82c00c904)
 [Google Calendar - Fri, May 19](https://calendar.google.com/calendar/render#main_7%7Cday-1+24243+24243+24243)
 [(1) WhatsApp](https://web.whatsapp.com/)
