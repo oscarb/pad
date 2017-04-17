@@ -640,7 +640,9 @@ ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
 [Animating Views Using Scenes and Transitions | Android Developers](https://developer.android.com/training/transitions/index.html)
 [Applying a Transition | Android Developers](https://developer.android.com/training/transitions/transitions.html)
 
-[Workcation App – Part 4. Shared Element Transition with RecyclerView and Scenes – Droids On Roids Blog](https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes/?utm_source=Android+Weekly&utm_campaign=2b67d3db13-android-weekly-253&utm_medium=email&utm_term=0_4eb677ad19-2b67d3db13-338005577)
+* [Workcation App – Part 4. Shared Element Transition with RecyclerView and Scenes – Droids On Roids Blog](https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes/?utm_source=Android+Weekly&utm_campaign=2b67d3db13-android-weekly-253&utm_medium=email&utm_term=0_4eb677ad19-2b67d3db13-338005577)
+* [From design to android, part 1 · Saúl Molinero](http://saulmm.github.io/from-design-to-android-part1?utm_source=Android+Weekly&utm_campaign=0657fbdef4-android-weekly-249&utm_medium=email&utm_term=0_4eb677ad19-0657fbdef4-338005577)
+
 
 ### Shared elements
 * Add `android:transitionName` to view in destination
