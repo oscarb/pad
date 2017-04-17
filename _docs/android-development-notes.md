@@ -741,3 +741,7 @@ Test overdraw
 ## Publishing
 
 * Cryptographic keys MUST have a validity period that ends after 22 October 2033.
+
+## Fonts
+
+* [Android O: Fonts – Part 1 – Styling Android](https://blog.stylingandroid.com/android-o-fonts/?utm_source=Android+Weekly&utm_campaign=2b67d3db13-android-weekly-253&utm_medium=email&utm_term=0_4eb677ad19-2b67d3db13-338005577)
