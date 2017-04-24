@@ -759,3 +759,7 @@ Test overdraw
 ## Debugging
 
 * [Why your app should crash · Jeroen Mols](http://jeroenmols.com/blog/2017/03/08/appcrash/?utm_source=Android+Weekly&utm_campaign=a7b955ad5e-android-weekly-248&utm_medium=email&utm_term=0_4eb677ad19-a7b955ad5e-338005577)
+
+## Fragments
+
+* [Read Fragments: The Solution to (and Cause of) All of Android’s Problems](https://news.realm.io/news/michael-yotive-state-of-fragments-2017/?utm_source=Android+Weekly&utm_campaign=9411db07ba-android-weekly-254&utm_medium=email&utm_term=0_4eb677ad19-9411db07ba-338005577)
