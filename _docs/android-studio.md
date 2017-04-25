@@ -105,6 +105,29 @@ CURSOR | | |
 
 ### Snackbar
 
+Abbreviation
+: Snackbar
+
+Description
+: Create a new Snackbar
+
+Template text: 
+
+```
+Snackbar.make(findViewById(R.id.$resId$), "$text$", Snackbar.LENGTH_SHORT).show();
+```
+
+Reformat according to style
+
+Template variables
+
+Name | Expression | Default value | Skip if defined 
+-----|------------|---------------|-----------------
+resId | completeSmart() | | 
+text | | | 
+
+Applicable in Java: statement.
+
 ## Tips
 
 * Rename variable, method or class with <kbd>Shift</kbd> + <kbd>F6</kbd>
