@@ -244,7 +244,7 @@ Lifecycle:
 
 ### IntentService
 
-Automatically runs on the background thread in order, perfect for one off tasks that need to be handled in the background.
+Automatically runs on the background thread in order, perfect for one off tasks that need to be handled in the background _in order_.
 
 [Comparing T10.01-Exercise-IntentServices...T10.01-Solution-IntentServices · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.01-Exercise-IntentServices...T10.01-Solution-IntentServices)
 
