@@ -242,6 +242,8 @@ Lifecycle:
 * stopSelf()
 * onDestroy()
 
+* [Android: Service, IntentService, AsyncTask and Thread – marsic|dev](http://marsic.info/2016/03/01/android-service-intent-asynctask-thread/)
+
 ### IntentService
 
 Automatically runs on the background thread in order, perfect for one off tasks that need to be handled in the background _in order_.
@@ -249,6 +251,8 @@ Automatically runs on the background thread in order, perfect for one off tasks 
 Runs on a worker thread (compared to the main thread for a Service).
 
 Stops itself after requests have been handled unlike a Service which needs to be stopped with `stopSelf()` or `stopService()`
+
+"Fire and forget"
 
 [Comparing T10.01-Exercise-IntentServices...T10.01-Solution-IntentServices · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.01-Exercise-IntentServices...T10.01-Solution-IntentServices)
 
