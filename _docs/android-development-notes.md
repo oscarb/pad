@@ -259,7 +259,9 @@ Stops itself after requests have been handled unlike a Service which needs to be
 
 ### JobService
 
-Runs on the main thread.
+The base class that handles asynchronous requests that were previously scheduled in a JobScheduler. 
+
+Because it runs on the main thread any task needs to be set up on another thread/handler/AsyncTask to avoid blocking future callbacks from the JobManager.
 
 [Adding a JobService - YouTube](https://www.youtube.com/watch?v=vZBxSDhXDlc)
 [Exercise: Schedule with FirebaseJobDispatcher - YouTube](https://www.youtube.com/watch?v=lVwknCi7i_s)
