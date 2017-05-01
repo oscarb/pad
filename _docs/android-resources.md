@@ -10,6 +10,8 @@ published: true
 
 The best Android resources from all over the web, gathered.
 
+* [aritraroy/UltimateAndroidReference: Ultimate Android Reference - Your Road to Become a Better Android Developer](https://github.com/aritraroy/UltimateAndroidReference)
+
 ## Resources
 
 * Android Documentation - AND Broadcast - Udacity Discussion Forum ([discussions.udacity.com](https://discussions.udacity.com/t/android-documentation/19569))
