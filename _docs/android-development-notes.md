@@ -50,6 +50,7 @@ Build URLs using [Uri.Builder](https://developer.android.com/reference/android/n
 
 * [Please, don’t commit commented out code](https://medium.com/@kentcdodds/please-don-t-commit-commented-out-code-53d0b5b26d5f#.ju4jsavqz)
 * [Android Project Structure — alternative way](https://medium.com/google-developer-experts/android-project-structure-alternative-way-29ce766682f0#.h71ecd3x8)
+* [Object Oriented Tricks: #4 Starter Pattern -Android Edition](https://hackernoon.com/object-oriented-tricks-4-starter-pattern-android-edition-1844e1a8522d)
 
 ## Previewing layouts in Android Studio
 
