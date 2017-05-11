@@ -774,3 +774,7 @@ Test overdraw
 ## Fragments
 
 * [Read Fragments: The Solution to (and Cause of) All of Android’s Problems](https://news.realm.io/news/michael-yotive-state-of-fragments-2017/?utm_source=Android+Weekly&utm_campaign=9411db07ba-android-weekly-254&utm_medium=email&utm_term=0_4eb677ad19-9411db07ba-338005577)
+
+## UX
+
+* [Design your app to drive conversions | Android Developers](https://developer.android.com/distribute/best-practices/develop/design-to-drive-conversions.html)
