@@ -32,3 +32,11 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
 
 * [Installing your own parse-server on Windows](https://medium.com/@cristi_ursachi/installing-your-own-parse-server-on-windows-b2c7a2498d19#.1qmcj7xkn)
 * [Install MongoDB Community Edition on Windows — MongoDB Manual 3.4](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+
+## Hosting
+
+Name | Database storage | File storage | Requests/second | Price   | Notes
+-----|------------------|--------------|-----------------|---------|-----------
+[Back4App](https://www.back4app.com/) | 0.5 GB | 5 GB | 10 | Free | 1 Cloud code job
+
+
