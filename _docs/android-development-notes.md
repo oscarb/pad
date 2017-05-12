@@ -756,6 +756,7 @@ Test overdraw
 ## Publishing
 
 * Cryptographic keys MUST have a validity period that ends after 22 October 2033.
+* ["To Do" list before publishing android app to market - Stack Overflow](http://stackoverflow.com/questions/5119633/to-do-list-before-publishing-android-app-to-market)
 
 ## Fonts
 
