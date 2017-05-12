@@ -38,6 +38,6 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
 Name | Database storage | File storage | Requests/second | Price   | Notes
 -----|------------------|--------------|-----------------|---------|-----------
 [Back4App](https://www.back4app.com/) | 0.5 GB | 5 GB | 10 | Free | 1 Cloud code job
-[Buddy](https://buddy.com/) | ? | ? | 30 | Free | -
+[Buddy](https://buddy.com/) | ? | ? | 30 | Free | $100 USD per additional 10 rps per month
 
 
