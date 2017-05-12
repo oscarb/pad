@@ -40,5 +40,7 @@ Name | Database storage | Requests/second | Price   | Notes
 [Back4App](https://www.back4app.com/) | 0.5 GB | 10 | Free | 1 Cloud code job
 [Buddy](https://buddy.com/) | ? | 30 | Free | $100 USD per additional 10 rps per month
 [Heroku](https://www.heroku.com/) | 10K rows | ? | Free | -
+[Google Cloud Platform](https://cloud.google.com/) | ? | ? | ? | -
+
 
 
