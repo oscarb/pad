@@ -42,5 +42,9 @@ Name | Database storage | Requests/second | Price   | Notes
 [Heroku](https://www.heroku.com/) | 10K rows | ? | Free | -
 [Google Cloud Platform](https://cloud.google.com/) | ? | ? | ? | -
 
+## Push notifications
+
+* [OneSignal](https://onesignal.com/)
+
 
 
