@@ -799,3 +799,7 @@ Test overdraw
 ## UX
 
 * [Design your app to drive conversions | Android Developers](https://developer.android.com/distribute/best-practices/develop/design-to-drive-conversions.html)
+
+## Check for unessecary added permissions from libraries
+
+[How Libraries can silently add permissions to your Android App](https://medium.com/glucosio-project/how-libraries-can-silently-add-permissions-to-your-android-app-620911d7de6c)
