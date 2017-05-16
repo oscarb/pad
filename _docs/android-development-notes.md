@@ -403,6 +403,7 @@ Set the color for notifications from Firebase in the manifest with:
 
 If the device doesn't have a compatible version of Google Play services, your app can call [GoogleApiAvailability.makeGooglePlayServicesAvailable()](https://developers.google.com/android/reference/com/google/android/gms/common/GoogleApiAvailability.html#public-methods) to allow users to download Google Play services from the Play Store.
 
+* [Notification Channels | Android Developers](https://developer.android.com/preview/features/notification-channels.html)
 
 ## Memory prioritization
 
