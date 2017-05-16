@@ -377,6 +377,8 @@ Use a PendingIntent to open your App from a notification.
 
 [Engage with rich notifications](https://developer.android.com/distribute/best-practices/engage/rich-notifications.html)
 
+Check for Google Play Services both in onCreate() and onResume()
+
 For Android versions >= HONEYCOMB, notifcation image sizes can be found with 
 ```
 int largeIconWidth = Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB ? 
@@ -397,8 +399,9 @@ Set the color for notifications from Firebase in the manifest with:
 <meta-data
     android:name="com.google.firebase.messaging.default_notification_color"
     android:resource="@color/colorAccent" />
-
 ```
+
+If the device doesn't have a compatible version of Google Play services, your app can call [GoogleApiAvailability.makeGooglePlayServicesAvailable()](https://developers.google.com/android/reference/com/google/android/gms/common/GoogleApiAvailability.html#public-methods) to allow users to download Google Play services from the Play Store.
 
 
 ## Memory prioritization
