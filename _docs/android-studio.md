@@ -131,7 +131,7 @@ Applicable in Java: statement.
 ## Tips
 
 * Rename variable, method or class with <kbd>Shift</kbd> + <kbd>F6</kbd>
-* Extend selections with <kbd>Alt</kbd> + <kbd>↑</kbd>
+* Move between methods with <kbd>Alt</kbd> + <kbd>↑</kbd>/<kbd>↓</kbd>
 * Insert code snippets with <kbd>Ctrl</kbd> + <kbd>J</kbd>
 * Move between methods with <kbd>Alt</kbd> + <kbd>↑</kbd>/<kbd>↓</kbd>
 * Look into the body of a called method with <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>
