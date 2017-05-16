@@ -385,6 +385,14 @@ int largeIconWidth = Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB ?
 ```
 Where `R.dimen.notification_large_icon_default` is set to `48dp`
 
+Set the color for notifications from Firebase in the manifest with:
+```
+<meta-data
+  android:name="com.google.firebase.messaging.default_notification_color"
+  android:resource="@color/colorAccent" />
+```
+
+
 ## Memory prioritization
 
 * Critical
