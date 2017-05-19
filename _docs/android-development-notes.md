@@ -57,6 +57,9 @@ Build URLs using [Uri.Builder](https://developer.android.com/reference/android/n
 * Use tools to preview stuff, see https://developer.android.com/studio/write/tool-attributes.html
 http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes
 
+```
+@sample/lorem
+```
 
 ## Lifecycle
 
