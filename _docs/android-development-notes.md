@@ -807,3 +807,7 @@ Test overdraw
 ## Check for unessecary added permissions from libraries
 
 [How Libraries can silently add permissions to your Android App](https://medium.com/glucosio-project/how-libraries-can-silently-add-permissions-to-your-android-app-620911d7de6c)
+
+## Android Architecture 
+
+[Android Developers Blog: Android and Architecture](https://android-developers.googleblog.com/2017/05/android-and-architecture.html)
