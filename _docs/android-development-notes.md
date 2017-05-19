@@ -811,3 +811,5 @@ Test overdraw
 ## Android Architecture 
 
 [Android Developers Blog: Android and Architecture](https://android-developers.googleblog.com/2017/05/android-and-architecture.html)
+
+[Guide to App Architecture | Android Developers](https://developer.android.com/topic/libraries/architecture/guide.html)
