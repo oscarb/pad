@@ -181,10 +181,10 @@ CONTENT_URI
 
 Cursor methods arguments
 
-projection - filter columns
-selection - how to filter rows
-selection args - what to filter
-sort order
+* projection - filter columns
+* selection - how to filter rows
+* selection args - what to filter
+* sort order
 
 Match integer: #
 Match string: *
