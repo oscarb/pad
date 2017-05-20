@@ -170,11 +170,12 @@ Five ways to persist data in Android:
 2. Register it in the Manifest
 3. Define URI's
 4. Add URI's to the contract class
-5- Build a URIMatcher to match URI patterns
+5. Build a URIMatcher to match URI patterns
 
 
 URI Example:
-content://com.example.appname/specificData
+
+	content://com.example.appname/specificData
 
 CONTENT_URI
 
