@@ -815,3 +815,18 @@ Test overdraw
 [Android Developers Blog: Android and Architecture](https://android-developers.googleblog.com/2017/05/android-and-architecture.html)
 
 [Guide to App Architecture | Android Developers](https://developer.android.com/topic/libraries/architecture/guide.html)
+
+## WebView
+
+### Enable Google Safe Browsing API
+
+Same as in Chrome
+
+```
+<manifest>
+	<meta-data
+    	android:name="android.webkit.WebView.EnableSafeBrowsing"
+        android:value="true" />
+    <!-- ... --->
+</manifest>
+``` 
