@@ -65,18 +65,18 @@ Frpm Android Studio 3.0, samples are available:
 
 ## Lifecycle
 
-* Use `onStop()` for when Android is killing the acitivity
+* When Android is killing the acitivity, `onStop()` is called
 
 An Activity appears in the foreground
 `onCreate` -> `onStart` -> `onResume`
 
-An Activity is sent to the background
+An Activity is sent to the background (app switched)
 `onPause` -> `onStop` -> `onDestroy`
 
-From Active to Visible (but not active)
+From Active to Visible (but not active) (modals)
 `onPause` -> `onResume`
 
-From Active ot Visible to Background
+From Active or Visible to Background
 `onPause` -> `onStop` -> `onRestart` -> `onStart` 
 
 ![Lifecycle](https://i.stack.imgur.com/HNzS6.png)
@@ -153,12 +153,12 @@ Five ways to persist data in Android:
 
 1. Get permission to use the ContentProvider.
 
-		<uses-permission android:name="com.example.appname.TERMS_READ" />
+       <uses-permission android:name="com.example.appname.TERMS_READ" />
 
 2. Get the ContentResolver
 
-		ContentResolver resolver = getContentResolver();
-        Cursor cursor = resolver.query(Contract.CONTENT_URI, null, null, null, null);
+       ContentResolver resolver = getContentResolver();
+       Cursor cursor = resolver.query(Contract.CONTENT_URI, null, null, null, null);
 
 3. Pick one of four basic actions on the data: query, insert, update, delete
 4. Identify the data you are reading or manipulating to create a URI
