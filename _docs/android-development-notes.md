@@ -411,6 +411,9 @@ If the device doesn't have a compatible version of Google Play services, your ap
 
 * [Notification Channels | Android Developers](https://developer.android.com/preview/features/notification-channels.html)
 
+Must use channels once target O is targeted.
+
+
 ## Memory prioritization
 
 * Critical
@@ -830,3 +833,7 @@ Same as in Chrome
     <!-- ... --->
 </manifest>
 ``` 
+
+## Adaptive icons
+
+
