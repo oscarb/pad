@@ -54,10 +54,11 @@ Build URLs using [Uri.Builder](https://developer.android.com/reference/android/n
 
 ## Previewing layouts in Android Studio
 
-* Use tools to preview stuff, see https://developer.android.com/studio/write/tool-attributes.html
-http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes
+Use the tools attribute
+* [Tools Attributes Reference](https://developer.android.com/studio/write/tool-attributes.html)
+* [Things You May Not Know: Tools Attributes](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes)
 
-In Android Studio 3.0:
+Frpm Android Studio 3.0, samples are available:
 ```
 @sample/lorem
 ```
