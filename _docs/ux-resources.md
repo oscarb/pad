@@ -38,6 +38,11 @@ tags: [ux]
 
 * [10 Typography Tips Every Business Should Know – Prototyping: From UX to Front End](https://blog.prototypr.io/10-typography-tips-every-business-should-know-b62483899d14)
 
+
+## Animation
+
+* [How to Create Custom Loading Animations to Decrease Bounce Rates | Toptal](https://www.toptal.com/designers/product-design/how-to-create-custom-loading-animations-to-decrease-bounce-rates)
+
 ### Checlists
 
 * [UX Project Checklist](http://uxchecklist.github.io/)
