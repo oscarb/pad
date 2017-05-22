@@ -33,6 +33,11 @@ tags: [ux]
 ## Personas
 
 * [Creating Personas – Prototyping: From UX to Front End](https://blog.prototypr.io/personas-74c4e1c12ee2)
+
+## Fonts
+
+* [10 Typography Tips Every Business Should Know – Prototyping: From UX to Front End](https://blog.prototypr.io/10-typography-tips-every-business-should-know-b62483899d14)
+
 ### Checlists
 
 * [UX Project Checklist](http://uxchecklist.github.io/)
