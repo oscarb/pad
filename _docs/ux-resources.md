@@ -26,6 +26,9 @@ tags: [ux]
 
 * [The Top 9 Resources For Color Schemes – Prototyping: From UX to Front End](https://blog.prototypr.io/the-top-9-resources-for-color-schemes-f75ea1630dd9)
 
+## Forms
+
+* [RIP Web Forms — You Will Not Be Missed! – Prototyping: From UX to Front End](https://blog.prototypr.io/rip-web-forms-you-will-not-be-missed-7d9eecdc0df2)
 
 ### Checlists
 
