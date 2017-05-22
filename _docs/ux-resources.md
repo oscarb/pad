@@ -30,6 +30,9 @@ tags: [ux]
 
 * [RIP Web Forms — You Will Not Be Missed! – Prototyping: From UX to Front End](https://blog.prototypr.io/rip-web-forms-you-will-not-be-missed-7d9eecdc0df2)
 
+## Personas
+
+* [Creating Personas – Prototyping: From UX to Front End](https://blog.prototypr.io/personas-74c4e1c12ee2)
 ### Checlists
 
 * [UX Project Checklist](http://uxchecklist.github.io/)
