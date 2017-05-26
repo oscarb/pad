@@ -13,3 +13,4 @@ published: true
 	- Shortcuts:
     	* Commit all files: Ctrl-Alt-Insert
 * [brackets-show-whitespace](https://github.com/DennisKehrig/brackets-show-whitespace)
+* [brackets-beautify](https://github.com/brackets-beautify/brackets-beautify)
