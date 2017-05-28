@@ -496,6 +496,8 @@ General rule of thumb:
 
 Center vertically by putting a top-constraint to the bottom of the other view, and a bottom-constraint to the top of the other view 
 
+* [Using ConstraintLayout to design your views](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
+
 ## TextAppearance
 
 Captions
