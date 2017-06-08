@@ -842,3 +842,8 @@ Same as in Chrome
 ## Date, time and calendars
 
 * [How to Correctly Format Date/Time Strings on Android](http://blog.danlew.net/2013/06/27/how_to_correctly_format_date_time_strings_on_android/)
+
+
+## Android O 
+
+* [Android O Behavior Changes | Android Developers](https://developer.android.com/preview/behavior-changes.html#abll)
