@@ -32,6 +32,7 @@ See [Prototyping tools](/prototyping)
 ## Icons
 
 * [Test icon for free on Android & iOS | IconTester.com](http://www.icontester.com/)
+* [Feather – Simply beautiful open source icons](https://feather.netlify.com/?&utm_source=prototypr_newsletter&utm_medium=email&utm_campaign=bot_personalities_and_what_is_ux_writing&utm_term=2017-06-03)
 
 ## Colors
 
