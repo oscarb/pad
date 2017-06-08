@@ -43,6 +43,6 @@ tags: [ux]
 
 * [How to Create Custom Loading Animations to Decrease Bounce Rates | Toptal](https://www.toptal.com/designers/product-design/how-to-create-custom-loading-animations-to-decrease-bounce-rates)
 
-### Checlists
+### Checklists
 
 * [UX Project Checklist](http://uxchecklist.github.io/)
