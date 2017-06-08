@@ -847,4 +847,5 @@ Same as in Chrome
 
 ## Android O 
 
+* [Android O Features and APIs | Android Developers](https://developer.android.com/preview/api-overview.html)
 * [Android O Behavior Changes | Android Developers](https://developer.android.com/preview/behavior-changes.html)
