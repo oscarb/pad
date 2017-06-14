@@ -849,3 +849,7 @@ Same as in Chrome
 
 * [Android O Features and APIs | Android Developers](https://developer.android.com/preview/api-overview.html)
 * [Android O Behavior Changes | Android Developers](https://developer.android.com/preview/behavior-changes.html)
+
+## Location
+
+* [Android Developers Blog: Reduce friction with the new Location APIs](https://android-developers.googleblog.com/2017/06/reduce-friction-with-new-location-apis.html)
