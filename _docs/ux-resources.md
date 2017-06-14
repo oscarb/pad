@@ -50,3 +50,7 @@ tags: [ux]
 ## UX Writing
 
 [UX Writing: How to do it like Google with this powerful checklist](https://uxplanet.org/ux-writing-how-to-do-it-like-google-with-this-powerful-checklist-e263cc37f5f1)
+
+## Inspiration
+
+* [alexpate/awesome-design-systems at prototyprio](https://github.com/alexpate/awesome-design-systems?ref=prototyprio&utm_source=prototypr_newsletter&utm_medium=email&utm_campaign=airbnbs_lottie_put_to_the_test_and_awesome_design_systems&utm_term=2017-06-09)
