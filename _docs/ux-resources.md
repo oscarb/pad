@@ -42,6 +42,7 @@ tags: [ux]
 ## Animation
 
 * [How to Create Custom Loading Animations to Decrease Bounce Rates | Toptal](https://www.toptal.com/designers/product-design/how-to-create-custom-loading-animations-to-decrease-bounce-rates)
+* [A Lottie to Like – Prototyping: From UX to Front End](https://blog.prototypr.io/a-lottie-to-like-6670f2bed3c5?ref=prototyprio)
 
 ### Checklists
 
