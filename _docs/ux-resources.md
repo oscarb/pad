@@ -25,6 +25,7 @@ tags: [ux]
 ## Color
 
 * [The Top 9 Resources For Color Schemes – Prototyping: From UX to Front End](https://blog.prototypr.io/the-top-9-resources-for-color-schemes-f75ea1630dd9)
+* [Essential Color Tools for UX Designers – UX Planet](https://uxplanet.org/essential-color-tools-for-ux-designers-530036eaf9ae)
 
 ## Forms
 
