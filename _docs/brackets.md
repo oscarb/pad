@@ -14,3 +14,4 @@ published: true
     	* Commit all files: Ctrl-Alt-Insert
 * [brackets-show-whitespace](https://github.com/DennisKehrig/brackets-show-whitespace)
 * [brackets-beautify](https://github.com/brackets-beautify/brackets-beautify)
+* [brackets-indent-guides](https://github.com/lkcampbell/brackets-indent-guides)
