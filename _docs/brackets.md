@@ -16,3 +16,4 @@ published: true
 * [brackets-beautify](https://github.com/brackets-beautify/brackets-beautify)
 * [brackets-indent-guides](https://github.com/lkcampbell/brackets-indent-guides)
 * [brackets-print-margin](https://github.com/Hirse/brackets-print-margin) 
+* [brackets-paste-and-indent](https://github.com/ahuth/brackets-paste-and-indent)
