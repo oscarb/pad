@@ -15,3 +15,4 @@ published: true
 * [brackets-show-whitespace](https://github.com/DennisKehrig/brackets-show-whitespace)
 * [brackets-beautify](https://github.com/brackets-beautify/brackets-beautify)
 * [brackets-indent-guides](https://github.com/lkcampbell/brackets-indent-guides)
+* [brackets-print-margin](https://github.com/Hirse/brackets-print-margin) 
