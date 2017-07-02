@@ -237,7 +237,7 @@ Settings > Compression > Remove redundant folders from extraction path
 * Adblock Plus
 * cookies.txt
 * Keep Chrome Extension
-* LastPss
+* LastPass
 * Markdown here
 * Postman
 * prose
