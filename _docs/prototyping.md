@@ -51,6 +51,7 @@ Name | Lowest price | Platform | Protype for
 [iPhone Mockup](http://iphonemockup.lkmc.ch/) | Free | Web | iPhone
 [iPlotz](http://iplotz.com/)  | Free[^iplotz] | Mac, Windows | Any
 [iRise](https://www.irise.com/features/prototyping/)  | $29/month | Web, Mac, Windows | Any
+[Kite Compositor](https://kiteapp.co/) | $99/month | Mac | Any
 [Koncept](https://konceptapp.com/) | $30/month | Web | Any
 [Justinmind](https://www.justinmind.com/) | $19/month | Mac, Windows | Any
 [Keynotopia](http://keynotopia.com/) | $97 | Keynote, PowerPoint | Any
