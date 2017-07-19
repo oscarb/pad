@@ -853,3 +853,7 @@ Same as in Chrome
 ## Location
 
 * [Android Developers Blog: Reduce friction with the new Location APIs](https://android-developers.googleblog.com/2017/06/reduce-friction-with-new-location-apis.html)
+
+## VectorDrawable
+
+* [From Illustrator to Android XML](https://blog.prototypr.io/from-illustrator-to-android-xml-47e25b713e6b)
