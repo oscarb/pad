@@ -6,6 +6,7 @@ tags: [ux]
 
 * [GraphicBurger](http://graphicburger.com/)
 * [Free Design Resources | Pixeden](https://www.pixeden.com/free-design-web-resources)
+* [A Complete List Of UX Deliverables](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434)
 
 ## Courses and education
 
