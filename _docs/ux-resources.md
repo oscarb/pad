@@ -61,3 +61,7 @@ tags: [ux]
 ## Stock photos
 
 * [Stock photos that don’t suck – Dustin Senos ✌️ – Medium](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
+
+## Clothing
+
+* [22 Awesome T-Shirt Templates and Mockups for Your Clothing Line](https://www.shopify.co.uk/blog/19495812-22-awesome-t-shirt-templates-and-mockups-for-your-clothing-line)
