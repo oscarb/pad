@@ -5,6 +5,7 @@ tags: [ux]
 # UX Resources
 
 * [GraphicBurger](http://graphicburger.com/)
+* [Free Design Resources | Pixeden](https://www.pixeden.com/free-design-web-resources)
 
 ## Courses and education
 
