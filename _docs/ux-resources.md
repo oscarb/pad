@@ -57,3 +57,7 @@ tags: [ux]
 ## Inspiration
 
 * [alexpate/awesome-design-systems at prototyprio](https://github.com/alexpate/awesome-design-systems?ref=prototyprio&utm_source=prototypr_newsletter&utm_medium=email&utm_campaign=airbnbs_lottie_put_to_the_test_and_awesome_design_systems&utm_term=2017-06-09)
+
+## Stock photos
+
+* [Stock photos that don’t suck – Dustin Senos ✌️ – Medium](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
