@@ -861,6 +861,7 @@ Same as in Chrome
 ## Launcer Icon Sizes
 
 size identifier | size 
+----------------|------
 ldpi | 36x36
 mdpi | 48x48
 hdpi | 72x72 
