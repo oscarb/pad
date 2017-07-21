@@ -857,3 +857,14 @@ Same as in Chrome
 ## VectorDrawable
 
 * [From Illustrator to Android XML](https://blog.prototypr.io/from-illustrator-to-android-xml-47e25b713e6b)
+
+## Launcer Icon Sizes
+
+size identifier | size 
+ldpi | 36x36
+mdpi | 48x48
+hdpi | 72x72 
+xhdpi | 96x96
+xxhdpi | 144x144
+xxxhdpi | 192x192
+Google Play | 512x512
