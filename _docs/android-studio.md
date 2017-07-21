@@ -35,7 +35,11 @@ File > Import settings...
 * HAXM 
 * Enable USB debugging on device
 
+## ADB
 
+Add adb to path variable
+
+`%localappdata%\Android\sdk\platform-tools`
 
 ## Code style
 
