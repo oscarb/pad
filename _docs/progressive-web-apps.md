@@ -7,4 +7,4 @@ tags: [apps, pwa]
 
 ## Tutorials
 
-* [Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
+* Your First Progressive Web App ([Codelabs](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)) ([Google Developers](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/))
