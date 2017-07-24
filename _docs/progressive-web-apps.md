@@ -27,10 +27,13 @@ A Progressive Web App is:
 ## Tutorials
 
 * Your First Progressive Web App -- [CodeLabs](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0), [Google Developers](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/)
+* [Debugging Service Workers](https://codelabs.developers.google.com/codelabs/debugging-service-workers/#0)
 
 ## Caching
 
 * [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/#cache-network-race)
+
+
 
 ## Install banners
 
