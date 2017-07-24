@@ -42,6 +42,7 @@ A Progressive Web App is:
 ## Read more
 
 * [What, Exactly, Makes Something A Progressive Web App?](https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/)
+* [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 
 ## Further improvements
 
