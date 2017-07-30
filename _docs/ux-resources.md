@@ -53,7 +53,8 @@ tags: [ux]
 
 ## UX Writing
 
-[UX Writing: How to do it like Google with this powerful checklist](https://uxplanet.org/ux-writing-how-to-do-it-like-google-with-this-powerful-checklist-e263cc37f5f1)
+* [UX Writing: How to do it like Google with this powerful checklist](https://uxplanet.org/ux-writing-how-to-do-it-like-google-with-this-powerful-checklist-e263cc37f5f1)
+* [Stopwords in the user interface](http://ilyabirman.net/meanwhile/all/stopwords-in-user-interface/)
 
 ## Inspiration
 
