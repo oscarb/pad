@@ -75,7 +75,7 @@ Shortcut | Action
 <kbd>Ctrl</kbd> + <kbd>NumPad 1</kbd> | Toggle Presentation mode
 <kbd>Ctrl</kbd> + <kbd>NumPad 2</kbd> | Toggle Distraction Free mode
 <kbd>Ctrl</kbd> + <kbd>NumPad 3</kbd> | Toggle Full Screen mode
-
+<kbd>Ctrl</kbd> + <kbd>Enter</kbd> | Complete Current Statement
 
 
 ## Live Templates
