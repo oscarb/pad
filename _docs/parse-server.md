@@ -35,16 +35,23 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
 
 ## Hosting
 
+### Parse/Node
+
 Name | Database storage | Requests/second | Price   | Notes
 -----|------------------|-----------------|---------|-----------
 [Back4App](https://www.back4app.com/) | 0.5 GB | 10 | Free | 1 Cloud code job
 [Buddy](https://buddy.com/) | ? | 30 | Free | $100 USD per additional 10 rps per month
 [Heroku](https://www.heroku.com/) | 10K rows | ? | Free | -
 [Google Cloud Platform](https://cloud.google.com/) | ? | ? | ? | -
+[Red Hat OpenShift Online](https://www.openshift.com/pricing/index.html) | 1GiB | 1GiB Memory  | Free | -
+
+### MongoDb
+
+Name | Database storage | Price   | Notes
+-----|------------------|---------|---------
+[mLab](https://mlab.com/) | 0.5 GB | Free | -
+
 
 ## Push notifications
 
 * [OneSignal](https://onesignal.com/)
-
-
-
