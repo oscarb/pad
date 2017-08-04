@@ -41,6 +41,14 @@ Add adb to path variable
 
 `%localappdata%\Android\sdk\platform-tools`
 
+## Enable logging on Huawei devices
+
+```
+*#*#2846579#*#*
+```
+
+Background setting > Log Setting 
+
 ## Code style
 
 * [Google](https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml)
