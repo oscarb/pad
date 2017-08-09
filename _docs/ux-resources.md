@@ -50,6 +50,7 @@ tags: [ux]
 ### Checklists
 
 * [UX Project Checklist](http://uxchecklist.github.io/)
+* [How to develop an eye for UX design?](https://uxplanet.org/how-to-develop-an-eye-for-ux-design-95cca951d7f4)
 
 ## UX Writing
 
