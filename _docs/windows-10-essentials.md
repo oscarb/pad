@@ -134,9 +134,9 @@ Change command line argument from `--app-id:` to `--app:` to specify a url to us
  
 > **Location:** C:\Users\Oscar\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
 
-### Mouse and keyboard
-**Mouse**
-Edit wheel speed, middle click, left side button and right side button
+### Keyboard
+
+Change Caps Lock to Play/Pause using [sharpkeys35](https://github.com/randyrants/sharpkeys/releases)
 
 ### Screen-saver
 Enable screen-saver for 9 minutes
