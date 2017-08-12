@@ -55,3 +55,21 @@ Name | Database storage | Price   | Notes
 ## Push notifications
 
 * [OneSignal](https://onesignal.com/)
+
+## Back4App
+
+### CLI 
+
+Command | Description
+--------|-------------
+`configure accountkey` | Configure account to use
+`new` | Create a new app or add cloud code to an existing app 
+`deplpy` | Deploy code
+`list` | View all linked apps
+`develop <App Name>` | Watch for any updates, deploy them and see live stream of Cloud Code logs.
+
+
+Resources
+* [Command Line Interface to Parse Server](https://blog.back4app.com/2017/01/20/cli-parse-server/)
+
+
