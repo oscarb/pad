@@ -59,3 +59,4 @@ Get started with Node.js and web development - hyperdev
 * A Basic HTML5 Template For Any Project ([www.sitepoint.com](https://www.sitepoint.com/a-basic-html5-template/#ftn1))
 * NodeSchool ([nodeschool.io](http://nodeschool.io/#workshoppers))
 * An In-Depth Guide To Choosing The Best Online Learning Sites - Todoist Blog ([blog.todoist.com](https://blog.todoist.com/2016/04/22/guide-to-online-learning-sites/))
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
