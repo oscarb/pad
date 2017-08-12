@@ -1,6 +1,8 @@
 ---
 title: Parse Server
 published: true
+tags:
+  - development
 ---
 
 # Parse server
@@ -71,5 +73,3 @@ Command | Description
 
 Resources
 * [Command Line Interface to Parse Server](https://blog.back4app.com/2017/01/20/cli-parse-server/)
-
-
