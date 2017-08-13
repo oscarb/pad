@@ -70,6 +70,10 @@ Command | Description
 `list` | View all linked apps
 `develop <App Name>` | Watch for any updates, deploy them and see live stream of Cloud Code logs.
 
-
 Resources
 * [Command Line Interface to Parse Server](https://blog.back4app.com/2017/01/20/cli-parse-server/)
+
+## How-to
+
+* [How to query an 'Object' type field in parse](https://stackoverflow.com/questions/31306318/how-to-query-an-object-type-field-in-parse)
+
