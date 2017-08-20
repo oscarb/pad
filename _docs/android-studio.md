@@ -84,6 +84,7 @@ Shortcut | Action
 <kbd>Ctrl</kbd> + <kbd>NumPad 2</kbd> | Toggle Distraction Free mode
 <kbd>Ctrl</kbd> + <kbd>NumPad 3</kbd> | Toggle Full Screen mode
 <kbd>Ctrl</kbd> + <kbd>Enter</kbd> | Complete Current Statement
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd>/<kbd>→</kbd> | Move to opposite group
 
 
 ## Live Templates
