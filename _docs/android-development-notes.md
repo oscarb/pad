@@ -263,6 +263,13 @@ Stops itself after requests have been handled unlike a Service which needs to be
 
 [Comparing T10.01-Exercise-IntentServices...T10.01-Solution-IntentServices · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.01-Exercise-IntentServices...T10.01-Solution-IntentServices)
 
+#### Android 8.0
+
+Many apps that rely on IntentService do not work properly when targeting Android 8.0 or higher. For this reason, Android Support Library 26.0.0 introduces a new JobIntentService class, which provides the same functionality as IntentService but uses jobs instead of services when running on Android 8.0 or higher.
+
+https://developer.android.com/reference/android/support/v4/app/JobIntentService.html
+
+
 
 ### JobService
 
