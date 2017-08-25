@@ -76,4 +76,4 @@ Resources
 ## How-to
 
 * [How to query an 'Object' type field in parse](https://stackoverflow.com/questions/31306318/how-to-query-an-object-type-field-in-parse)
-
+* [How to Query based on a Pointer on Parse Server](https://designingforscale.com/query-on-a-parse-pointer/)
