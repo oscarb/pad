@@ -181,6 +181,13 @@ org.gradle.parallel=true
 org.gradle.configureondemand=true
 ```
 
+## Set up device for Espresso tests
+
+Turn off animations on your test device, otherwise Espresso may not work as expected and the tests may fail. Turn off animations from Settings by opening Developer Options and turning all the following options under "Drawing" off:
+
+* Window animation scale
+* Transition animation scale
+* Animator duration scale
 
 
 ### Resources
