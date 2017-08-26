@@ -41,6 +41,9 @@ tags: [ux]
 
 * [10 Typography Tips Every Business Should Know – Prototyping: From UX to Front End](https://blog.prototypr.io/10-typography-tips-every-business-should-know-b62483899d14)
 
+## Typography
+
+* [10 practical steps to create a predictable, accessible and harmonious typography system (A case…](https://blog.prototypr.io/10-practical-steps-to-create-a-predictable-accessible-and-harmonious-typography-system-a-case-6c85d901bedd)
 
 ## Animation
 
