@@ -146,6 +146,17 @@ Enable screen-saver for 9 minutes
 How to Get Rid of the OneDrive Icon in Windows 10's File Explorer
 http://lifehacker.com/how-to-get-rid-of-the-onedrive-icon-in-windows-10s-file-1722592615
 
+### Disable JPEG wallpaper compression
+
+```
+HKEY_CURRENT_USER\Control Panel\Desktop
+```
+
+Add new DWORD (32-bit) value named `JPEGImportQuality` with value `100` (decimal).
+
+* [Windows 10 Compresses Your Wallpaper, But You Can Make Them High Quality Again](https://www.howtogeek.com/277808/windows-10-compresses-your-wallpaper-but-you-can-make-them-high-quality-again/)
+
+
 Software
 --------
 
