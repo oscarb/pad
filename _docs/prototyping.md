@@ -44,6 +44,7 @@ Name | Lowest price | Platform | Protype for
 [Fuse](https://www.fusetools.com)  | Free | Mac, Windows | Mobile
 [Gliffy](https://www.gliffy.com/) | Free[^gliffy] | Web | Any
 [Gravit](https://www.gravit.io/) | ? | ? | ?
+[Gravit Designer](https://www.designer.io/#touch)  | ? | ? | ?
 [HotGloo](https://www.hotgloo.com/) | €15/month | Web | Any
 [Indigo Studio](http://www.infragistics.com/products/indigo-studio) | $495[^indigo] | Mac, Windows | Any
 [InVision](https://www.invisionapp.com/) | Free[^invision] | Web | Any
