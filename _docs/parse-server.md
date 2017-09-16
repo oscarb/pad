@@ -41,6 +41,8 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
 Referencing on the one-side, many-side or both?
 
 Denormalize fields into the one or many side
+Updating denormalized values are slower, more expensive and not atomic.
+
 
 1. Favor embedding unless there is a compelling reason not to
 2. Needing access to an object on its own is reason not to embed it
@@ -48,6 +50,10 @@ Denormalize fields into the one or many side
 4. Use application-level joins as they are barely more expensive than server-side joins in relational databases.
 5. Consider write/read ratio when denomralizing. Fields that are only read but rarely updated to are good candidates for denormalization. 
 6. Structure the data to match the ways the application queries and updates it.
+
+
+Two-way referencing
+ - Requires two updates
 
 
 * Pointers
@@ -90,7 +96,25 @@ Denormalize fields into the one or many side
 
 ### One-to-one
 
+Embedded vs referencing
 
+Embedding is better for...
+
+Small subdocuments
+Data that does not change regularly
+When eventual consistency is acceptable
+Documents that grow by a small amount
+Data that you’ll often need to perform a second query to fetch Fast reads
+References are better for...
+
+Large subdocuments
+Volatile data
+When immediate consistency is necessary
+Documents that grow a large amount
+Data that you’ll often exclude from the results
+Fast writes
+
+https://stackoverflow.com/a/27247579/6131896
 
 ### One-to-many
 
@@ -101,7 +125,25 @@ Customer has many orders
 * Is the amount of many-objects predictable and not too many?
   - If yes, go for arrays
   - If no, go for pointers in the many-object
+  
+Should the objects on the many side be accessed separately or only in the context of the parent object?
+
+What is the ratio of updates to reads for a particular field?
+  
    
+#### One-to-few
+
+Array of embedded documents
+
+
+#### One-to-many
+
+Array of pointers or parten-reference on the many-side
+
+
+#### One-to-squillions
+
+Use parent-reference on the many-side
 
 
 #### Pointers
