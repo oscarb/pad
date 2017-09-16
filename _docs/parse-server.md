@@ -38,8 +38,26 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
 
 ## Relationships
 
+
+
 * Pointers
+  - Pros
+    * Use include on query
+    * Simple, easy to use
+    * More typesafe than arrays
+    * Scales indefinitely
+  - Cons
+    * Limited to only one-to-many relationships
+    * Gettings objects on both sides requires two calls
+    * Conceptually might feel counter-intutive (querying on the wrong side)
 * Arrays
+  - Pros
+    * Conceptually makes total sense, easy to use
+    * Include on query
+    * Works for both one-to-many and many-to-many relationships
+  - Cons
+    * Not typesafe
+    * Not going to scale to large relationships
 * Parse Relation
 * Join Table 
 
@@ -60,6 +78,23 @@ Comment
  - Author 
  - BlogPost
 
+Query for all comments...
+"Get all comments where post is blog post X"
+
+Query for post that a comment belongs to
+...
+
+
+#### Arrays
+
+BlogPost 
+ - Text
+ - Author
+ - Comments
+
+Query for all comments
+
+Query for blog post that comment belongs to 
 
 
 #### Many-to-many
