@@ -55,6 +55,7 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
     * Conceptually makes total sense, easy to use
     * Include on query
     * Works for both one-to-many and many-to-many relationships
+    * Good when the _many_ is a known cardinality 
   - Cons
     * Not typesafe
     * Not going to scale to large relationships
