@@ -38,6 +38,16 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
 
 ## Relationships
 
+Referencing on the one-side, many-side or both?
+
+Denormalize fields into the one or many side
+
+1. Favor embedding unless there is a compelling reason not to
+2. Needing access to an object on its own is reason not to embed it
+3. Arrays should not grow without a bond. Don't embed if there are more than hundreds on the many side. IF there are thousands on the many side, don't use an array of pointers.
+4. Use application-level joins as they are barely more expensive than server-side joins in relational databases.
+5. Consider write/read ratio when denomralizing. Fields that are only read but rarely updated to are good candidates for denormalization. 
+6. Structure the data to match the ways the application queries and updates it.
 
 
 * Pointers
@@ -68,8 +78,15 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
     * Difficult conceptually
     * Include on queries not supported
     * Does not support order
-
 * Join Table 
+  - Pros
+    * Meta-data for relationships
+    * Just as scalable as Pointers
+    * Just as scalable as Parse Relation
+    * Conceptually similar to traditional detabase development
+  - Cons
+    * Create and maintain own join table
+
 
 ### One-to-one
 
@@ -80,6 +97,12 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
 A blog post has many comments
 A comment can only belong to one blog post
 Customer has many orders
+
+* Is the amount of many-objects predictable and not too many?
+  - If yes, go for arrays
+  - If no, go for pointers in the many-object
+   
+
 
 #### Pointers
 
@@ -112,6 +135,8 @@ Users following each other
 Students and teachers
 Sales persons and Accounts
 
+If the relationships requires meta-data, use join tables otherwise Parse Relation
+
 #### Parse Relation
 
 Create...
@@ -121,6 +146,17 @@ Query all accounts for a gien person
 
 Query all persons for a given account
 
+#### Join Table
+
+
+When meta-data is required for the relationships
+
+Users following users
+
+Creating...
+
+
+Querying does Bob follow Eve...
 
 
 ## Hosting
