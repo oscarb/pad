@@ -56,14 +56,18 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
     * Include on query
     * Works for both one-to-many and many-to-many relationships
     * Good when the _many_ is a predictable size
+    * Supports order
   - Cons
     * Not typesafe
     * Not going to scale to large relationships
 * Parse Relation
   - Pros
-    * 
+    * More scalable than arrays for large relationships
+    * Able to restrict queries for subsets of data
   - Cons
-
+    * Difficult conceptually
+    * Include on queries not supported
+    * Does not support order
 
 * Join Table 
 
