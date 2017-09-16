@@ -60,6 +60,11 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
     * Not typesafe
     * Not going to scale to large relationships
 * Parse Relation
+  - Pros
+    * 
+  - Cons
+
+
 * Join Table 
 
 ### One-to-one
@@ -85,7 +90,6 @@ Query for all comments...
 Query for post that a comment belongs to
 ...
 
-
 #### Arrays
 
 BlogPost 
@@ -98,12 +102,20 @@ Query for all comments
 Query for blog post that comment belongs to 
 
 
-#### Many-to-many
+### Many-to-many
 
 Users following each other
 Students and teachers
+Sales persons and Accounts
+
+#### Parse Relation
+
+Create...
+
+Query all accounts for a gien person
 
 
+Query all persons for a given account
 
 
 
