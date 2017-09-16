@@ -35,6 +35,42 @@ If MongoDb fails, [download MongoDb](https://www.mongodb.com/download-center#pro
 * [Installing your own parse-server on Windows](https://medium.com/@cristi_ursachi/installing-your-own-parse-server-on-windows-b2c7a2498d19#.1qmcj7xkn)
 * [Install MongoDB Community Edition on Windows — MongoDB Manual 3.4](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
 
+
+## Relationships
+
+* Pointers
+* Arrays
+* Parse Relation
+* Join Table 
+
+### One-to-one
+
+
+
+### One-to-many
+
+A blog post has many comments
+A comment can only belong to one blog post
+Customer has many orders
+
+#### Pointers
+
+Comment
+ - Text
+ - Author 
+ - BlogPost
+
+
+
+#### Many-to-many
+
+Users following each other
+Students and teachers
+
+
+
+
+
 ## Hosting
 
 ### Parse/Node
