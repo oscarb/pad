@@ -41,6 +41,7 @@ tags: [ux]
 ## Fonts
 
 * [10 Typography Tips Every Business Should Know – Prototyping: From UX to Front End](https://blog.prototypr.io/10-typography-tips-every-business-should-know-b62483899d14)
+* [15 Great Google Font Combinations For Your Next Project Design](https://webdesignledger.com/15-great-google-font-combinations-for-your-next-project-design/)
 
 ## Typography
 
