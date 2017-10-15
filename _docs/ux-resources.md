@@ -8,6 +8,7 @@ tags: [ux]
 * [Free Design Resources | Pixeden](https://www.pixeden.com/free-design-web-resources)
 * [A Complete List Of UX Deliverables](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434)
 * [+100 UI Resources, Tools & Books: All You Need For Your UI Work](https://uxplanet.org/100-ui-resources-tools-books-all-you-need-for-your-ui-work-ad959719fdca)
+* [What’s Your Next Step to Be An Advanced UX Designer?](https://blog.prototypr.io/whats-your-next-step-to-be-an-advanced-ux-designer-5ce270007301)
 
 ## Courses and education
 
