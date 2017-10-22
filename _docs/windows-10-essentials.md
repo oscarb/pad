@@ -293,10 +293,18 @@ Settings > Compression > Remove redundant folders from extraction path
 > **Paths:** /volume1/downloads=Z:\downloads
 
 
+### TED NotePad
+
+
+
+* [How To Replace Notepad with Another Text Editor in Windows](https://www.howtogeek.com/howto/12617/how-to-replace-notepad-in-windows-7/)
+
 ### WiinUSoft
 
 
+### WorkFlowy
 
+[Download WorkFlowy](https://workflowy.com/downloads/windows/)
 
 ### Development
 
