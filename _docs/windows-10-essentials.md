@@ -295,7 +295,7 @@ Settings > Compression > Remove redundant folders from extraction path
 
 ### TED NotePad
 
-
+[TED Notepad - free notepad replacement](http://jsimlo.sk/notepad/)
 
 * [How To Replace Notepad with Another Text Editor in Windows](https://www.howtogeek.com/howto/12617/how-to-replace-notepad-in-windows-7/)
 
