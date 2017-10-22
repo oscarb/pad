@@ -304,7 +304,7 @@ Settings > Compression > Remove redundant folders from extraction path
 
 ### WorkFlowy
 
-[Download WorkFlowy](https://workflowy.com/downloads/windows/)
+* [Download WorkFlowy](https://workflowy.com/downloads/windows/)
 
 ### Development
 
