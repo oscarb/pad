@@ -876,3 +876,8 @@ xhdpi | 96x96
 xxhdpi | 144x144
 xxxhdpi | 192x192
 Google Play | 512x512
+
+
+## Google Play Referrer API
+
+See http://android-developers.googleblog.com/2017/11/google-play-referrer-api-track-and.html
