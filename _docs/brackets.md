@@ -23,3 +23,4 @@ published: true
 
 http://the-sourceterous.ghost.io/brackets-editor-disable-jslint-and-use-jshint-instead-2/
 https://stackoverflow.com/questions/27584301/adobe-brackets-disable-jslint-but-allow-jshint
+https://coderwall.com/p/-h1h1w/how-to-use-jslint-in-node-js-projects-properly
