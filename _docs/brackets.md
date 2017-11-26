@@ -17,3 +17,8 @@ published: true
 * [brackets-indent-guides](https://github.com/lkcampbell/brackets-indent-guides)
 * [brackets-print-margin](https://github.com/Hirse/brackets-print-margin) 
 * [brackets-paste-and-indent](https://github.com/ahuth/brackets-paste-and-indent)
+
+
+## JSlint
+
+http://the-sourceterous.ghost.io/brackets-editor-disable-jslint-and-use-jshint-instead-2/
