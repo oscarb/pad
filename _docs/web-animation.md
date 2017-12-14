@@ -8,6 +8,11 @@ published: true
 
 # Web Animation
 
+
+## SVG
+
+[transform - SVG | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform)
+
 ## JavaScript Libraries
 
 ### Snap.svg
@@ -15,6 +20,11 @@ published: true
 [Snap.svg](http://snapsvg.io/)
 
 * [API Reference](http://snapsvg.io/docs/)
+
+
+#### Demos
+
+* [Snap.svg scale and rotate around centre - JSFiddle](http://jsfiddle.net/AGq9X/5/)
 
 
 ### SnapFoo
