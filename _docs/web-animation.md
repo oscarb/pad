@@ -28,6 +28,8 @@ published: true
 
 [transform - SVG | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform)
 * How to Scale SVG |([CSS-Tricks](https://css-tricks.com/scale-svg/))
+* Fills and Strokes - SVG | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes))
+* The SVG `path` Syntax: An Illustrated Guide | CSS-Tricks ([css-tricks.com](https://css-tricks.com/svg-path-syntax-illustrated-guide/))
 
 ### Tutorials
 
