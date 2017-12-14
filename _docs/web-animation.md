@@ -9,6 +9,7 @@ published: true
 # Web Animation
 
 * The State of SVG Animation |  ([Adobe Blog](https://theblog.adobe.com/the-state-of-svg-animation))
+* website design - How do you animate SVG for the web?   ([Graphic Design Stack Exchange](https://graphicdesign.stackexchange.com/questions/68314/how-do-you-animate-svg-for-the-web))
 
 ## CSS
 
@@ -46,6 +47,8 @@ published: true
 * An Introdution to Snap.svg ([www.sitepoint.com](https://www.sitepoint.com/introduction-snap-svg/))
 * SVG Metamorphosis – Design + Sketch – Medium
 https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
+* How to Manipulate and Animate SVG With Snap.svg ([webdesign.tutsplus.com](https://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323))
+* Elastic SVG Elements ([Codrops](https://tympanus.net/codrops/2014/12/15/elastic-svg-elements/))
 
 #### Demos
 
