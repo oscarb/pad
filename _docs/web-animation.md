@@ -97,6 +97,8 @@ http://seenjs.io/
 
 Synchronized Multimedia Integration Language
 
+* SMIL is dead! Long live SMIL! A Guide to Alternatives to SMIL Features ([CSS-Tricks](https://css-tricks.com/smil-is-dead-long-live-smil-a-guide-to-alternatives-to-smil-features/))
+
 ## Web Animations API
 
 * web-animations/web-animations-js: JavaScript implementation of the Web Animations API ([github.com](https://github.com/web-animations/web-animations-js))
