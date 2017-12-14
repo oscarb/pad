@@ -11,7 +11,6 @@ published: true
 
 ## CSS
 
-
 ### Easing
 
 * Timing Functions (aka Easing Functions) in CSS3 ([KIRUPA](https://www.kirupa.com/html5/timing_functions.htm))
@@ -37,13 +36,25 @@ published: true
 #### Tutorials
 
 * Getting Started With Snap.svg ([www.i-programmer.info](http://www.i-programmer.info/programming/javascript/6537-getting-started-with-snapsvg.html))
+* How to get started with Snap.svg - Developer Drive ([www.developerdrive.com](http://www.developerdrive.com/2014/07/how-to-get-started-with-snap-svg/))
+* Animated SVG Icons with Snap.svg ([tympanus.net](https://tympanus.net/codrops/2013/11/05/animated-svg-icons-with-snap-svg/))
+* An Introdution to Snap.svg ([www.sitepoint.com](https://www.sitepoint.com/introduction-snap-svg/))
+* SVG Metamorphosis – Design + Sketch – Medium
+https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 
 #### Demos
 
 * [Snap.svg Tutorial](http://svg.dabbles.info/)
 * [Snap.svg scale and rotate around centre - JSFiddle](http://jsfiddle.net/AGq9X/5/)
+* Path morph loop with Snap.svg ([codepen.io](https://codepen.io/loac-fr/pen/oXVJoj))
+* SVG Morphing Butterfly using Snap.svg & Sketch ([codepen.io](https://codepen.io/natacoops/pen/rOrRvd))
 
 
 ### SnapFoo
 
 [SnapFoo](http://yuschick.github.io/SnapFoo/)
+
+
+## SMIL
+
+Synchronized Multimedia Integration Language
