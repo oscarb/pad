@@ -63,6 +63,10 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 
 * mo · js - Motion Graphics For The Web ([mojs.io](http://mojs.io/))
 
+### Velocity 
+
+[Velocity.js](http://velocityjs.org/)
+
 ## SMIL
 
 Synchronized Multimedia Integration Language
