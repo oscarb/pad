@@ -55,7 +55,16 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 
 [SnapFoo](http://yuschick.github.io/SnapFoo/)
 
+### Anime.js
+
+[animejs.com](http://animejs.com/)
+
+
 
 ## SMIL
 
 Synchronized Multimedia Integration Language
+
+## Web Animations API
+
+* web-animations/web-animations-js: JavaScript implementation of the Web Animations API ([github.com](https://github.com/web-animations/web-animations-js))
