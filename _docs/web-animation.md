@@ -27,10 +27,10 @@ published: true
 
 ## SVG
 
-[transform - SVG | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform)
-* How to Scale SVG |([CSS-Tricks](https://css-tricks.com/scale-svg/))
-* Fills and Strokes - SVG | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes))
-* The SVG `path` Syntax: An Illustrated Guide | CSS-Tricks ([css-tricks.com](https://css-tricks.com/svg-path-syntax-illustrated-guide/))
+[transform - SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform)
+* How to Scale SVG ([CSS-Tricks](https://css-tricks.com/scale-svg/))
+* Fills and Strokes - SVG ([MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes))
+* The SVG `path` Syntax: An Illustrated Guide ([CSS-Tricks](https://css-tricks.com/svg-path-syntax-illustrated-guide/))
 * Using SVG ([CSS-Tricks](https://css-tricks.com/using-svg/))
 * A Practical Guide to SVGs on the web ([svgontheweb.com](https://svgontheweb.com/))
 * Introduction - SVG | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
