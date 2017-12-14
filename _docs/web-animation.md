@@ -8,8 +8,15 @@ published: true
 
 # Web Animation
 
-## snap.svg
+## JavaScript Libraries
+
+### Snap.svg
 
 [Snap.svg](http://snapsvg.io/)
 
 * [API Reference](http://snapsvg.io/docs/)
+
+
+### SnapFoo
+
+[SnapFoo](http://yuschick.github.io/SnapFoo/)
