@@ -16,6 +16,10 @@ published: true
 
 * Timing Functions (aka Easing Functions) in CSS3 ([KIRUPA](https://www.kirupa.com/html5/timing_functions.htm))
 
+### Morphing
+
+* Simple Path Examples ([codepen.io](https://codepen.io/chriscoyier/pen/NRwANp))
+
 ## SVG
 
 [transform - SVG | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform)
