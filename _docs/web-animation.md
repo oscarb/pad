@@ -59,7 +59,9 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 
 [animejs.com](http://animejs.com/)
 
+### Motion
 
+* mo · js - Motion Graphics For The Web ([mojs.io](http://mojs.io/))
 
 ## SMIL
 
