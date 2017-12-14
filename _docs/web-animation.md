@@ -10,8 +10,11 @@ published: true
 
 * The State of SVG Animation |  ([Adobe Blog](https://theblog.adobe.com/the-state-of-svg-animation))
 * website design - How do you animate SVG for the web?   ([Graphic Design Stack Exchange](https://graphicdesign.stackexchange.com/questions/68314/how-do-you-animate-svg-for-the-web))
+* CSS Versus JavaScript Animations  |  Web Fundamentals  |  Google Developers ([developers.google.com](https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript))
 
 ## CSS
+
+* Using CSS animations - CSS | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations))
 
 ### Easing
 
@@ -52,6 +55,7 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * Elastic SVG Elements ([Codrops](https://tympanus.net/codrops/2014/12/15/elastic-svg-elements/))
 * The Illusion Of Life: An SVG Animation Case Study ([Smashing Magazine](https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/))
 * Creating SVG animations with Snap.svg ([blog.10pines.com](https://blog.10pines.com/2017/10/31/creating-svg-animatinos-with-snap-svg/))
+* Snap.svg Animation Tutorial for Beginners | GoInkscape! ([goinkscape.com](http://goinkscape.com/how-to-animate-icons-with-inkscape-and-snap-svg/))
 
 #### Demos
 
@@ -100,5 +104,7 @@ Synchronized Multimedia Integration Language
 * SMIL is dead! Long live SMIL! A Guide to Alternatives to SMIL Features ([CSS-Tricks](https://css-tricks.com/smil-is-dead-long-live-smil-a-guide-to-alternatives-to-smil-features/))
 
 ## Web Animations API
+
+* Using the Web Animations API - Web APIs | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API))
 
 * web-animations/web-animations-js: JavaScript implementation of the Web Animations API ([github.com](https://github.com/web-animations/web-animations-js))
