@@ -67,6 +67,12 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 
 [Velocity.js](http://velocityjs.org/)
 
+
+### GreenSock
+
+GSAP, the standard for JavaScript HTML5 animation | GreenSock
+https://greensock.com/
+
 ## SMIL
 
 Synchronized Multimedia Integration Language
