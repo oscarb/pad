@@ -49,6 +49,7 @@ published: true
 https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * How to Manipulate and Animate SVG With Snap.svg ([webdesign.tutsplus.com](https://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323))
 * Elastic SVG Elements ([Codrops](https://tympanus.net/codrops/2014/12/15/elastic-svg-elements/))
+* The Illusion Of Life: An SVG Animation Case Study ([Smashing Magazine](https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/))
 
 #### Demos
 
