@@ -77,6 +77,7 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * Animate SVG icons with CSS and Snap ([CodyHouse](https://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/))
 * How To Animate Element Along SVG Path ([icanbecreative](http://icanbecreative.com/article/animate-element-along-svg-path/))
 * The missing snap.svg function ([www.michaeltempest.com](http://www.michaeltempest.com/the-missing-snap-svg-function/))
+* Snap.svg Tutorial ([kucdinteractive.com](http://kucdinteractive.com/jwatkins/snap.tutorial/))
 
 
 #### Demos
