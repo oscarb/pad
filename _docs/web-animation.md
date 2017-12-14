@@ -33,6 +33,7 @@ published: true
 * The SVG `path` Syntax: An Illustrated Guide | CSS-Tricks ([css-tricks.com](https://css-tricks.com/svg-path-syntax-illustrated-guide/))
 * Using SVG ([CSS-Tricks](https://css-tricks.com/using-svg/))
 * A Practical Guide to SVGs on the web ([svgontheweb.com](https://svgontheweb.com/))
+* Introduction - SVG | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
 
 ### Tutorials
 
