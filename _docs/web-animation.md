@@ -43,6 +43,10 @@ published: true
 
 * [API Reference](http://snapsvg.io/docs/)
 
+#### Easing
+
+* Snap.SVG Easing Algorithms ([codepen.io](https://codepen.io/mike-tempest/pen/myvbrw))
+
 #### Tutorials
 
 * Getting Started With Snap.svg ([www.i-programmer.info](http://www.i-programmer.info/programming/javascript/6537-getting-started-with-snapsvg.html))
