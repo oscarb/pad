@@ -8,14 +8,14 @@ published: true
 
 # Web Animation
 
-* The State of SVG Animation |  ([Adobe Blog](https://theblog.adobe.com/the-state-of-svg-animation))
-* website design - How do you animate SVG for the web?   ([Graphic Design Stack Exchange](https://graphicdesign.stackexchange.com/questions/68314/how-do-you-animate-svg-for-the-web))
-* CSS Versus JavaScript Animations  |  Web Fundamentals  |  Google Developers ([developers.google.com](https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript))
+* The State of SVG Animation ([Adobe Blog](https://theblog.adobe.com/the-state-of-svg-animation))
+* website design - How do you animate SVG for the web? ([Graphic Design Stack Exchange](https://graphicdesign.stackexchange.com/questions/68314/how-do-you-animate-svg-for-the-web))
+* CSS Versus JavaScript Animations - Web Fundamentals ([ Google Developers](https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript))
 
 ## CSS
 
-* Using CSS animations - CSS | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations))
-* daneden/animate.css: 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. ([github.com](https://github.com/daneden/animate.css))
+* Using CSS animations - CSS ([MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations))
+* 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. ([daneden/animate.css](https://github.com/daneden/animate.css))
 
 ### Easing
 
