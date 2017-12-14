@@ -15,6 +15,7 @@ published: true
 ## CSS
 
 * Using CSS animations - CSS | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations))
+* daneden/animate.css: 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. ([github.com](https://github.com/daneden/animate.css))
 
 ### Easing
 
@@ -31,6 +32,7 @@ published: true
 * Fills and Strokes - SVG | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes))
 * The SVG `path` Syntax: An Illustrated Guide | CSS-Tricks ([css-tricks.com](https://css-tricks.com/svg-path-syntax-illustrated-guide/))
 * Using SVG ([CSS-Tricks](https://css-tricks.com/using-svg/))
+* A Practical Guide to SVGs on the web ([svgontheweb.com](https://svgontheweb.com/))
 
 ### Tutorials
 
@@ -50,6 +52,10 @@ published: true
 
 * Snap.SVG Easing Algorithms ([codepen.io](https://codepen.io/mike-tempest/pen/myvbrw))
 
+#### Adobe Animate
+
+* Creating a vector animation for the web in a post-Flash world — This Little Duck ([thislittleduck.com](https://thislittleduck.com/blog/svg-animation-using-snap-svg/))
+
 #### Tutorials
 
 * Getting Started With Snap.svg ([www.i-programmer.info](http://www.i-programmer.info/programming/javascript/6537-getting-started-with-snapsvg.html))
@@ -66,6 +72,7 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * SVG Animations Using CSS and Snap.svg ([davidwalsh.name](https://davidwalsh.name/svg-animations-snap))
 * SVG Morphing (the easy way and the hard way) – codeburst ([codeburst.io](https://codeburst.io/svg-morphing-the-easy-way-and-the-hard-way-c117a620b65f))
 * Animate SVG icons with CSS and Snap ([CodyHouse](https://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/))
+* How To Animate Element Along SVG Path ([icanbecreative](http://icanbecreative.com/article/animate-element-along-svg-path/))
 
 
 #### Demos
@@ -116,6 +123,10 @@ https://d3js.org/
 
 seen.js
 http://seenjs.io/
+
+### vivus
+
+* vivus.js - svg animation ([maxwellito.github.io](https://maxwellito.github.io/vivus/))
 
 ## SMIL
 
