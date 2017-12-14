@@ -84,6 +84,7 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * [Snap.svg scale and rotate around centre - JSFiddle](http://jsfiddle.net/AGq9X/5/)
 * Path morph loop with Snap.svg ([codepen.io](https://codepen.io/loac-fr/pen/oXVJoj))
 * SVG Morphing Butterfly using Snap.svg & Sketch ([codepen.io](https://codepen.io/natacoops/pen/rOrRvd))
+* Animated SVG Path ([codepen.io](https://codepen.io/mattsince87/pen/snqLy))
 
 
 ### SnapFoo
