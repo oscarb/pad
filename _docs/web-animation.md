@@ -56,6 +56,7 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * The Illusion Of Life: An SVG Animation Case Study ([Smashing Magazine](https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/))
 * Creating SVG animations with Snap.svg ([blog.10pines.com](https://blog.10pines.com/2017/10/31/creating-svg-animatinos-with-snap-svg/))
 * Snap.svg Animation Tutorial for Beginners | GoInkscape! ([goinkscape.com](http://goinkscape.com/how-to-animate-icons-with-inkscape-and-snap-svg/))
+* SVG Animations Using CSS and Snap.svg ([davidwalsh.name](https://davidwalsh.name/svg-animations-snap))
 
 #### Demos
 
