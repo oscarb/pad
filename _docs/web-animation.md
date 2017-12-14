@@ -24,6 +24,7 @@ published: true
 ## SVG
 
 [transform - SVG | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform)
+* How to Scale SVG |([CSS-Tricks](https://css-tricks.com/scale-svg/))
 
 ### Tutorials
 
