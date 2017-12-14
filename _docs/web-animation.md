@@ -141,6 +141,6 @@ Synchronized Multimedia Integration Language
 
 ## Web Animations API
 
-* Using the Web Animations API - Web APIs | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API))
+* Using the Web Animations API - Web APIs ([MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API))
 
 * web-animations/web-animations-js: JavaScript implementation of the Web Animations API ([github.com](https://github.com/web-animations/web-animations-js))
