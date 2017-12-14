@@ -33,8 +33,8 @@ published: true
 * The SVG `path` Syntax: An Illustrated Guide ([CSS-Tricks](https://css-tricks.com/svg-path-syntax-illustrated-guide/))
 * Using SVG ([CSS-Tricks](https://css-tricks.com/using-svg/))
 * A Practical Guide to SVGs on the web ([svgontheweb.com](https://svgontheweb.com/))
-* Introduction - SVG | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
-* Paths - SVG | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths))
+* Introduction - SVG ([MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
+* Paths - SVG ([MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths))
 
 ### Tutorials
 
@@ -70,7 +70,7 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * Elastic SVG Elements ([Codrops](https://tympanus.net/codrops/2014/12/15/elastic-svg-elements/))
 * The Illusion Of Life: An SVG Animation Case Study ([Smashing Magazine](https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/))
 * Creating SVG animations with Snap.svg ([blog.10pines.com](https://blog.10pines.com/2017/10/31/creating-svg-animatinos-with-snap-svg/))
-* Snap.svg Animation Tutorial for Beginners | GoInkscape! ([goinkscape.com](http://goinkscape.com/how-to-animate-icons-with-inkscape-and-snap-svg/))
+* Snap.svg Animation Tutorial for Beginners  ([GoInkscape!](http://goinkscape.com/how-to-animate-icons-with-inkscape-and-snap-svg/))
 * SVG Animations Using CSS and Snap.svg ([davidwalsh.name](https://davidwalsh.name/svg-animations-snap))
 * SVG Morphing (the easy way and the hard way) – codeburst ([codeburst.io](https://codeburst.io/svg-morphing-the-easy-way-and-the-hard-way-c117a620b65f))
 * Animate SVG icons with CSS and Snap ([CodyHouse](https://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/))
@@ -106,17 +106,18 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 
 ### GSAP
 
-GSAP, the standard for JavaScript HTML5 animation | GreenSock
+GSAP, the standard for JavaScript HTML5 animation
 https://greensock.com/
 
 
 #### Easing
 
-* Ease Visualizer for GSAP | HTML5 Animation | GreenSock ([GreenSock](https://greensock.com/ease-visualizer))
+* Ease Visualizer for GSAP HTML5 Animation
+([GreenSock](https://greensock.com/ease-visualizer))
 
 #### Tutorials
 
-* How to Create an Interactive Animated SVG Drum Kit | Codrops ([tympanus.net](https://tympanus.net/codrops/2016/03/16/interactive-animated-svg-drum-kit/))
+* How to Create an Interactive Animated SVG Drum Kit ([Codrops](https://tympanus.net/codrops/2016/03/16/interactive-animated-svg-drum-kit/))
 
 ### D3
 
