@@ -35,6 +35,7 @@ published: true
 * A Practical Guide to SVGs on the web ([svgontheweb.com](https://svgontheweb.com/))
 * Introduction - SVG ([MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
 * Paths - SVG ([MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths))
+* SVG Tutorial ([www.petercollingridge.co.uk](http://www.petercollingridge.co.uk/book/export/html/560))
 
 
 ### Tutorials
