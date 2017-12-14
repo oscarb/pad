@@ -36,6 +36,7 @@ published: true
 * Introduction - SVG ([MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction))
 * Paths - SVG ([MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths))
 
+
 ### Tutorials
 
 * [SVG for Absolute Beginners](http://unicorn-ui.com/blog/svg-for-beginners.html)
@@ -132,6 +133,10 @@ http://seenjs.io/
 ### vivus
 
 * vivus.js - svg animation ([maxwellito.github.io](https://maxwellito.github.io/vivus/))
+
+### paper.js
+
+* Paper.js — About ([paperjs.org](http://paperjs.org/about/))
 
 ## SMIL
 
