@@ -17,7 +17,7 @@ published: true
 
 * [SVG for Absolute Beginners](http://unicorn-ui.com/blog/svg-for-beginners.html)
 * [Intermediate SVG](http://unicorn-ui.com/blog/intermediate-svg.html)
-
+* [SVG Tutorial](http://tutorials.jenkov.com/svg/index.html)
 
 ## JavaScript Libraries
 
