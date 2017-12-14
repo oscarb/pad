@@ -8,6 +8,7 @@ published: true
 
 # Web Animation
 
+* The State of SVG Animation |  ([Adobe Blog](https://theblog.adobe.com/the-state-of-svg-animation))
 
 ## CSS
 
