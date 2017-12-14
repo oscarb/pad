@@ -65,6 +65,7 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * SVG Animations Using CSS and Snap.svg ([davidwalsh.name](https://davidwalsh.name/svg-animations-snap))
 * SVG Morphing (the easy way and the hard way) – codeburst ([codeburst.io](https://codeburst.io/svg-morphing-the-easy-way-and-the-hard-way-c117a620b65f))
 
+
 #### Demos
 
 * [Snap.svg Tutorial](http://svg.dabbles.info/)
@@ -94,6 +95,15 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 
 GSAP, the standard for JavaScript HTML5 animation | GreenSock
 https://greensock.com/
+
+
+#### Easing
+
+* Ease Visualizer for GSAP | HTML5 Animation | GreenSock ([GreenSock](https://greensock.com/ease-visualizer))
+
+#### Tutorials
+
+* How to Create an Interactive Animated SVG Drum Kit | Codrops ([tympanus.net](https://tympanus.net/codrops/2016/03/16/interactive-animated-svg-drum-kit/))
 
 ### D3
 
