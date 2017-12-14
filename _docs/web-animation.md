@@ -24,6 +24,7 @@ published: true
 
 #### Demos
 
+* [Snap.svg Tutorial](http://svg.dabbles.info/)
 * [Snap.svg scale and rotate around centre - JSFiddle](http://jsfiddle.net/AGq9X/5/)
 
 
