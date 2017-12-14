@@ -73,6 +73,12 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 GSAP, the standard for JavaScript HTML5 animation | GreenSock
 https://greensock.com/
 
+### D3
+
+D3.js - Data-Driven Documents
+https://d3js.org/
+
+
 ## SMIL
 
 Synchronized Multimedia Integration Language
