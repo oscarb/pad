@@ -30,6 +30,7 @@ published: true
 * How to Scale SVG |([CSS-Tricks](https://css-tricks.com/scale-svg/))
 * Fills and Strokes - SVG | MDN ([developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes))
 * The SVG `path` Syntax: An Illustrated Guide | CSS-Tricks ([css-tricks.com](https://css-tricks.com/svg-path-syntax-illustrated-guide/))
+* Using SVG ([CSS-Tricks](https://css-tricks.com/using-svg/))
 
 ### Tutorials
 
@@ -64,6 +65,7 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * Snap.svg Animation Tutorial for Beginners | GoInkscape! ([goinkscape.com](http://goinkscape.com/how-to-animate-icons-with-inkscape-and-snap-svg/))
 * SVG Animations Using CSS and Snap.svg ([davidwalsh.name](https://davidwalsh.name/svg-animations-snap))
 * SVG Morphing (the easy way and the hard way) – codeburst ([codeburst.io](https://codeburst.io/svg-morphing-the-easy-way-and-the-hard-way-c117a620b65f))
+* Animate SVG icons with CSS and Snap ([CodyHouse](https://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/))
 
 
 #### Demos
