@@ -140,6 +140,11 @@ http://seenjs.io/
 
 * Paper.js — About ([paperjs.org](http://paperjs.org/about/))
 
+
+### svg.js
+
+http://svgjs.com/
+
 ## SMIL
 
 Synchronized Multimedia Integration Language
