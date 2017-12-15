@@ -79,7 +79,7 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * How To Animate Element Along SVG Path ([icanbecreative](http://icanbecreative.com/article/animate-element-along-svg-path/))
 * The missing snap.svg function ([www.michaeltempest.com](http://www.michaeltempest.com/the-missing-snap-svg-function/))
 * Snap.svg Tutorial ([kucdinteractive.com](http://kucdinteractive.com/jwatkins/snap.tutorial/))
-
+* SVG Vector graphics with Snap.svg by Eugenio Keno Leon on CodePen ([codepen.io](https://codepen.io/k3no/post/snap-svg))
 
 #### Demos
 
@@ -88,7 +88,7 @@ https://medium.com/sketch-app-sources/svg-metamorphosis-a9d6ca14fce2
 * Path morph loop with Snap.svg ([codepen.io](https://codepen.io/loac-fr/pen/oXVJoj))
 * SVG Morphing Butterfly using Snap.svg & Sketch ([codepen.io](https://codepen.io/natacoops/pen/rOrRvd))
 * Animated SVG Path ([codepen.io](https://codepen.io/mattsince87/pen/snqLy))
-
+* Basic Snap.svg JS Animation ([codepen.io](https://codepen.io/JMChristensen/pen/tFdCg))
 
 ### SnapFoo
 
@@ -139,6 +139,11 @@ http://seenjs.io/
 ### paper.js
 
 * Paper.js — About ([paperjs.org](http://paperjs.org/about/))
+
+
+### SVG.js
+
+http://svgjs.com/
 
 ## SMIL
 
