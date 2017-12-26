@@ -138,7 +138,7 @@ Array of embedded documents
 
 #### One-to-many
 
-Array of pointers or parten-reference on the many-side
+Array of pointers or part-reference on the many-side
 
 
 #### One-to-squillions
