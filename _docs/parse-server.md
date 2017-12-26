@@ -135,11 +135,13 @@ What is the ratio of updates to reads for a particular field?
 
 Array of embedded documents
 
+< 100 documents
 
 #### One-to-many
 
 Array of pointers or part-reference on the many-side
 
+\> 100 documents
 
 #### One-to-squillions
 
