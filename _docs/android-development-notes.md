@@ -703,6 +703,8 @@ ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
    
 [Shared Element Transitions (solution) - YouTube](https://www.youtube.com/watch?v=gzSRpXuVKAY)
 
+[Android Developers Blog: Continuous Shared Element Transitions: RecyclerView to ViewPager](https://android-developers.googleblog.com/2018/02/continuous-shared-element-transitions.html)
+
 ## Places API
 
 * Find your app's certificate information
