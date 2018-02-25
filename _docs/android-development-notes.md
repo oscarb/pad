@@ -883,3 +883,8 @@ Google Play | 512x512
 ## Google Play Referrer API
 
 See http://android-developers.googleblog.com/2017/11/google-play-referrer-api-track-and.html
+
+
+## Auto-backup for apps
+
+[Android Developers Blog: Discover tools for Android data migration and improve your app retention](https://android-developers.googleblog.com/2018/02/discover-tools-for-android-data.html)
