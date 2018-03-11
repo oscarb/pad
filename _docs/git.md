@@ -5,6 +5,12 @@ tags: [git]
 
 # Git guide
 
+## Remove untracked and ignored files and directories
+
+```
+git clean -d -x --dry-run
+```
+
 ## Useful links
 
 * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
