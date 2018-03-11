@@ -78,3 +78,7 @@ tags: [ux]
 ## Clothing
 
 * [22 Awesome T-Shirt Templates and Mockups for Your Clothing Line](https://www.shopify.co.uk/blog/19495812-22-awesome-t-shirt-templates-and-mockups-for-your-clothing-line)
+
+## Mindmapping
+
+* [Simple Collaborative Mind Maps - Coggle](https://coggle.it/)
