@@ -9,6 +9,7 @@ tags: [ux]
 * [A Complete List Of UX Deliverables](https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434)
 * [+100 UI Resources, Tools & Books: All You Need For Your UI Work](https://uxplanet.org/100-ui-resources-tools-books-all-you-need-for-your-ui-work-ad959719fdca)
 * [What’s Your Next Step to Be An Advanced UX Designer?](https://blog.prototypr.io/whats-your-next-step-to-be-an-advanced-ux-designer-5ce270007301)
+* [The Best UX/UI Designer Tools, Resources, Blogs & Books Collection](https://uxplanet.org/the-best-ux-ui-designer-tools-resources-blogs-books-collection-2d045592d7d7)
 
 ## Courses and education
 
