@@ -11,6 +11,8 @@ tags: [git]
 git clean -d -x --dry-run
 ```
 
+* [git clean](https://git-scm.com/docs/git-clean)
+
 ## Useful links
 
 * [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
