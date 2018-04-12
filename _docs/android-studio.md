@@ -88,7 +88,7 @@ Shortcut | Action
 <kbd>Ctrl</kbd> + <kbd>Enter</kbd> | Complete Current Statement
 <kbd>Ctrl</kbd> + <kbd>Space</kbd> | Code Completion SmartType
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> | Code Completion Basic
-<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd>/<kbd>→</kbd> | Move to opposite group
+<kbd>Alt</kbd> + <kbd>Page Up</kbd>/<kbd>Page Down</kbd> | Move to opposite group
 
 
 ## Live Templates
