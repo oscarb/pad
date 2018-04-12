@@ -66,6 +66,7 @@ Background setting > Log Setting
 * Remove file header comments _Created by Oscar on..._ 
 * Editor > General > Code Completion > Autopopup documentation in (ms)
 * Avoid stepping into `android.*` when [debuggning](http://stackoverflow.com/questions/19486163/android-studio-how-to-debug-through-my-code-only)
+* Disable show parameter name hints
 
 Setup horizontal scroll wheel to <kbd>Alt</kbd> + <kbd>←</kbd>/<kbd></kbd>
 
@@ -79,11 +80,14 @@ Shortcut | Action
 <kbd>Ctrl</kbd> + <kbd>R</kbd> | Refactor This... 
 <kbd>Ctrl</kbd> + <kbd>NumPad ,</kbd> | Run
 <kbd>Alt</kbd> + <kbd>NumPad ,</kbd> | Run...
+<kbd>Alt</kbd> + <kbd>NumPad +</kbd> | Apply Changes
 <kbd>Alt</kbd> + <kbd>'</kbd> | VCS popup
 <kbd>Ctrl</kbd> + <kbd>NumPad 1</kbd> | Toggle Presentation mode
 <kbd>Ctrl</kbd> + <kbd>NumPad 2</kbd> | Toggle Distraction Free mode
 <kbd>Ctrl</kbd> + <kbd>NumPad 3</kbd> | Toggle Full Screen mode
 <kbd>Ctrl</kbd> + <kbd>Enter</kbd> | Complete Current Statement
+<kbd>Ctrl</kbd> + <kbd>Space</kbd> | Code Completion SmartType
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> | Code Completion Basic
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd>/<kbd>→</kbd> | Move to opposite group
 
 
