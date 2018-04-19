@@ -13,6 +13,10 @@ published: true
 
 * [Color Themes](http://color-themes.com/?view=index)
   * [OceanSunset](http://color-themes.com/?view=theme&id=563a1a8e80b4acf11273aed1)
+  
+### Color scheme
+
+Editor > Tear line: #586672
 
 ## Plugins
 
