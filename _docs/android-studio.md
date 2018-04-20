@@ -170,6 +170,7 @@ Applicable in Java: statement.
 * Select the next of selection with <kbd>Alt</kbd> + <kbd>J</kbd>
 * Use scratches for keeping code temporarily 
 * Use the `tools:` namespace in layout-files for previewing in Android Studio
+* Use <kbd>Ctrl</kbd> + <kbd>F12</kbd> to see methods in file
 
 When switching between a debug apk and a signed release apk on the same device, remember to first uninstall the debug apk _for all users_. 
 
