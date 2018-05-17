@@ -45,6 +45,32 @@ Add adb to path variable
 
 `%localappdata%\Android\sdk\platform-tools`
 
+List devices 
+```
+adb devices -l
+```
+
+Install app
+```
+adb install app-release.apk
+```
+
+Install app on specific device
+```
+adb -s "<deviceId>" install app-release.apk
+```
+
+Uninstall app 
+```
+adb uninstall com.package.name
+```
+
+Start app 
+```
+adb shell monkey -p your.app.package.name 1
+```
+
+
 ## Enable logging on Huawei devices
 
 ```
