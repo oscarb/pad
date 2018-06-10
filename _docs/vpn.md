@@ -9,8 +9,9 @@ published: true
 
 ## Asus RT-AC86U
 
-* [Policy Strict](https://www.snbforums.com/threads/openvpn-clients-policy-rules-strict.40288/#post-337035)
 
+* [Policy Strict](https://www.snbforums.com/threads/openvpn-clients-policy-rules-strict.40288/#post-337035)
+* [How-To: OpenVPN - selective Routing and Killswitch on Asus with Merlin WRT - YouTube](https://www.youtube.com/watch?v=oBLS7Wkn0C4)
 
 ## Verify
 
