@@ -590,6 +590,7 @@ Use the smallest width qualifier
 
 ## Material Design
 
+* [Material Docs](https://materialdoc.com/)
 * [Use Material Design](https://developer.android.com/distribute/best-practices/develop/use-material-design.html)
 
 ### Typography
