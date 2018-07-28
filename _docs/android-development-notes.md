@@ -601,6 +601,8 @@ Display 4 corresponds to
     
 and so on...
 
+* [Android Developers Blog: What's new for text in Android P](https://android-developers.googleblog.com/2018/07/whats-new-for-text-in-android-p.html)
+
 ## Libraries
 
 Look for support, documentation and functionality
