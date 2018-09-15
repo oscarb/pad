@@ -282,6 +282,8 @@ Because it runs on the main thread any task needs to be set up on another thread
 
 It’s important that we verify that we’ve imported `jobdispatcher.JobService` rather than the Android framework’s `JobService`, because if you do, you’ll definitely have some headaches. Double and triple check that please.
 
+[Android Developers Blog: Moar Power in Android 9 Pie and the future](https://android-developers.googleblog.com/2018/09/moar-power-in-android-9-pie-and-future.html)
+
 ### ForegroundService
 
 Service required to have a non-dismissible ongoing notification. Less likely to be destroyed when memory gets low.
