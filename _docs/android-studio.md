@@ -126,6 +126,12 @@ Shortcut | Action
 <kbd>Ctrl</kbd> + <kbd>W</kbd> | Close tab
 
 
+### Scope and file colors
+
+Add shared scope "Generated files".
+Pattern: `file[app]:build//*`
+
+Apply file color to scope.
 
 ## Live Templates
 
