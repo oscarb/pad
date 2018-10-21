@@ -330,7 +330,8 @@ User settings
     "editor.renderControlCharacters": true,
     "editor.renderWhitespace": "none",
     "editor.folding": false,
-    "editor.lineNumbers": "off"
+    "editor.lineNumbers": "off",
+    "markdown.preview.markEditorSelection": false
 }
 ```
 
