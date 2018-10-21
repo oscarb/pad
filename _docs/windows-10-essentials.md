@@ -107,7 +107,7 @@ Tweaks
  
 ### Disable automatic restart after update 
 
-See http://tunecomp.net/disable-automatic-reboot-after-updates-installation-in-windows-10/
+[How to disable automatic reboot after updates installation in Windows 10](https://tunecomp.net/disable-automatic-reboot-after-updates-installation-in-windows-10/)
    
 ### Windows Settings 
  * Settings > System > Multitasking > Disable Snap Assist
@@ -167,7 +167,7 @@ Software
 
 ### Logitech Options
 
-All applications
+#### All applications
 
 Scroll left: Ctrl + Shift + Tab
 Scroll right: Ctrl + Tab
@@ -175,7 +175,7 @@ Middle button: Gesture button
 Up button: Ctrl + Shift + <
 Down button: Back
 
-Android Studio
+##### Android Studio
 
 Scroll left: Alt + Vänsterpil
 Scroll right: Alt + Högerpil
@@ -183,7 +183,7 @@ Middle button: Gesture button
 Up button: Ctrl + Shift + <
 Down button: Back
 
-Spotify
+#### Spotify
 
 Scroll left: Ctrl + Vänsterpil
 Scroll right: Ctrl + Högerpil
@@ -206,7 +206,6 @@ Disable "Start OneDrive on startup" from OneDrive settings
 ### 7-Zip
 
 * [How To Automatically Extract ZIP Files After Downloading](http://www.guidingtech.com/24662/automatically-extract-zip-files/)
-
 * [7-zip & Windows 7: Make "Extract to folder" default on double-click - Super User](http://superuser.com/questions/259353/7-zip-windows-7-make-extract-to-folder-default-on-double-click/447791#447791)
 * [Make 7-Zip extract to folder when double-clicking archives. (based on http://superuser.com/a/447791)](https://gist.github.com/zabbarob/5891200)
 
@@ -260,6 +259,7 @@ Settings > Compression > Remove redundant folders from extraction path
 * TabCopy
 * Tampermonkey
 
+Import SpeedTab settings
 
 #### LastPass
  * Preferences > Advanced > Show Matching Sites in top level menu
@@ -267,12 +267,9 @@ Settings > Compression > Remove redundant folders from extraction path
 > **NOTE**
 > Set to english
 
-** Silence with one click **
+**Silence with one click**
  * Go to `chrome://flags`
  * Enable _Enable tab audio_
-
-* Import SpeedTab settings
-
 
 #### Stylish
 
@@ -293,12 +290,6 @@ Settings > Compression > Remove redundant folders from extraction path
 > **Paths:** /volume1/downloads=Z:\downloads
 
 
-### TED NotePad
-
-[TED Notepad - free notepad replacement](http://jsimlo.sk/notepad/)
-
-* [How To Replace Notepad with Another Text Editor in Windows](https://www.howtogeek.com/howto/12617/how-to-replace-notepad-in-windows-7/)
-
 ### WiinUSoft
 
 
@@ -306,11 +297,26 @@ Settings > Compression > Remove redundant folders from extraction path
 
 * [Download WorkFlowy](https://workflowy.com/downloads/windows/)
 
-### Development
+## Development
 
 ### Android Studio
 
 See [Android Studio](android-studio)
+
+### Visual Studio Code
+
+[Visual Studio Code](https://code.visualstudio.com/)
+
+User settings
+```json
+{
+    "workbench.colorTheme": "Default Light+",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.minimap.enabled": false
+}
+```
 
 
 ### Atom
