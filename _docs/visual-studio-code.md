@@ -19,7 +19,26 @@ https://code.visualstudio.com/
 
 ### Code
 
+## User settings
+
+**Code**
+```json
+{
+    "workbench.colorTheme": "Default Light+",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "workbench.editor.showTabs": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "breadcrumbs.enabled": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "none",
+    "editor.folding": false,
+    "editor.lineNumbers": "off",
+    "markdown.preview.markEditorSelection": false
+}
+```
 
 ### Insiders
-
-
