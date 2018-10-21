@@ -175,7 +175,7 @@ Middle button: Gesture button
 Up button: Ctrl + Shift + <
 Down button: Back
 
-##### Android Studio
+#### Android Studio
 
 Scroll left: Alt + Vänsterpil
 Scroll right: Alt + Högerpil
@@ -190,6 +190,12 @@ Scroll right: Ctrl + Högerpil
 Middle button: Gesture button
 Up button: Ctrl + Shift + <
 Down button: Back
+
+#### Visual Studio Code
+
+Scroll left: Ctrl + Vänsterpil
+Scroll right: Ctrl + Högerpil
+
 
 ### SumatraPDF
 
@@ -307,6 +313,8 @@ See [Android Studio](android-studio)
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
+Open txt-files by default
+
 User settings
 ```json
 {
@@ -314,7 +322,15 @@ User settings
     "workbench.statusBar.visible": false,
     "workbench.activityBar.visible": false,
     "window.menuBarVisibility": "toggle",
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "workbench.editor.showTabs": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "breadcrumbs.enabled": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "none",
+    "editor.folding": false,
+    "editor.lineNumbers": "off"
 }
 ```
 
