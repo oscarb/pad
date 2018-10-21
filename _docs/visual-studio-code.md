@@ -21,7 +21,7 @@ https://code.visualstudio.com/
 
 ## User settings
 
-**Code**
+**Code** (Mac OS)
 ```json
 {
     "workbench.colorTheme": "Default Light+",
