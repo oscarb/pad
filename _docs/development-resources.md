@@ -1,10 +1,16 @@
 ---
 title: Development Resources
-tags: [development, resources]
+tags:
+  - development
+  - resources
+published: true
 ---
 
 # Development Resources
 
+Get started with Node.js and web development - hyperdev
+
+* [LEARN SOMETHING NEW](http://learnsomethingnew.co/)
 * The Best Way to Learn CSS ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906){:.css})
 * The Best Way to Learn HTML ([webdesign.tutsplus.com](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html-2--webdesign-10144){:data-tags='html'})
 * Learn by doing - Code School ([www.codeschool.com](https://www.codeschool.com/))
@@ -53,3 +59,4 @@ tags: [development, resources]
 * A Basic HTML5 Template For Any Project ([www.sitepoint.com](https://www.sitepoint.com/a-basic-html5-template/#ftn1))
 * NodeSchool ([nodeschool.io](http://nodeschool.io/#workshoppers))
 * An In-Depth Guide To Choosing The Best Online Learning Sites - Todoist Blog ([blog.todoist.com](https://blog.todoist.com/2016/04/22/guide-to-online-learning-sites/))
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)

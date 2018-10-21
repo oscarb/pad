@@ -9,7 +9,7 @@
     {% capture header %}{% include header.md %}{% endcapture %}
     {{ header | markdownify }}
     {% if page.collection == "docs" %}
-      {% include tags.md %}
+      <a href="{{ site.github.url }}">Tags</a>
     {% endif %}
     
   </header>
@@ -22,5 +22,9 @@
   </footer>
  </div>
 <script src="{{ site.github.url }}/js/scale.fix.js"></script>
+<script>
+$('section').linkify({ignoreTags: ['code']});
+</script>
+{% include google-analytics-tracking-code.html %}
 </body>
 </html>
