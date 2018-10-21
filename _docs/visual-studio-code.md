@@ -21,7 +21,7 @@ https://code.visualstudio.com/
 
 ## User settings
 
-**Code** (Mac OS)
+**Code** (Windows)
 ```json
 {
     "workbench.colorTheme": "Default Light+",
@@ -39,6 +39,26 @@ https://code.visualstudio.com/
     "editor.lineNumbers": "off",
     "markdown.preview.markEditorSelection": false
 }
+```
+
+**Code** (Mac OS)
+```json
+{
+    "workbench.colorTheme": "Default Light+",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "workbench.editor.showTabs": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "breadcrumbs.enabled": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "none",
+    "editor.folding": false,
+    "editor.lineNumbers": "off",
+    "markdown.preview.markEditorSelection": false
+}
+
 ```
 
 ### Insiders
