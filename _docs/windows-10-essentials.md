@@ -316,7 +316,7 @@ See [Android Studio](android-studio)
 Open txt-files by default
 
 User settings
-```json
+```
 {
     "workbench.colorTheme": "Default Light+",
     "workbench.statusBar.visible": false,
