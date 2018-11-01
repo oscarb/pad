@@ -893,3 +893,8 @@ See http://android-developers.googleblog.com/2017/11/google-play-referrer-api-tr
 ## Auto-backup for apps
 
 [Android Developers Blog: Discover tools for Android data migration and improve your app retention](https://android-developers.googleblog.com/2018/02/discover-tools-for-android-data.html)
+
+## Resources
+
+* [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
+
