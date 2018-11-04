@@ -63,6 +63,7 @@ published: true
 * [CORE](https://play.google.com/store/apps/details?id=am.fury.core)
 * [Fern Flower](https://play.google.com/store/apps/details?id=pl.macaque.FernFlower)
 * [I Love Hue](https://play.google.com/store/apps/details?id=com.zutgames.ilovehue)
+* [Super Mario Run](https://play.google.com/store/apps/details?id=com.nintendo.zara)
 
 ## Preparations
 
