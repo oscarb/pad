@@ -29,6 +29,7 @@ published: true
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
 * [feedly: your work newsfeed](https://play.google.com/store/apps/details?id=com.devhd.feedly)
 * [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
+* [HGF](https://play.google.com/store/apps/details?id=com.mywidz.mwp.hb.app.hyresgastforeningen.wrapper.android)
 * [Hitta.se](https://play.google.com/store/apps/details?id=se.hitta.android.app)
 * [ICA Banken](https://play.google.com/store/apps/details?id=se.icabanken)
 * [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
