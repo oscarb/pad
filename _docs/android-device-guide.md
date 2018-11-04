@@ -24,8 +24,7 @@ published: true
 * [DS video](https://play.google.com/store/apps/details?id=com.synology.dsvideo)
 * [DS file](https://play.google.com/store/apps/details?id=com.synology.DSfile)
 * [EasyPark](https://play.google.com/store/apps/details?id=net.easypark.android)
-* [F-Droid](https://f-droid.org/en/)
-  * DNS66
+* [F-Droid](https://f-droid.org/en/) & DNS66
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
 * [feedly: your work newsfeed](https://play.google.com/store/apps/details?id=com.devhd.feedly)
 * [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
