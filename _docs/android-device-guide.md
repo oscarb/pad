@@ -34,6 +34,7 @@ published: true
 * [Hitta.se](https://play.google.com/store/apps/details?id=se.hitta.android.app)
 * [Hue Essentials](https://play.google.com/store/apps/details?id=com.superthomaslab.hueessentials)
 * [ICA Banken](https://play.google.com/store/apps/details?id=se.icabanken)
+* [IKEA Store](https://play.google.com/store/apps/details?id=com.ikea.kompis)
 * [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 * [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid)
 * [Messenger](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
