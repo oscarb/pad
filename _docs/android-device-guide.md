@@ -49,6 +49,7 @@ published: true
 * [PostNord ](https://play.google.com/store/apps/details?id=se.postnord.private)
 * [Quiet for Gmail](https://play.google.com/store/apps/details?id=com.sgarcia.quiet_for_gmail)
 * [ResSaldo](https://play.google.com/store/apps/details?id=se.supertips.android.ressaldo)
+* [Revolut](https://play.google.com/store/apps/details?id=com.revolut.revolut)
 * [SBAB](https://play.google.com/store/apps/details?id=se.sbab.bankapp)
 * [SMS Backup +](https://play.google.com/store/apps/details?id=com.zegoggles.smssync)
 * [Spotify Music](https://play.google.com/store/apps/details?id=com.spotify.music)
