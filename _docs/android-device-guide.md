@@ -16,7 +16,7 @@ published: true
 * [ASUS Router](https://play.google.com/store/apps/details?id=com.asus.aihome)
 * [Chrome Beta](https://play.google.com/store/apps/details?id=com.chrome.beta)
 * [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
-* [Convini]](https://play.google.com/store/apps/details?id=se.matpajobbet&rdid=se.matpajobbet)
+* [Convini](https://play.google.com/store/apps/details?id=se.matpajobbet&rdid=se.matpajobbet)
 * [Digital Clock Widget Xperia](https://play.google.com/store/apps/details?id=com.sonyericsson.digitalclockwidget2)
 * [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)
 * [DS audio](https://play.google.com/store/apps/details?id=com.synology.DSaudio)
