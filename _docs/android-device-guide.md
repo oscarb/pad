@@ -11,6 +11,8 @@ published: true
 
 ## Apps
 
+* [ACR](https://play.google.com/store/apps/details?id=com.nll.acr&rdid=com.nll.acr)
+* [ACR License](https://play.google.com/store/apps/details?id=com.nll.acr.license)
 * [Chrome Beta](https://play.google.com/store/apps/details?id=com.chrome.beta)
 * [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
 * [Digital Clock Widget Xperia](https://play.google.com/store/apps/details?id=com.sonyericsson.digitalclockwidget2)
@@ -19,6 +21,7 @@ published: true
 * [DS photo](https://play.google.com/store/apps/details?id=com.synology.dsphoto)
 * [DS video](https://play.google.com/store/apps/details?id=com.synology.dsvideo)
 * [DS file](https://play.google.com/store/apps/details?id=com.synology.DSfile)
+* [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
 * [feedly: your work newsfeed](https://play.google.com/store/apps/details?id=com.devhd.feedly)
 * [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
 * [Hitta.se](https://play.google.com/store/apps/details?id=se.hitta.android.app)
