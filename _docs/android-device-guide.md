@@ -43,6 +43,7 @@ published: true
 * [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&rdid=com.google.android.apps.messaging)
 * [Messenger](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
 * [Nova Launcher Prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime)
+* [Pinapple](https://play.google.com/store/apps/details?id=se.oscarb.pinapple)
 * [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
 * [Pocket](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)
 * [ResSaldo](https://play.google.com/store/apps/details?id=se.supertips.android.ressaldo)
@@ -64,6 +65,7 @@ published: true
 * [CORE](https://play.google.com/store/apps/details?id=am.fury.core)
 * [Fern Flower](https://play.google.com/store/apps/details?id=pl.macaque.FernFlower)
 * [I Love Hue](https://play.google.com/store/apps/details?id=com.zutgames.ilovehue)
+* [Monument Valley](https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley)
 * [Super Mario Run](https://play.google.com/store/apps/details?id=com.nintendo.zara)
 
 ## Preparations
