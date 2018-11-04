@@ -32,6 +32,7 @@ published: true
 * [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel&rdid=com.google.android.apps.walletnfcrel)
 * [HGF](https://play.google.com/store/apps/details?id=com.mywidz.mwp.hb.app.hyresgastforeningen.wrapper.android)
 * [Hitta.se](https://play.google.com/store/apps/details?id=se.hitta.android.app)
+* [Hue Essentials](https://play.google.com/store/apps/details?id=com.superthomaslab.hueessentials)
 * [ICA Banken](https://play.google.com/store/apps/details?id=se.icabanken)
 * [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 * [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid)
