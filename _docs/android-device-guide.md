@@ -23,6 +23,7 @@ published: true
 * [DS photo](https://play.google.com/store/apps/details?id=com.synology.dsphoto)
 * [DS video](https://play.google.com/store/apps/details?id=com.synology.dsvideo)
 * [DS file](https://play.google.com/store/apps/details?id=com.synology.DSfile)
+* [EasyPark](https://play.google.com/store/apps/details?id=net.easypark.android)
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
 * [feedly: your work newsfeed](https://play.google.com/store/apps/details?id=com.devhd.feedly)
 * [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
