@@ -11,8 +11,7 @@ published: true
 
 ## Apps
 
-* [Adobe Acrobat Reader](https://play.google.com/store/apps/details?id=com.adobe.reader)
-* [Andie Graph](https://play.google.com/store/apps/details?id=net.supware.tipro)
+* [AlmostTI - TI Calc Emulator](https://play.google.com/store/apps/details?id=com.fms.ati)
 * [AutoNotification](https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification)
 * [AutoVoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice)
 * [bankid](https://play.google.com/store/apps/details?id=com.bankid.bus)
