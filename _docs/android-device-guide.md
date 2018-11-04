@@ -63,7 +63,9 @@ published: true
 * [Telia Play](https://play.google.com/store/apps/details?id=com.teliasonera.telia.playplus)
 * [Trådfri](https://play.google.com/store/apps/details?id=com.ikea.tradfri.lighting)
 * [Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+* [Vimla](https://play.google.com/store/apps/details?id=com.vimlaapp)
 * [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc)
+* [Wallpaper](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
 * [WhatsApp Messenger](https://play.google.com/store/apps/details?id=com.whatsapp)
 * [WorkFlowy](https://play.google.com/store/apps/details?id=com.workflowy.android)
 
