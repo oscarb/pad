@@ -39,6 +39,7 @@ published: true
 * [Kivra](https://play.google.com/store/apps/details?id=com.kivra.Kivra)
 * [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 * [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid)
+* [Mall of Scandinavia](https://play.google.com/store/apps/details?id=com.unibail.mallofscandinavia)
 * [Messenger](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
 * [Nova Launcher Prime](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime)
 * [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
