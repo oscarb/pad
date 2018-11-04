@@ -46,6 +46,8 @@ published: true
 * [Pinapple](https://play.google.com/store/apps/details?id=se.oscarb.pinapple)
 * [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
 * [Pocket](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)
+* [PostNord ](https://play.google.com/store/apps/details?id=se.postnord.private)
+* [Quiet for Gmail](https://play.google.com/store/apps/details?id=com.sgarcia.quiet_for_gmail)
 * [ResSaldo](https://play.google.com/store/apps/details?id=se.supertips.android.ressaldo)
 * [SBAB](https://play.google.com/store/apps/details?id=se.sbab.bankapp)
 * [SMS Backup +](https://play.google.com/store/apps/details?id=com.zegoggles.smssync)
