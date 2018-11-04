@@ -35,6 +35,7 @@ published: true
 * [Hue Essentials](https://play.google.com/store/apps/details?id=com.superthomaslab.hueessentials)
 * [ICA Banken](https://play.google.com/store/apps/details?id=se.icabanken)
 * [IKEA Store](https://play.google.com/store/apps/details?id=com.ikea.kompis)
+* [Keybase](https://play.google.com/store/apps/details?id=io.keybase.ossifrage)
 * [Kivra](https://play.google.com/store/apps/details?id=com.kivra.Kivra)
 * [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 * [LastPass Password Manager](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid)
