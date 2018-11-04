@@ -50,6 +50,8 @@ published: true
 
 ## Games
 * [Captain Tom Galactic Traveler](https://play.google.com/store/apps/details?id=com.picodongames.CaptainTomGT)
+* [CORE](https://play.google.com/store/apps/details?id=am.fury.core)
+
 
 ## Preparations
 
