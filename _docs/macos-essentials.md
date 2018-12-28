@@ -38,8 +38,6 @@ https://applicationize.me/now
 * https://github.com/jiahaog/nativefier
 
 
-
-
 ### Chrome
 
 - Workflowy
@@ -55,6 +53,17 @@ https://applicationize.me/now
 - https://www.miaforgmail.com/
 - https://www.lessannoyingcrm.com/blog/2010/08/149/Create+application+shortcuts+in+Google+Chrome+on+a+Mac
 - http://fluidapp.com/
+
+## Development
+
+### Python 3
+
+```
+ brew install python
+```
+
+See [Installing Python 3 on Mac OS X](https://docs.python-guide.org/starting/install3/osx/)
+
 
 ## Settings
 
