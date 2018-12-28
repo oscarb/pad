@@ -56,6 +56,8 @@ https://applicationize.me/now
 
 ## Development
 
+* [Change PATH](https://stackoverflow.com/questions/14637979/how-to-permanently-set-path-on-linux-unix/14638025#14638025)
+
 ### Python 3
 
 ```
