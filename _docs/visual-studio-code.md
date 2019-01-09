@@ -62,3 +62,14 @@ https://code.visualstudio.com/
 ```
 
 ### Insiders
+
+**Code** (Mac OS)
+```json
+{
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.minimap.enabled": false
+}
+```
