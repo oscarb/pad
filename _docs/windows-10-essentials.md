@@ -157,6 +157,20 @@ Add new DWORD (32-bit) value named `JPEGImportQuality` with value `100` (decimal
 * [Windows 10 Compresses Your Wallpaper, But You Can Make Them High Quality Again](https://www.howtogeek.com/277808/windows-10-compresses-your-wallpaper-but-you-can-make-them-high-quality-again/)
 
 
+### Disable auto-login and show multiple users on login screen
+
+Disable _Use my sign-in info to automatically finish setting up my device and reopen my apps aftar an update or restart_
+
+Enter the following in an elevated PowerShell
+
+```
+$Trigger= New-ScheduledTaskTrigger -AtLogOn
+$User= "NT AUTHORITY\SYSTEM"
+$Action= New-ScheduledTaskAction -Execute "PowerShell.exe" -Argument "Set-ItemProperty -Path HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\LogonUI\UserSwitch -Name Enabled -Value 1"
+Register-ScheduledTask -TaskName "UserSwitch_Enable" -Trigger $Trigger -User $User -Action $Action -RunLevel Highest –Force
+```
+
+
 Software
 --------
 
