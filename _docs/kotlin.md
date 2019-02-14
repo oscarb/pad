@@ -19,6 +19,8 @@ tags: [kotlin]
 * [Kotlin Android Extensions](https://kotlinlang.org/docs/tutorials/android-plugin.html)
 * [Kotlin/anko: Pleasant Android application development](https://github.com/Kotlin/anko)
 
+* [Samples apps](https://developer.android.com/samples/?language=kotlin)
+
 ### Dagger
 
 * [Android Frameworks Using Annotation Processing](https://kotlinlang.org/docs/tutorials/android-frameworks.html#dagger)
