@@ -25,3 +25,8 @@ nodemon server.js
 ## Automating browser refresh
 
 [LiveReload](http://livereload.com/)
+
+
+## Resources
+
+* [Top 10 Mistakes Node.js Developers Make](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
