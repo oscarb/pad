@@ -1,7 +1,8 @@
 ---
 title: Node.js
-tags: [development]
-
+tags:
+  - development
+published: true
 ---
 
 # Node.js
@@ -38,6 +39,9 @@ Force successful tests before commit
 npm i pre-commit --save-dev
 ```
 
+## Making requests
+
+Try axiom, see https://www.valentinog.com/blog/http-requests-node-js-async-await/
 
 
 ## Resources
