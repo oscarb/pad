@@ -31,6 +31,14 @@ nodemon server.js
 
 [node-bunyan](https://github.com/trentm/node-bunyan/) - a simple and fast JSON logging module for node.js services
 
+## Testing
+
+Force successful tests before commit
+```
+npm i pre-commit --save-dev
+```
+
+
 
 ## Resources
 
