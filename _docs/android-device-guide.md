@@ -75,6 +75,7 @@ published: true
 * [I Love Hue](https://play.google.com/store/apps/details?id=com.zutgames.ilovehue)
 * [Monument Valley](https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley)
 * [Super Mario Run](https://play.google.com/store/apps/details?id=com.nintendo.zara)
+* [Snes9x EX+ - Apps on Google Play](https://play.google.com/store/apps/details?id=com.explusalpha.Snes9xPlus)
 
 ## Preparations
 
@@ -152,4 +153,3 @@ WhatsApp |
 
 * [AutoNotification](https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification)
 * [AutoVoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice)
-
