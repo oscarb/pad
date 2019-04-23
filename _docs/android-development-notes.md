@@ -898,3 +898,66 @@ See http://android-developers.googleblog.com/2017/11/google-play-referrer-api-tr
 
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
 
+## Checklist
+
+```
+Udacity Android Developer Nanodegree - Core App Quality Guidelines
+
+        Visual Design and User Interaction
+
+              Standard Design
+
+                    App does not redefine the expected function of a system icon (such as the Back button).
+
+                    App does not redefine or misuse Android UI patterns, such that icons or behaviors could be misleading or confusing to users.
+
+              Navigation
+
+                    App supports standard system Back button navigation and does not make use of any custom, on-screen "Back button" prompts.
+
+                    All dialogs are dismissible using the Back button.
+
+                    Pressing the Home button at any point navigates to the Home screen of the device.
+
+              Functionality
+
+                    Permissions
+
+                          App does not redefine or misuse Android UI patterns, such that icons or behaviors could be misleading or confusing to users.
+
+                          App does not request permissions to access sensitive data or services that can cost the user money, unless related to a core capability of the app.
+
+                    User/App State
+
+                          App correctly preserves and restores user or app state, that is , student uses a bundle to save app state and restores it via onSaveInstanceState/onRestoreInstanceState. For example,
+
+                                When a list item is selected, it remains selected on rotation.
+
+                                When an activity is displayed, the same activity appears on rotation.
+
+                                User text input is preserved on rotation.
+
+                                Maintains list items positions on device rotation.
+
+                          When the app is resumed after the device wakes from sleep (locked) state, the app returns the user to the exact state in which it was last used.
+
+                          When the app is relaunched from Home or All Apps, the app restores the app state as closely as possible to the previous state.
+
+              Performance and Stability
+
+                    Stability
+
+                          App does not crash, force close, freeze, or otherwise function abnormally on any targeted device.
+
+              Google Play
+
+                    Content Policies
+
+                          All content is safe for work content.
+
+                          App adheres to the Google Play Store App policies.
+
+                          App’s code follows standard Java/Android Style Guidelines.
+                          
+ ```
+
