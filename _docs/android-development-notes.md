@@ -798,6 +798,9 @@ Test overdraw
 
 [Manage Your App's Memory | Android Developers](https://developer.android.com/topic/performance/memory.html)
 
+## Night Mode
+
+https://developer.android.com/preview/features/darktheme
 
 ## Publishing
 
@@ -960,4 +963,3 @@ Udacity Android Developer Nanodegree - Core App Quality Guidelines
                           App’s code follows standard Java/Android Style Guidelines.
                           
  ```
-
