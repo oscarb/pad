@@ -262,6 +262,13 @@ Settings > Compression > Remove redundant folders from extraction path
 
 ### Chrome
 
+#### Flags
+
+Enable
+* Tab Hover Cards
+* Tab Hover Cards Images
+
+
 #### Extensions
 
 * Adblock Plus
