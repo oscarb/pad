@@ -166,7 +166,7 @@ WhatsApp |
 * Download and install [Odin 3.10.7](https://forum.xda-developers.com/showthread.php?t=2711451)
 * Download latest stable [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) 
 * Download [Forced Encryption Disabler](https://www.dropbox.com/s/dy6434a5w32d9sl/Tabs3_oreo_forced%2Bencryption_disabler.zip?dl=1)
-* Download [TWRP](https://www.dropbox.com/s/x319tpsyh6s7mh1/samsung_sm-t813_gts210vewifixx_nougat_twrp.tar?dl=1)
+* Download [TWRP](https://www.dropbox.com/s/x319tpsyh6s7mh1/samsung_sm-t813_gts210vewifixx_nougat_twrp.tar?dl=1) [mirror](https://eu.dl.twrp.me/gts210vewifi/)
 
 
 1. Turn off device
@@ -174,4 +174,4 @@ WhatsApp |
 3. Connect device to computer 
 4. Press *Volume up* to continue
 5. Launch Odin and verify that `added` appears in the log
-
+6. 
