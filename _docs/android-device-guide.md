@@ -155,7 +155,7 @@ WhatsApp |
 * [AutoVoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice)
 
 
-## Root Samsung Tablet S2
+## Root Samsung Galaxy Tab S2 9.7 SM-T813
 
 1. 
 
