@@ -169,9 +169,24 @@ WhatsApp |
 * Download [TWRP](https://www.dropbox.com/s/x319tpsyh6s7mh1/samsung_sm-t813_gts210vewifixx_nougat_twrp.tar?dl=1) [mirror](https://eu.dl.twrp.me/gts210vewifi/)
 
 
+### Instructions
+
 1. Turn off device
 2. Hold *Volume Down* + *Home* + *Power* to enter download mode
 3. Connect device to computer 
 4. Press *Volume up* to continue
 5. Launch Odin and verify that `added` appears in the log
-6. 
+6. Click the AP button and browse for TWRP
+7. In options, enable F. Reset Time is enabled and Re-Partition and Auto-Reboot is disabled
+8. Press start 
+
+### Reset to original firmware
+
+Get original firmware using [SamFirm](https://forum.xda-developers.com/galaxy-tab-s/general/tool-samfirm-samsung-firmware-t2988647) or from https://updato.com/firmware-archive-select-model/
+
+1. Enter download mode on tablet 
+2. In Odin, click AP and select the unzipped firmware file
+3. Wait
+4. Click start
+5. Wait
+6. If necessary, reboot into recovery mode and factory reset, then wait again
