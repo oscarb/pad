@@ -161,11 +161,8 @@ WhatsApp |
 
 * Charge device
 * Enable USB debugging
+* Enable OEM unlock
+* Install [Samsung Drivers](https://developer.samsung.com/galaxy/others/android-usb-driver-for-windows) on Windows
 
 
-1. 
-
-
-
-
-
+1.
