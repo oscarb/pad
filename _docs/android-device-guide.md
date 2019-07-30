@@ -157,6 +157,12 @@ WhatsApp |
 
 ## Root Samsung Galaxy Tab S2 9.7 SM-T813
 
+### Requirements
+
+* Charge device
+* Enable USB debugging
+
+
 1. 
 
 
