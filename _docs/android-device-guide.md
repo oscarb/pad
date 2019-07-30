@@ -169,4 +169,9 @@ WhatsApp |
 * Download [TWRP](https://www.dropbox.com/s/x319tpsyh6s7mh1/samsung_sm-t813_gts210vewifixx_nougat_twrp.tar?dl=1)
 
 
-1.
+1. Turn off device
+2. Hold *Volume Down* + *Home* + *Power* to enter download mode
+3. Connect device to computer 
+4. Press *Volume up* to continue
+5. Launch Odin and verify that `<ID:0/004>` appears
+
