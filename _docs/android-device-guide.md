@@ -155,7 +155,7 @@ WhatsApp |
 * [AutoVoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice)
 
 
-## Root Samsung Galaxy Tab S2 9.7 SM-T813
+## Root Samsung Galaxy Tab S2 9.7 SM-T813 (gts210vewifi)
 
 ### Requirements
 
@@ -190,3 +190,5 @@ Get original firmware using [SamFirm](https://forum.xda-developers.com/galaxy-ta
 4. Click start
 5. Wait
 6. If necessary, reboot into recovery mode and factory reset, then wait again
+
+[Source](https://android.stackexchange.com/questions/176786/samsung-galaxy-tab-s2-in-bootloop-standard-recovery-not-working)
