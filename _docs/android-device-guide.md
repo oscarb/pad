@@ -153,3 +153,13 @@ WhatsApp |
 
 * [AutoNotification](https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification)
 * [AutoVoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice)
+
+
+## Root Samsung Tablet S2
+
+1. 
+
+
+
+
+
