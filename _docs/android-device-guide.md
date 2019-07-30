@@ -173,5 +173,5 @@ WhatsApp |
 2. Hold *Volume Down* + *Home* + *Power* to enter download mode
 3. Connect device to computer 
 4. Press *Volume up* to continue
-5. Launch Odin and verify that `<ID:0/004>` appears
+5. Launch Odin and verify that `added` appears
 
