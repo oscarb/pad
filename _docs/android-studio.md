@@ -39,6 +39,26 @@ File > Import settings...
 * HAXM 
 * Enable USB debugging on device
 
+
+## Use adb from terminal on Mac OS X
+
+```
+cd ~
+touch .bash_profile
+open -e .bash_profile
+```
+
+Add to .bash_profile
+```
+export PATH=$PATH:/Users/username/Library/Android/sdk/platform-tools/
+```
+
+```
+source .bash_profile
+adb version
+```
+
+
 ## ADB
 
 Add adb to path variable
