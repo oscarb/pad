@@ -145,6 +145,7 @@ Shortcut | Action
 <kbd>Alt</kbd> + <kbd>Page Up</kbd>/<kbd>Page Down</kbd> | Move to opposite group
 <kbd>Ctrl</kbd> + <kbd>W</kbd> | Close tab
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↑</kbd>/<kbd>↓</kbd> | Go to previous/next change
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>,</kbd> | Attach debugger to process...
 
 ### Scope and file colors
 
