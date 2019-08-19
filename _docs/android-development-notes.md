@@ -998,7 +998,9 @@ Udacity Android Developer Nanodegree - Core App Quality Guidelines
 * [Design for Android TV](https://developer.android.com/design/tv/index.html)
 * [Help users find your content on Android TV](https://developer.android.com/training/tv/discovery?hl=en)
 
+## Samples
 
+* [googlesamples/androidtv-Leanback: Android TV Leanback Support Library sample app](https://github.com/googlesamples/androidtv-Leanback/)
 
 
 
