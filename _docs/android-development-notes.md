@@ -967,6 +967,11 @@ Udacity Android Developer Nanodegree - Core App Quality Guidelines
 # Android TV Development Notes
 
 
+
+## Best practices
+
+* 
+
 ## Features 
 
 * Recommendations
