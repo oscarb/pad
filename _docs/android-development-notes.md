@@ -986,7 +986,7 @@ Udacity Android Developer Nanodegree - Core App Quality Guidelines
 
 * Single app that supports both mobile and TV devices (i.e. use multiple APK support if needed)
 
-
+* Any TV app activity that is subject to disconnect and reconnect events must be configured to handle reconnection events in the app manifest ([Manage TV controllers](https://developer.android.com/training/tv/start/controllers))
 
 >  Recommendations channels are only available in Android 8.0 (API level 26) and later. You must use them to supply recommendations for apps running in Android 8.0 (API level 26) and later. To supply recommendations for apps running on earlier versions of Android, your app must use the [recommendations row](https://developer.android.com/training/tv/discovery/recommendations-row.html) instead.
 
