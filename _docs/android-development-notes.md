@@ -984,7 +984,8 @@ Udacity Android Developer Nanodegree - Core App Quality Guidelines
 
 ## Recommendations
 
-* Single app that supports both mobile and TV devices 
+* Single app that supports both mobile and TV devices (i.e. use multiple APK support if needed)
+
 
 
 >  Recommendations channels are only available in Android 8.0 (API level 26) and later. You must use them to supply recommendations for apps running in Android 8.0 (API level 26) and later. To supply recommendations for apps running on earlier versions of Android, your app must use the [recommendations row](https://developer.android.com/training/tv/discovery/recommendations-row.html) instead.
