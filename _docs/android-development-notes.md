@@ -994,7 +994,7 @@ Udacity Android Developer Nanodegree - Core App Quality Guidelines
 ## Resources: 
 
 * https://developer.android.com/training/tv/playback 
-
+* [Design for Android TV  |  Android Developers](https://developer.android.com/design/tv/index.html)
 
 
 
