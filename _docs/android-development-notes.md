@@ -963,3 +963,37 @@ Udacity Android Developer Nanodegree - Core App Quality Guidelines
                           App’s code follows standard Java/Android Style Guidelines.
                           
  ```
+
+# Android TV Development Notes
+
+
+## Features 
+
+* Recommendations
+* Watch Next
+
+
+## Adoption
+
+80 % Android 7+ (Source: 
+
+## Recommendations
+
+>  Recommendations channels are only available in Android 8.0 (API level 26) and later. You must use them to supply recommendations for apps running in Android 8.0 (API level 26) and later. To supply recommendations for apps running on earlier versions of Android, your app must use the [recommendations row](https://developer.android.com/training/tv/discovery/recommendations-row.html) instead.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
