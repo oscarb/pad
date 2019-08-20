@@ -183,6 +183,11 @@ Register-ScheduledTask -TaskName "UserSwitch_Enable" -Trigger $Trigger -User $Us
     * Enable *Wake on pattern match*
 * In BIOS
 	* Enable *PME Ring event...* 
+    
+    
+### Turn off remotely
+
+
 
 
 Software
