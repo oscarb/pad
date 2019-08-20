@@ -191,7 +191,9 @@ Register-ScheduledTask -TaskName "UserSwitch_Enable" -Trigger $Trigger -User $Us
 0. Locate *Remote Registry* and open properties
   0. Set startup type to Automatic, apply and start
 0. Click Start and go to *Allow an app through windows firewall*
-0. 
+  0. Change settings
+  0. Enable *Windows Management Instrumentation (WMI)* (private)
+  
 
 
 Software
