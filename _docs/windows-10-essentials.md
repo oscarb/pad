@@ -187,7 +187,10 @@ Register-ScheduledTask -TaskName "UserSwitch_Enable" -Trigger $Trigger -User $Us
     
 ### Turn off remotely
 
-
+0. Run **services.msc**
+0. Locate *Remote Registry* and open properties
+  0. Set startup type to Automatic, apply and start
+  
 
 
 Software
