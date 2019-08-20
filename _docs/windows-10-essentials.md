@@ -171,6 +171,20 @@ Register-ScheduledTask -TaskName "UserSwitch_Enable" -Trigger $Trigger -User $Us
 ```
 
 
+### Wake on LAN
+
+* In Device Manager, open properties for *Realtek PCIe GbE Family Controller*
+* In Power Management
+	* Enable *Allow the computer to turn off this device...*
+    * Enable *Allow this device to wake the computer*
+    * Disable *Only allow a magic packet...*
+* In Advanced
+	* Enable *Wake on Magic Packet*
+    * Enable *Wake on pattern match*
+* In BIOS
+	* Enable *PME Ring event...* 
+
+
 Software
 --------
 
