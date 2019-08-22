@@ -121,6 +121,8 @@ Background setting > Log Setting
 * Editor > General > Code Completion > Autopopup documentation in (ms)
 * Avoid stepping into `android.*` when [debuggning](http://stackoverflow.com/questions/19486163/android-studio-how-to-debug-through-my-code-only)
 * Disable show parameter name hints
+* Enable Automatically perform "Run" whwn Apply Changes fails
+* Enable Automatically perform "Run" whwn Apply Code Changes fails
 
 Setup horizontal scroll wheel to <kbd>Alt</kbd> + <kbd>←</kbd>/<kbd></kbd>
 
