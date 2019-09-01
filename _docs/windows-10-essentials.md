@@ -194,6 +194,18 @@ Register-ScheduledTask -TaskName "UserSwitch_Enable" -Trigger $Trigger -User $Us
   0. Change settings
   0. Enable *Windows Management Instrumentation (WMI)* (private)
   
+  
+#### Hide user from login screen
+
+0. Run `regedit`
+0. Browse to `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon`
+0. Add new key named `SpecialAccounts`
+0. Add a key inside above named `UserList`
+0. Create a new DWORD (32-bit) value with the name of the user you want to hide and value set to `0`
+
+
+Source: [How to hide specific user accounts from the sign-in screen on Windows 10 | Windows Central](https://www.windowscentral.com/how-hide-specific-user-accounts-sign-screen-windows-10)
+  
 
 
 Software
