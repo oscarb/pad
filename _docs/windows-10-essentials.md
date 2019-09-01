@@ -204,7 +204,7 @@ Register-ScheduledTask -TaskName "UserSwitch_Enable" -Trigger $Trigger -User $Us
 0. Create a new DWORD (32-bit) value with the name of the user you want to hide and value set to `0`
 
 
-Source: [How to hide specific user accounts from the sign-in screen on Windows 10 | Windows Central](https://www.windowscentral.com/how-hide-specific-user-accounts-sign-screen-windows-10)
+Source: [How to hide specific user accounts from the sign-in screen on Windows 10](https://www.windowscentral.com/how-hide-specific-user-accounts-sign-screen-windows-10)
   
 
 
