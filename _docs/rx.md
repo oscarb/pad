@@ -14,6 +14,7 @@ published: true
 * [ReactiveX](http://reactivex.io/)
 * [RxMarbles](https://rxmarbles.com/) - Interactive diagrams of Rx Observables
 * [The missing RxJava 2 guide: Supercharge your Android development | TechBeacon](https://techbeacon.com/app-dev-testing/missing-rxjava-2-guide-supercharge-your-android-development)
+* [5 Not So Obvious Things About RxJava - Jag Saund - Medium](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)
 
 ### Tutorials
 * [balamaci/rxjava-walkthrough: RxJava playground](https://github.com/balamaci/rxjava-walkthrough)
@@ -27,6 +28,8 @@ published: true
 ### flatMap
 * [Making Sense of FlatMap: An Rx Story - Connected - Medium](https://medium.com/connected/making-sense-of-flatmap-an-rx-story-36211b052f9c)
 
+### Operators
+* [Everything you should know about Rx Operators - Keval Patel - Medium](https://medium.com/@kevalpatel2106/what-should-you-know-about-rx-operators-54716a16b310)
 
 ### subscribeOn vs observeOn
 * [RxJava: subscribeOn vs observeOn - upday devs - Medium](https://medium.com/upday-devs/rxjava-subscribeon-vs-observeon-9af518ded53a)
