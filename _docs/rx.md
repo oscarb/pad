@@ -14,7 +14,7 @@ published: true
 * [ReactiveX](http://reactivex.io/)
 * [RxMarbles](https://rxmarbles.com/) - Interactive diagrams of Rx Observables
 * [The missing RxJava 2 guide: Supercharge your Android development | TechBeacon](https://techbeacon.com/app-dev-testing/missing-rxjava-2-guide-supercharge-your-android-development)
-* [5 Not So Obvious Things About RxJava - Jag Saund - Medium](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)
+* [5 Not So Obvious Things About RxJava - Jag Saund - Medium](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)  
 
 ### Tutorials
 * [balamaci/rxjava-walkthrough: RxJava playground](https://github.com/balamaci/rxjava-walkthrough)
