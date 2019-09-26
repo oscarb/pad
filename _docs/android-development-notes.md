@@ -823,6 +823,15 @@ https://developer.android.com/preview/features/darktheme
 
 ## Fragments
 
+
+**Getting context**
+> Fragment#requireContext, for example, returns a non-null Context and throws an IllegalStateException if called when a Context would be null. This way, you can treat the resulting Context as non-null without the need for safe-call operators or workarounds.
+
+* [Use common Kotlin patterns with Android](https://developer.android.com/kotlin/common-patterns#android) - Android Developers
+
+
+
+
 * [Read Fragments: The Solution to (and Cause of) All of Android’s Problems](https://news.realm.io/news/michael-yotive-state-of-fragments-2017/?utm_source=Android+Weekly&utm_campaign=9411db07ba-android-weekly-254&utm_medium=email&utm_term=0_4eb677ad19-9411db07ba-338005577)
 
 ## UX
@@ -1003,17 +1012,3 @@ Udacity Android Developer Nanodegree - Core App Quality Guidelines
 ## Samples
 
 * [googlesamples/androidtv-Leanback: Android TV Leanback Support Library sample app](https://github.com/googlesamples/androidtv-Leanback/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
