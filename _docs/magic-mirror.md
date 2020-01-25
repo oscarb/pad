@@ -1,9 +1,34 @@
 ---
 title: Magic Mirror
-tags: [android, hardware]
+tags:
+  - android
+  - hardware
+published: true
 ---
 
 # Magic Mirror
+
+## Installation
+
+### Ports
+
+Local Port | Container Port | Type
+-----------|----------------|-------
+8775 | 8080 | TCP
+
+### Volume
+
+File/folder | Mount path | Type
+------------|------------|--------
+apps/magic-mirror/css/custom.css | /opt/magic_mirror/css/custom.css
+apps/magic-mirror/modules | /opt/magicmirror/modules
+apps/magic-mirror/config | /opt/magic-mirror/config
+
+### Network
+
+bridge
+
+
 
 ## Android 
 
