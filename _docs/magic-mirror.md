@@ -29,6 +29,20 @@ apps/magic-mirror/config | /opt/magic-mirror/config
 bridge
 
 
+### Start
+
+
+```
+docker run --name magic-mirror \
+    --net="bridge" \
+    -p 8775:8080 \
+    --env TZ=Europe/Stockholm
+    -v /volume1/apps/magic-mirror/css/custom.css:/opt/magic_mirror/css/custom.css \
+    -v /volume1/apps/magic-mirror/modules:/opt/magic_mirror/modules \
+    -v /volume1/apps/magic-mirror/config:/opt/magic_mirror/config \
+    -d xbgmsharp/docker-magicmirror
+```
+
 
 ## Android 
 
