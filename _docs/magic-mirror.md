@@ -39,7 +39,6 @@ docker run --name magic-mirror \
     -v /volume1/apps/magic-mirror/css/custom.css:/opt/magic_mirror/css/custom.css \
     -v /volume1/apps/magic-mirror/modules:/opt/magic_mirror/modules \
     -v /volume1/apps/magic-mirror/config:/opt/magic_mirror/config \
-    -v /etc/localtime:/etc/localtime:ro \
     -d xbgmsharp/docker-magicmirror
 ```
 
