@@ -43,6 +43,12 @@ docker run --name magic-mirror \
     -d xbgmsharp/docker-magicmirror
 ```
 
+## Get running version in Docker
+
+```
+docker exec -it magic-mirror cat package.json | jq .version -r
+```
+
 
 ## Android 
 
