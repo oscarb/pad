@@ -35,7 +35,7 @@ bridge
 ```
 docker run --name magic-mirror \
     -p 8775:8080 \
-    --env TZ=Europe/Stockholm
+    --env TZ=Europe/Stockholm \
     -v /volume1/apps/magic-mirror/css/custom.css:/opt/magic_mirror/css/custom.css \
     -v /volume1/apps/magic-mirror/modules:/opt/magic_mirror/modules \
     -v /volume1/apps/magic-mirror/config:/opt/magic_mirror/config \
