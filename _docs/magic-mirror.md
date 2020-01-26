@@ -49,6 +49,10 @@ docker run --name magic-mirror \
 docker exec -it magic-mirror cat package.json | jq .version -r
 ```
 
+## Get latest version on GitHub
+```
+curl --silent "https://api.github.com/repos/MichMich/MagicMirror/releases/latest" | jq .tag_name -r
+```
 
 ## Android 
 
