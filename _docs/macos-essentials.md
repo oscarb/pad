@@ -7,6 +7,45 @@ published: true
 
 # macOS Essentials
 
+
+## Backup 
+
+- Notes
+- Postman?
+- Visual Studio Code
+- Visual Studio Code - Insiders
+
+
+## Apps v2
+
+- Android Studio 
+- Figma
+- Focusrite Control
+- Chrome
+- GraphQL Playground
+- Kap
+- scrcpy
+- Keybase
+- LastPass
+- Logi Options
+- Microsoft Teams
+- Postman
+- Scroll Reverser?
+- Slack
+- [Rectangle](https://github.com/rxhanson/Rectangle)
+- Spotify
+- SpotMenu
+- Transmission Remote GUI
+- Visual Studio Code
+- Visual Studio Code - Insiders
+- VLC
+- WhatsApp
+
+
+### Android Studio
+
+
+
 ## Apps
 
 - Google Chrome
