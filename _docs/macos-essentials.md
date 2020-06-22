@@ -50,6 +50,11 @@ published: true
 - VLC
 - WhatsApp
 
+
+brew install scrcpy
+
+brew cask install figma google-chrome kap lastpass microsoft-teams slack rectangle spotify spotmenu transmission-remote-gui visual-studio-code
+
 ### Homebrew
 
 Install
