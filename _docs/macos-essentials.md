@@ -8,6 +8,14 @@ published: true
 # macOS Essentials
 
 
+
+## Set Up
+
+- Apps
+- System settings
+- Tweaks
+
+
 ## Backup 
 
 - Notes
@@ -18,6 +26,7 @@ published: true
 
 ## Apps v2
 
+- Homebrew
 - Android Studio 
 - Figma
 - Focusrite Control
@@ -41,6 +50,14 @@ published: true
 - VLC
 - WhatsApp
 
+### Homebrew
+
+Install
+
+	/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+
+
 
 ### Android Studio
 
@@ -48,6 +65,7 @@ published: true
 
 ## Apps
 
+- Alt-C
 - Google Chrome
 - Spectacle
 - [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
