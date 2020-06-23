@@ -25,6 +25,8 @@ published: true
 
 Files? 
 App settings?
+System settings?
+Bookmarks?
 
 - Pictures/movies taken with webcam
 
