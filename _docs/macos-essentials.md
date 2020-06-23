@@ -23,7 +23,22 @@ published: true
 
 ## Backup 
 
+Files? 
+App settings?
+
 - Pictures/movies taken with webcam
+
+### Apps
+
+
+#### Android Studio 
+
+- Scratches
+
+
+### Tweaks
+
+- SSH 
 
 ### Check
 
