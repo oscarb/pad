@@ -123,6 +123,8 @@ Background setting > Log Setting
 * Disable show parameter name hints
 * Enable Automatically perform "Run" whwn Apply Changes fails
 * Enable Automatically perform "Run" whwn Apply Code Changes fails
+* Never star import anything
+* Import Kotlin style guide
 
 Setup horizontal scroll wheel to <kbd>Alt</kbd> + <kbd>←</kbd>/<kbd></kbd>
 
