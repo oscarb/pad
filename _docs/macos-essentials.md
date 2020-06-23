@@ -16,7 +16,19 @@ published: true
 - Tweaks
 
 
+### System settings
+
+- Log in with Exchange account
+
+
 ## Backup 
+
+- Pictures/movies taken with webcam
+
+### Check
+
+- Files
+- App settings
 
 - Notes
 - Postman?
