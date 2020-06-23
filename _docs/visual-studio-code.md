@@ -56,7 +56,8 @@ https://code.visualstudio.com/
     "editor.renderWhitespace": "none",
     "editor.folding": false,
     "editor.lineNumbers": "off",
-    "markdown.preview.markEditorSelection": false
+    "markdown.preview.markEditorSelection": false,
+    "git.enableSmartCommit": true
 }
 
 ```
