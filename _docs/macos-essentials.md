@@ -42,6 +42,7 @@ Bookmarks?
 
 - SSH
 - Change resolution of built-in retina screen
+- Automatically hide/show dock
 - 
 
 #### SSH
