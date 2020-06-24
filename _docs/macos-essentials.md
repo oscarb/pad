@@ -44,6 +44,7 @@ Bookmarks?
 - Change resolution of built-in retina screen
 - Automatically hide/show dock
 - Hide desktop icons
+- Disable Keyboard shortcut "Search man Page Index in Terminal" (interfers with Android Studio)
 
 #### SSH
 
