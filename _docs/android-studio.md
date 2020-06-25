@@ -24,6 +24,9 @@ Editor > Tear line: #586672
 * .ignore
 * Key Promoter
 * CodeGlance
+* Android Drawable Preview
+* Gradle Killer
+* JS GraphQL
 
 ## Virtual devices
 
