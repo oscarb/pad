@@ -37,6 +37,13 @@ Bookmarks?
 
 - Scratches
 
+Add ADB to Path
+
+````
+export ANDROID_HOME=/Users/$USER/Library/Android/sdk
+export ANDROID_SDK_ROOT=$ANDROID_HOME
+PATH="$PATH:$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools"
+```
 
 ### Tweaks
 
