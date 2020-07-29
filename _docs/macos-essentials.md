@@ -164,6 +164,12 @@ https://applicationize.me/now
 - https://www.lessannoyingcrm.com/blog/2010/08/149/Create+application+shortcuts+in+Google+Chrome+on+a+Mac
 - http://fluidapp.com/
 
+### Transmission Remote GUI 
+
+````
+/volume1/downloads=smb://ds713/samba/downloads
+````
+
 ## Development
 
 * [Change PATH](https://stackoverflow.com/questions/14637979/how-to-permanently-set-path-on-linux-unix/14638025#14638025)
@@ -175,6 +181,8 @@ https://applicationize.me/now
 ```
 
 See [Installing Python 3 on Mac OS X](https://docs.python-guide.org/starting/install3/osx/)
+
+
 
 
 ## Settings
