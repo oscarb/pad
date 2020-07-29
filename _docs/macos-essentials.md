@@ -39,7 +39,7 @@ Bookmarks?
 
 Add ADB to Path
 
-````
+```
 export ANDROID_HOME=/Users/$USER/Library/Android/sdk
 export ANDROID_SDK_ROOT=$ANDROID_HOME
 PATH="$PATH:$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools"
@@ -96,9 +96,16 @@ https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-
 - WhatsApp
 
 
+Install tools
+```
 brew install scrcpy
+```
 
-brew cask install figma google-chrome kap lastpass microsoft-teams slack rectangle spotify spotmenu transmission-remote-gui visual-studio-code
+Install apps
+```
+brew cask install figma google-chrome kap lastpass microsoft-teams slack rectangle spotify spotmenu transmission-remote-gui visual-studio-code vlc
+```
+
 
 ### Homebrew
 
