@@ -19,6 +19,7 @@ published: true
 ### System settings
 
 - Log in with Exchange account
+- [Turn on Do not disturb when screen is sleeping/locked](https://www.jeffgeerling.com/blog/2016/external-display-waking-disable-notifications-when-your-screen)
 
 
 ## Backup 
