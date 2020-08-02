@@ -7,7 +7,19 @@ published: true
 
 # macOS Essentials
 
+## Backup 
 
+- Files
+- App settings
+- System settings
+- Notes
+- Postman
+- Bookmarks
+- Pictures/movies taken with webcam
+
+### Android Studio 
+
+Scratches
 
 ## Set Up
 
@@ -16,61 +28,7 @@ published: true
 - Tweaks
 
 
-### System settings
-
-- Log in with Exchange account
-- [Turn on Do not disturb when screen is sleeping/locked](https://www.jeffgeerling.com/blog/2016/external-display-waking-disable-notifications-when-your-screen)
-
-
-## Backup 
-
-Files? 
-App settings?
-System settings?
-Bookmarks?
-
-- Pictures/movies taken with webcam
-
 ### Apps
-
-
-#### Android Studio 
-
-- Scratches
-
-Add ADB to Path
-
-```
-export ANDROID_HOME=/Users/$USER/Library/Android/sdk
-export ANDROID_SDK_ROOT=$ANDROID_HOME
-PATH="$PATH:$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools"
-```
-
-### Tweaks
-
-- SSH
-- Change resolution of built-in retina screen
-- Automatically hide/show dock
-- Hide desktop icons
-- Disable Keyboard shortcut "Search man Page Index in Terminal" (interfers with Android Studio)
-
-#### SSH
-
-Generate SSH keys: 
-https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
-
-### Check
-
-- Files
-- App settings
-
-- Notes
-- Postman?
-- Visual Studio Code
-- Visual Studio Code - Insiders
-
-
-## Apps v2
 
 - Homebrew
 - Android Studio 
@@ -96,6 +54,12 @@ https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-
 - VLC
 - WhatsApp
 
+#### Homebrew
+
+Install Homebrew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
 
 Install tools
 ```
@@ -107,76 +71,38 @@ Install apps
 brew cask install figma google-chrome kap lastpass microsoft-teams slack rectangle spotify spotmenu transmission-remote-gui visual-studio-code vlc
 ```
 
+* https://brew.sh/
 
-### Homebrew
 
-Install
+#### Android Studio 
+
+Add ADB to Path
 
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+export ANDROID_HOME=/Users/$USER/Library/Android/sdk
+export ANDROID_SDK_ROOT=$ANDROID_HOME
+PATH="$PATH:$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools"
 ```
 
+### System settings
+
+- Log in with Exchange account
+- Turn on [Do not disturb when screen is sleeping/locked](https://www.jeffgeerling.com/blog/2016/external-display-waking-disable-notifications-when-your-screen)
 
 
-### Android Studio
+### Tweaks
 
+- SSH
+- Change resolution of built-in retina screen
+- Automatically hide/show dock
+- Hide desktop icons
+- Disable Keyboard shortcut "Search man Page Index in Terminal" (interfers with Android Studio)
 
+#### SSH
 
-## Apps
+Generate SSH keys: 
+https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
 
-- Alt-C
-- Google Chrome
-- Spectacle
-- [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
-- LastPass
-- Spotify
-- MacDown
-- Vectr
-- [Scroll Reverser](http://pilotmoon.com/scrollreverser/)
-- [SpotMenu](https://github.com/kmikiy/SpotMenu/tree/master)
-
-
-### Markdown
-
- - https://www.maketecheasier.com/best-markdown-editors-for-macos/
- - https://frontendcurated.com/best-markdown-editors-abf8d5250cee#.z1jv6zzt7
-- https://www.quora.com/Whats-the-best-Markdown-editor-for-Mac-OS-X
-- http://thesweetsetup.com/apps/favorite-markdown-writing-app-mac/
-- https://www.slant.co/topics/899/~best-markdown-editor-for-os-x
-- https://www.raywenderlich.com/119949/top-five-markdown-editors
-
-### Turn web apps into apps
-
-- Prose.io
-
-* Applicationize
-
-https://applicationize.me/now
-
-* https://github.com/jiahaog/nativefier
-
-
-### Chrome
-
-- Workflowy
-
-### Mail
-
-- https://itunes.apple.com/se/app/spark-love-your-email-again/id1176895641?mt=12&ign-mpt=uo%3D4
-- https://nylas.com/pricing/
-- https://inky.com/download
-
-### Resources
-- https://dailytekk.com/the-3-best-mac-email-apps-clients-for-2016/
-- https://www.miaforgmail.com/
-- https://www.lessannoyingcrm.com/blog/2010/08/149/Create+application+shortcuts+in+Google+Chrome+on+a+Mac
-- http://fluidapp.com/
-
-### Transmission Remote GUI 
-
-````
-/volume1/downloads=smb://ds713/samba/downloads
-````
 
 ## Development
 
@@ -189,8 +115,6 @@ https://applicationize.me/now
 ```
 
 See [Installing Python 3 on Mac OS X](https://docs.python-guide.org/starting/install3/osx/)
-
-
 
 
 ## Settings
@@ -211,9 +135,6 @@ See [Installing Python 3 on Mac OS X](https://docs.python-guide.org/starting/ins
 Move left a space: cmd + >
 Move right a space: cmd + <
 
-### Must have
-- https://www.google.se/search?q=macbook+pro+must+have+apps&rlz=1C5CHFA_enSE730SE730&oq=macbook+pro+must+have+apps&aqs=chrome..69i57j0l5.8933j0j4&sourceid=chrome&ie=UTF-8
-- http://lifehacker.com/top-10-free-alternatives-to-expensive-software-1791300629
 
 ## Issues
 
