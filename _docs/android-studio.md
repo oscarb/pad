@@ -104,6 +104,12 @@ adb shell input text 'my string here. With some characters escaped like \$ that'
 *#*#2846579#*#*
 ```
 
+## Launch deep links
+
+```
+adb shell am start -a android.intent.action.VIEW -c android.intent.category.BROWSABLE -d "LINK"
+```
+
 Background setting > Log Setting 
 
 ## Code style
