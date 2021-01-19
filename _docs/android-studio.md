@@ -42,6 +42,16 @@ File > Import settings...
 * HAXM 
 * Enable USB debugging on device
 
+#### Mac OS setup 
+
+```
+ defaults write com.google.android.studio AppleFontSmoothing -int 1
+```
+
+```
+defaults write com.google.android.studio AppleWindowTabbingMode manual
+```
+
 
 ## Use adb from terminal on Mac OS X
 
