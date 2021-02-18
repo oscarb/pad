@@ -31,3 +31,7 @@ published: true
 ## Electron
 
 * [cafe-pitch](https://www.npmjs.com/package/cafe-pitch)
+
+## Terminal
+* [patat](https://github.com/jaspervdj/patat)
+* [slideshow-s9](https://github.com/slideshow-s9/slideshow/tree/master/slideshow)
