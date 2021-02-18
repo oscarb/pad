@@ -15,6 +15,7 @@ published: true
 
 ### Slides
 
+* [big](https://github.com/tmcw/big)
 * [DZSlides](http://paulrouget.com/dzslides/)
 * [Remark](https://remarkjs.com/)
 	- [backslide](https://github.com/sinedied/backslide)
