@@ -7,7 +7,13 @@ published: true
 
 # Presentation Resources
 
-## Slides
+## Innovative 
+* [Beautiful.ai](https://www.beautiful.ai/)
+
+
+## Markdown
+
+### Slides
 
 * [DZSlides](http://paulrouget.com/dzslides/)
 * [Remark](https://remarkjs.com/)
@@ -16,23 +22,23 @@ published: true
   - [Slides](https://slides.com/)
   - [hacker-slides](https://github.com/msoedov/hacker-slides)
   
-## React
+### React
 
 * [mdx-deck](https://github.com/jxnblk/mdx-deck)
 * [spectacle](https://github.com/FormidableLabs/spectacle)  
   
-## Ecosystem  
+### Ecosystem  
 * [marp](https://github.com/marp-team/marp)
 * [deck](https://github.com/deckjs/deck)
 
-## Mac software
+### Mac software
 
 * [Slideas](https://www.slideas.app/)
 
-## Electron
+### Electron
 
 * [cafe-pitch](https://www.npmjs.com/package/cafe-pitch)
 
-## Terminal
+### Terminal
 * [patat](https://github.com/jaspervdj/patat)
 * [slideshow-s9](https://github.com/slideshow-s9/slideshow/tree/master/slideshow)
