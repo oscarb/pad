@@ -14,6 +14,10 @@ published: true
 * [reveal.js](https://revealjs.com/#/transitions)
   - [Slides](https://slides.com/)
   
+## React
+
+* [mdx-deck](https://github.com/jxnblk/mdx-deck)
+  
   
 ## Ecosystem  
 * [marp](https://github.com/marp-team/marp)
