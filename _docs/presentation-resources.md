@@ -21,7 +21,7 @@ published: true
   
 ## Ecosystem  
 * [marp](https://github.com/marp-team/marp)
-
+* [deck](https://github.com/deckjs/deck)
 
 ## Mac software
 
