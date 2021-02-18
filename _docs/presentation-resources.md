@@ -11,6 +11,7 @@ published: true
 
 * [DZSlides](http://paulrouget.com/dzslides/)
 * [Remark](https://remarkjs.com/)
+	- [backslide](https://github.com/sinedied/backslide)
 * [reveal.js](https://revealjs.com/#/transitions)
   - [Slides](https://slides.com/)
   
