@@ -17,7 +17,7 @@ published: true
 ## React
 
 * [mdx-deck](https://github.com/jxnblk/mdx-deck)
-  
+* [spectacle](https://github.com/FormidableLabs/spectacle)  
   
 ## Ecosystem  
 * [marp](https://github.com/marp-team/marp)
