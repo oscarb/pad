@@ -14,6 +14,7 @@ published: true
 	- [backslide](https://github.com/sinedied/backslide)
 * [reveal.js](https://revealjs.com/#/transitions)
   - [Slides](https://slides.com/)
+  - [hacker-slides](https://github.com/msoedov/hacker-slides)
   
 ## React
 
