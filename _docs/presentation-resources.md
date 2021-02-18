@@ -15,9 +15,14 @@ published: true
   - [Slides](https://slides.com/)
   
   
-* [marp-team/marp: The entrance repository of Markdown presentation ecosystem](https://github.com/marp-team/marp)
+## Ecosystem  
+* [marp](https://github.com/marp-team/marp)
 
 
 ## Mac software
 
-* [Slideas Markdown Presentation Editor for Mac](https://www.slideas.app/)
+* [Slideas](https://www.slideas.app/)
+
+## Electron
+
+* [cafe-pitch](https://www.npmjs.com/package/cafe-pitch)
