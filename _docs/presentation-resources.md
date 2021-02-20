@@ -22,7 +22,6 @@ published: true
 * [reveal.js](https://revealjs.com/#/transitions)
   - [Slides](https://slides.com/)
   - [hacker-slides](https://github.com/msoedov/hacker-slides)
-* [deck.js](http://imakewebthings.com/deck.js/)
   
 ### React
 
