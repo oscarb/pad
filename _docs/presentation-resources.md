@@ -22,7 +22,9 @@ published: true
 * [reveal.js](https://revealjs.com/#/transitions)
   - [Slides](https://slides.com/)
   - [hacker-slides](https://github.com/msoedov/hacker-slides)
-  
+* [impress.js](https://github.com/impress/impress.js)
+
+
 ### React
 
 * [mdx-deck](https://github.com/jxnblk/mdx-deck)
