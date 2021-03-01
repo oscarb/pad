@@ -45,3 +45,5 @@ published: true
 ### Terminal
 * [patat](https://github.com/jaspervdj/patat)
 * [slideshow-s9](https://github.com/slideshow-s9/slideshow/tree/master/slideshow)
+* [mdp](https://github.com/visit1985/mdp)
+* [tpp](https://synflood.at/tpp.html)
