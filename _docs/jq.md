@@ -3,9 +3,6 @@ tags:
   - apps
 published: true
 ---
----
-tags: [development]
----
 
 
 # jq
