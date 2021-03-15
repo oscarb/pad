@@ -10,7 +10,7 @@ published: true
 ## Recipies 
 
 
-Combine multiple json files with arrays into one json file
+### Combine multiple json files with arrays into one json file
 ```
 jq -s '[.[][]]' *.json > all.json
 ```
