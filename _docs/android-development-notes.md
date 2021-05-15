@@ -10,6 +10,9 @@ published: true
 * TOC
 {:toc}
 
+## Jetpack Composable
+
+[Bye XML, it was nice knowing you (pt. 1) | by Filip Wiesner | MateeDevs | Apr, 2021 | Medium](https://medium.com/mateedevs/bye-xml-it-was-nice-knowing-you-pt-1-50b195bab1a9)
 
 ## Flow vs LiveData
 
