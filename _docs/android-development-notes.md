@@ -10,6 +10,11 @@ published: true
 * TOC
 {:toc}
 
+
+## Flow vs LiveData
+
+* [Flow/LiveData….What Are They? Best Use Case. (Lets Build a Login System) | by Inuwa Ibrahim | Apr, 2021 | ProAndroidDev](https://proandroiddev.com/flow-livedata-what-are-they-best-use-case-lets-build-a-login-system-39315510666d)
+
 ## Intents
 
 Example from [Intents and Intent Filters](https://developer.android.com/guide/components/intents-filters.html#ExampleSend)
