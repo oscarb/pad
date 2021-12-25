@@ -20,7 +20,13 @@ published: true
 * Go throug apps one by one
 * Add Tasker permissions
 
-### Tasker permissions
+### Tasker setup
+
+#### Quick tiles
+
+#### Global variables
+
+#### Permissions
 
 **React to long volume press**
 ```
