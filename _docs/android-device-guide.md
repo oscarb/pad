@@ -24,7 +24,14 @@ published: true
 
 #### Quick tiles
 
+1. Keep Display On
+2. Home Control
+
 #### Global variables
+
+#### Home screen widgets
+
+* TV Remote
 
 #### Permissions
 
