@@ -45,6 +45,10 @@ adb shell pm grant net.dinglisch.android.taskerm android.permission.SET_VOLUME_K
 adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS
 ```
 
+**Read logs**
+```
+adb shell pm grant net.dinglisch.android.taskerm android.permission.READ_LOGS
+```
 
 ## What to backup when formatting?
 
