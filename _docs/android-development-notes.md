@@ -18,6 +18,7 @@ published: true
 * [Advanced Android in Kotlin  |  Training Courses  |  Android Developers](https://developer.android.com/courses/kotlin-android-advanced/overview)
 * [Introduction to coroutines](https://developer.android.com/codelabs/basic-android-kotlin-training-introduction-coroutines?hl=en#0)
 * [android/sunflower: A gardening app illustrating Android development best practices with Android Jetpack.](https://github.com/android/sunflower)
+* [Modern Android App Architecture  |  Android Developers](https://developer.android.com/courses/pathways/android-architecture)
 
 ## Material 3
 
@@ -85,6 +86,10 @@ https://m3.material.io/
 * [Make your Android app more accessible  |  Android Developers](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
 * [Build more accessible apps  |  Android Developers](https://developer.android.com/guide/topics/ui/accessibility)
 
+
+## Checklists 
+
+* [Quality  |  Android Developers](https://developer.android.com/quality)
 ## Flow vs LiveData
 
 * [Flow/LiveData….What Are They? Best Use Case. (Lets Build a Login System) | by Inuwa Ibrahim | Apr, 2021 | ProAndroidDev](https://proandroiddev.com/flow-livedata-what-are-they-best-use-case-lets-build-a-login-system-39315510666d)
@@ -990,6 +995,8 @@ See http://android-developers.googleblog.com/2017/11/google-play-referrer-api-tr
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
 
 ## Checklist
+
+
 
 ```
 Udacity Android Developer Nanodegree - Core App Quality Guidelines
