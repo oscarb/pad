@@ -57,6 +57,8 @@ https://m3.material.io/
 * [Google Play In-App Review API  |  Android Developers](https://developer.android.com/guide/playcore/in-app-review)
 * [In-app updates  |  Android Developers](https://developer.android.com/guide/playcore/in-app-updates)
 * [App Actions  |  Google Developers](https://developers.google.com/assistant/app)
+* Paging
+
 
 ## Testing 
 
