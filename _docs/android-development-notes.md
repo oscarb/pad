@@ -11,6 +11,23 @@ published: true
 {:toc}
 
 
+## Learn Android 
+
+* [Android Basics in Kotlin course  |  Android Developers](https://developer.android.com/courses/android-basics-kotlin/course)
+* [Use coroutines in common Android use cases  |  Android Developers](https://developer.android.com/courses/pathways/android-coroutines)
+* [Advanced Android in Kotlin  |  Training Courses  |  Android Developers](https://developer.android.com/courses/kotlin-android-advanced/overview)
+* [Introduction to coroutines](https://developer.android.com/codelabs/basic-android-kotlin-training-introduction-coroutines?hl=en#0)
+* [android/sunflower: A gardening app illustrating Android development best practices with Android Jetpack.](https://github.com/android/sunflower)
+
+## Material 3
+
+https://m3.material.io/
+
+* [Getting started with MDC-Android – Material Design 3](https://m3.material.io/libraries/mdc-android/getting-started)
+* [Visualizing dynamic color in your app](https://codelabs.developers.google.com/visualize-dynamic-color#0)
+* [Material Theme Builder](https://material-foundation.github.io/material-theme-builder/#/dynamic)
+* [Adding dynamic color to your app](https://codelabs.developers.google.com/codelabs/apply-dynamic-color#0)
+
 ## 2022
 
 [Build your first app  |  Android Basics  |  Android Developers](https://developer.android.com/training/basics/firstapp)
@@ -20,17 +37,53 @@ published: true
 * [Schedule tasks with WorkManager  |  Android Developers](https://developer.android.com/topic/libraries/architecture/workmanager)
 * [Navigation  |  Android Developers](https://developer.android.com/guide/navigation)
 * [Dependency injection in Android  |  Android Developers](https://developer.android.com/training/dependency-injection)
+* [Support modern emoji  |  Android Developers](https://developer.android.com/guide/topics/ui/look-and-feel/emoji2)
+* [Splash screens  |  Android Developers](https://developer.android.com/guide/topics/ui/splash-screen)
+* [Display content edge-to-edge in your app  |  Android Developers](https://developer.android.com/training/gestures/edge-to-edge)
+* [Supporting Swipe-to-Refresh  |  Android Developers](https://developer.android.com/training/swipe)
+* [Selecting Colors with the Palette API  |  Android Developers](https://developer.android.com/training/material/palette-colors)
+* [Reducing image download sizes  |  Android Developers](https://developer.android.com/topic/performance/network-xfer)
+* [Remember and authenticate users  |  Android Developers](https://developer.android.com/training/id-auth)
+* [About Android App Bundles  |  Android Developers](https://developer.android.com/guide/app-bundle)
+* [Dependency injection in Android  |  Android Developers](https://developer.android.com/training/dependency-injection)
 
+* [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
 
 ### Android features
 
 * [App shortcuts overview  |  Android Developers](https://developer.android.com/guide/topics/ui/shortcuts)
 * [App Startup  |  Android Developers](https://developer.android.com/topic/libraries/app-startup)
+* [Google Play In-App Review API  |  Android Developers](https://developer.android.com/guide/playcore/in-app-review)
+* [In-app updates  |  Android Developers](https://developer.android.com/guide/playcore/in-app-updates)
+* [App Actions  |  Google Developers](https://developers.google.com/assistant/app)
+
+## Testing 
+
+* [Test apps on Android  |  Android Developers](https://developer.android.com/training/testing)
 
 
-## Jetpack Composable
 
-[Bye XML, it was nice knowing you (pt. 1) | by Filip Wiesner | MateeDevs | Apr, 2021 | Medium](https://medium.com/mateedevs/bye-xml-it-was-nice-knowing-you-pt-1-50b195bab1a9)
+## Jetpack Compose
+
+
+* [Get started with Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/documentation)
+
+*[Bye XML, it was nice knowing you (pt. 1) | by Filip Wiesner | MateeDevs | Apr, 2021 | Medium](https://medium.com/mateedevs/bye-xml-it-was-nice-knowing-you-pt-1-50b195bab1a9)
+
+* [android/compose-samples: Official Jetpack Compose samples.](https://github.com/android/compose-samples)
+* [Layouts in Compose  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/layouts)
+
+### Tutorials
+
+* [Jetpack Compose  |  Android Developers](https://developer.android.com/courses/pathways/compose)
+* [Android Compose Tutorial  |  Android Developers](https://developer.android.com/jetpack/compose/tutorial)
+* [Layouts in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-layouts#0)
+
+
+## Accessibility 
+
+* [Make your Android app more accessible  |  Android Developers](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
+* [Build more accessible apps  |  Android Developers](https://developer.android.com/guide/topics/ui/accessibility)
 
 ## Flow vs LiveData
 
