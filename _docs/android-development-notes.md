@@ -60,7 +60,8 @@ https://m3.material.io/
 * [In-app updates  |  Android Developers](https://developer.android.com/guide/playcore/in-app-updates)
 * [App Actions  |  Google Developers](https://developers.google.com/assistant/app)
 * Paging
-
+* Themed App Icons - https://developer.android.com/about/versions/13/features#themed-app-icons
+* Multilingual settings - https://developer.android.com/about/versions/13/features#language-support
 
 ## Testing 
 
