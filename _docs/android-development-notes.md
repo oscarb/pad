@@ -19,6 +19,8 @@ published: true
 * [Introduction to coroutines](https://developer.android.com/codelabs/basic-android-kotlin-training-introduction-coroutines?hl=en#0)
 * [android/sunflower: A gardening app illustrating Android development best practices with Android Jetpack.](https://github.com/android/sunflower)
 * [Modern Android App Architecture  |  Android Developers](https://developer.android.com/courses/pathways/android-architecture)
+* [Android Kotlin Fundamentals  |  Training Courses  |  Android Developers](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
+
 
 ## Material 3
 
