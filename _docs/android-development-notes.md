@@ -10,6 +10,24 @@ published: true
 * TOC
 {:toc}
 
+
+## 2022
+
+[Build your first app  |  Android Basics  |  Android Developers](https://developer.android.com/training/basics/firstapp)
+
+* [Guide to app architecture  |  Android Developers](https://developer.android.com/jetpack/guide)
+* [DataStore  |  Android Developers](https://developer.android.com/topic/libraries/architecture/datastore)
+* [Schedule tasks with WorkManager  |  Android Developers](https://developer.android.com/topic/libraries/architecture/workmanager)
+* [Navigation  |  Android Developers](https://developer.android.com/guide/navigation)
+* [Dependency injection in Android  |  Android Developers](https://developer.android.com/training/dependency-injection)
+
+
+### Android features
+
+* [App shortcuts overview  |  Android Developers](https://developer.android.com/guide/topics/ui/shortcuts)
+* [App Startup  |  Android Developers](https://developer.android.com/topic/libraries/app-startup)
+
+
 ## Jetpack Composable
 
 [Bye XML, it was nice knowing you (pt. 1) | by Filip Wiesner | MateeDevs | Apr, 2021 | Medium](https://medium.com/mateedevs/bye-xml-it-was-nice-knowing-you-pt-1-50b195bab1a9)
