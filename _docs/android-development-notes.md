@@ -72,6 +72,9 @@ https://m3.material.io/
 ## Jetpack Compose
 
 
+* [Android Basics with Compose course  |  Android Basics in Compose  |  Android Developers](https://developer.android.com/courses/android-basics-compose/course)
+
+
 * [Get started with Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/documentation)
 
 *[Bye XML, it was nice knowing you (pt. 1) | by Filip Wiesner | MateeDevs | Apr, 2021 | Medium](https://medium.com/mateedevs/bye-xml-it-was-nice-knowing-you-pt-1-50b195bab1a9)
