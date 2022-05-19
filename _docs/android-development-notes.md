@@ -94,6 +94,18 @@ https://m3.material.io/
 * [Make your Android app more accessible  |  Android Developers](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
 * [Build more accessible apps  |  Android Developers](https://developer.android.com/guide/topics/ui/accessibility)
 
+## Animations
+
+* Drawable animation APIs
+* Property animation system (android.animation)
+  * ValueAnimator
+  	* ObjectAnimator
+    * ViewPropertyAnimator
+  * AnimatorSet
+* Auto animate (`android:animateLayoutChanges="true"`) 
+* Layout changes (when swapping layout within activity/fragment)
+* Animate between activities
+
 
 ## Checklists 
 
