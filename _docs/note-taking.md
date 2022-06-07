@@ -1,6 +1,8 @@
 ---
 title: Note taking apps
-tags: [apps]
+tags:
+  - apps
+published: true
 ---
 
 # Note taking apps
