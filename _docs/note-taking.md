@@ -20,7 +20,7 @@ published: true
 
 ## Notes
 
-
+* Google Docs
 
 
 ### Public
@@ -42,6 +42,7 @@ published: true
 
 ## Whiteboard
 
+* InVision
 * ReMarkable 2
 * Figma
 * Miro
