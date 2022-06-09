@@ -32,7 +32,7 @@ published: true
 ### Private
 
 * Notes (macOS) 
-* ReMarkable 
+* ReMarkable 2
 * Prose.io + GitHub
 * Github Gists
 * Slack Posts
@@ -42,6 +42,8 @@ published: true
 
 ## Whiteboard
 
+* ReMarkable 2
+* Figma
 * Miro
 
 
