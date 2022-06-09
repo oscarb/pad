@@ -47,6 +47,19 @@ published: true
 * Figma
 * Miro
 
+## Looks most interesting
+
+* [Simplenote](https://simplenote.com/)
+* [Standard Notes End-To-End Encrypted Notes App](https://standardnotes.com/)
+* [A Markdown Editor for the 21st Century Zettlr](https://www.zettlr.com/)
+* [Turtl: The secure, collaborative notebook  Turtl](https://turtlapp.com/)
+* [Cryptee Encrypted Secure Photo Storage & Encrypted Documents Editor](https://crypt.ee/#pricing)
+* [Product Nuclino](https://www.nuclino.com/product)
+* [Notion – One workspace. Every team.](https://www.notion.so/product)
+* [Best Note Taking App - Organize Your Notes with Evernote](https://evernote.com/)
+* [Best Note-taking App for Engineering Students  Supernotes](https://supernotes.app/notetaking-for-engineering-students/)
+* [Joplin](https://joplinapp.org/)
+
 
 ## Unsorted
 
