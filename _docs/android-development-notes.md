@@ -131,6 +131,10 @@ if (sendIntent.resolveActivity(getPackageManager()) != null) {
 ```
 
 
+## Github Actions
+
+https://proandroiddev.com/android-ci-cd-pipeline-with-github-actions-demystifying-github-actions-83258e76a18f
+
 ## Preserve state when navigating upwards
 
 	android:launchMode
