@@ -82,6 +82,8 @@ https://m3.material.io/
 * [android/compose-samples: Official Jetpack Compose samples.](https://github.com/android/compose-samples)
 * [Layouts in Compose  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/layouts)
 
+* [Thinking in Compose  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/mental-model)
+
 ### Tutorials
 
 * [Jetpack Compose  |  Android Developers](https://developer.android.com/courses/pathways/compose)
