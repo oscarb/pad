@@ -84,6 +84,8 @@ https://m3.material.io/
 
 * [Thinking in Compose  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/mental-model)
 
+* [Why We Adopted Jetpack Compose. Illustrated with Feature Examples | by Chen Zhang | Aug, 2022 | ProAndroidDev](https://proandroiddev.com/why-we-adopted-jetpack-compose-b66bfd3dbde5)
+
 ### Tutorials
 
 * [Jetpack Compose  |  Android Developers](https://developer.android.com/courses/pathways/compose)
