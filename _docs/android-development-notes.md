@@ -49,7 +49,6 @@ https://m3.material.io/
 * [Remember and authenticate users  -  Android Developers](https://developer.android.com/training/id-auth)
 * [About Android App Bundles  -  Android Developers](https://developer.android.com/guide/app-bundle)
 * [Dependency injection in Android  -  Android Developers](https://developer.android.com/training/dependency-injection)
-
 * [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
 
 ### Android features
