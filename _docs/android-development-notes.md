@@ -13,13 +13,13 @@ published: true
 
 ## Learn Android 
 
-* [Android Basics in Kotlin course  |  Android Developers](https://developer.android.com/courses/android-basics-kotlin/course)
-* [Use coroutines in common Android use cases  |  Android Developers](https://developer.android.com/courses/pathways/android-coroutines)
-* [Advanced Android in Kotlin  |  Training Courses  |  Android Developers](https://developer.android.com/courses/kotlin-android-advanced/overview)
+* [Android Basics in Kotlin course  -  Android Developers](https://developer.android.com/courses/android-basics-kotlin/course)
+* [Use coroutines in common Android use cases  -  Android Developers](https://developer.android.com/courses/pathways/android-coroutines)
+* [Advanced Android in Kotlin  |  Training Courses  -  Android Developers](https://developer.android.com/courses/kotlin-android-advanced/overview)
 * [Introduction to coroutines](https://developer.android.com/codelabs/basic-android-kotlin-training-introduction-coroutines?hl=en#0)
 * [android/sunflower: A gardening app illustrating Android development best practices with Android Jetpack.](https://github.com/android/sunflower)
-* [Modern Android App Architecture  |  Android Developers](https://developer.android.com/courses/pathways/android-architecture)
-* [Android Kotlin Fundamentals  |  Training Courses  |  Android Developers](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
+* [Modern Android App Architecture  -  Android Developers](https://developer.android.com/courses/pathways/android-architecture)
+* [Android Kotlin Fundamentals  -  Training Courses  -  Android Developers](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
 
 
 ## Material 3
@@ -33,70 +33,70 @@ https://m3.material.io/
 
 ## 2022
 
-[Build your first app  |  Android Basics  |  Android Developers](https://developer.android.com/training/basics/firstapp)
+[Build your first app  -  Android Basics  -  Android Developers](https://developer.android.com/training/basics/firstapp)
 
-* [Guide to app architecture  |  Android Developers](https://developer.android.com/jetpack/guide)
-* [DataStore  |  Android Developers](https://developer.android.com/topic/libraries/architecture/datastore)
-* [Schedule tasks with WorkManager  |  Android Developers](https://developer.android.com/topic/libraries/architecture/workmanager)
-* [Navigation  |  Android Developers](https://developer.android.com/guide/navigation)
-* [Dependency injection in Android  |  Android Developers](https://developer.android.com/training/dependency-injection)
-* [Support modern emoji  |  Android Developers](https://developer.android.com/guide/topics/ui/look-and-feel/emoji2)
-* [Splash screens  |  Android Developers](https://developer.android.com/guide/topics/ui/splash-screen)
-* [Display content edge-to-edge in your app  |  Android Developers](https://developer.android.com/training/gestures/edge-to-edge)
-* [Supporting Swipe-to-Refresh  |  Android Developers](https://developer.android.com/training/swipe)
-* [Selecting Colors with the Palette API  |  Android Developers](https://developer.android.com/training/material/palette-colors)
-* [Reducing image download sizes  |  Android Developers](https://developer.android.com/topic/performance/network-xfer)
-* [Remember and authenticate users  |  Android Developers](https://developer.android.com/training/id-auth)
-* [About Android App Bundles  |  Android Developers](https://developer.android.com/guide/app-bundle)
-* [Dependency injection in Android  |  Android Developers](https://developer.android.com/training/dependency-injection)
+* [Guide to app architecture  -  Android Developers](https://developer.android.com/jetpack/guide)
+* [DataStore  -  Android Developers](https://developer.android.com/topic/libraries/architecture/datastore)
+* [Schedule tasks with WorkManager  -  Android Developers](https://developer.android.com/topic/libraries/architecture/workmanager)
+* [Navigation  -  Android Developers](https://developer.android.com/guide/navigation)
+* [Dependency injection in Android  -  Android Developers](https://developer.android.com/training/dependency-injection)
+* [Support modern emoji  -  Android Developers](https://developer.android.com/guide/topics/ui/look-and-feel/emoji2)
+* [Splash screens  -  Android Developers](https://developer.android.com/guide/topics/ui/splash-screen)
+* [Display content edge-to-edge in your app  -  Android Developers](https://developer.android.com/training/gestures/edge-to-edge)
+* [Supporting Swipe-to-Refresh  -  Android Developers](https://developer.android.com/training/swipe)
+* [Selecting Colors with the Palette API  -  Android Developers](https://developer.android.com/training/material/palette-colors)
+* [Reducing image download sizes  -  Android Developers](https://developer.android.com/topic/performance/network-xfer)
+* [Remember and authenticate users  -  Android Developers](https://developer.android.com/training/id-auth)
+* [About Android App Bundles  -  Android Developers](https://developer.android.com/guide/app-bundle)
+* [Dependency injection in Android  -  Android Developers](https://developer.android.com/training/dependency-injection)
 
 * [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
 
 ### Android features
 
-* [App shortcuts overview  |  Android Developers](https://developer.android.com/guide/topics/ui/shortcuts)
-* [App Startup  |  Android Developers](https://developer.android.com/topic/libraries/app-startup)
-* [Google Play In-App Review API  |  Android Developers](https://developer.android.com/guide/playcore/in-app-review)
-* [In-app updates  |  Android Developers](https://developer.android.com/guide/playcore/in-app-updates)
-* [App Actions  |  Google Developers](https://developers.google.com/assistant/app)
+* [App shortcuts overview  -  Android Developers](https://developer.android.com/guide/topics/ui/shortcuts)
+* [App Startup  -  Android Developers](https://developer.android.com/topic/libraries/app-startup)
+* [Google Play In-App Review API  -  Android Developers](https://developer.android.com/guide/playcore/in-app-review)
+* [In-app updates  -  Android Developers](https://developer.android.com/guide/playcore/in-app-updates)
+* [App Actions  -  Google Developers](https://developers.google.com/assistant/app)
 * Paging
 * Themed App Icons - https://developer.android.com/about/versions/13/features#themed-app-icons
 * Multilingual settings - https://developer.android.com/about/versions/13/features#language-support
 
 ## Testing 
 
-* [Test apps on Android  |  Android Developers](https://developer.android.com/training/testing)
+* [Test apps on Android  -  Android Developers](https://developer.android.com/training/testing)
 
 
 
 ## Jetpack Compose
 
 
-* [Android Basics with Compose course  |  Android Basics in Compose  |  Android Developers](https://developer.android.com/courses/android-basics-compose/course)
+* [Android Basics with Compose course  -  Android Basics in Compose  -  Android Developers](https://developer.android.com/courses/android-basics-compose/course)
 
 
-* [Get started with Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/documentation)
+* [Get started with Jetpack Compose  -  Android Developers](https://developer.android.com/jetpack/compose/documentation)
 
-*[Bye XML, it was nice knowing you (pt. 1) | by Filip Wiesner | MateeDevs | Apr, 2021 | Medium](https://medium.com/mateedevs/bye-xml-it-was-nice-knowing-you-pt-1-50b195bab1a9)
+*[Bye XML, it was nice knowing you (pt. 1) - by Filip Wiesner - MateeDevs - Apr, 2021 - Medium](https://medium.com/mateedevs/bye-xml-it-was-nice-knowing-you-pt-1-50b195bab1a9)
 
 * [android/compose-samples: Official Jetpack Compose samples.](https://github.com/android/compose-samples)
-* [Layouts in Compose  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/layouts)
+* [Layouts in Compose  -  Jetpack Compose  -  Android Developers](https://developer.android.com/jetpack/compose/layouts)
 
-* [Thinking in Compose  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/mental-model)
+* [Thinking in Compose  -  Jetpack Compose  -  Android Developers](https://developer.android.com/jetpack/compose/mental-model)
 
-* [Why We Adopted Jetpack Compose. Illustrated with Feature Examples | by Chen Zhang | Aug, 2022 | ProAndroidDev](https://proandroiddev.com/why-we-adopted-jetpack-compose-b66bfd3dbde5)
+* [Why We Adopted Jetpack Compose. Illustrated with Feature Examples - by Chen Zhang - Aug, 2022 | ProAndroidDev](https://proandroiddev.com/why-we-adopted-jetpack-compose-b66bfd3dbde5)
 
 ### Tutorials
 
-* [Jetpack Compose  |  Android Developers](https://developer.android.com/courses/pathways/compose)
-* [Android Compose Tutorial  |  Android Developers](https://developer.android.com/jetpack/compose/tutorial)
+* [Jetpack Compose  -  Android Developers](https://developer.android.com/courses/pathways/compose)
+* [Android Compose Tutorial -  Android Developers](https://developer.android.com/jetpack/compose/tutorial)
 * [Layouts in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-layouts#0)
 
 
 ## Accessibility 
 
-* [Make your Android app more accessible  |  Android Developers](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
-* [Build more accessible apps  |  Android Developers](https://developer.android.com/guide/topics/ui/accessibility)
+* [Make your Android app more accessible  -  Android Developers](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
+* [Build more accessible apps  -  Android Developers](https://developer.android.com/guide/topics/ui/accessibility)
 
 ## Animations
 
@@ -113,10 +113,10 @@ https://m3.material.io/
 
 ## Checklists 
 
-* [Quality  |  Android Developers](https://developer.android.com/quality)
+* [Quality  -  Android Developers](https://developer.android.com/quality)
 ## Flow vs LiveData
 
-* [Flow/LiveData….What Are They? Best Use Case. (Lets Build a Login System) | by Inuwa Ibrahim | Apr, 2021 | ProAndroidDev](https://proandroiddev.com/flow-livedata-what-are-they-best-use-case-lets-build-a-login-system-39315510666d)
+* [Flow/LiveData….What Are They? Best Use Case. (Lets Build a Login System) - by Inuwa Ibrahim | Apr, 2021 - ProAndroidDev](https://proandroiddev.com/flow-livedata-what-are-they-best-use-case-lets-build-a-login-system-39315510666d)
 
 ## Intents
 
@@ -494,9 +494,9 @@ Use a PendingIntent to open your App from a notification.
 
 [Notifications - Patterns - Material design guidelines](https://material.io/guidelines/patterns/notifications.html#)
 
-[Notifications | Android Developers](https://developer.android.com/guide/topics/ui/notifiers/notifications.html)
-[Using Big View Styles | Android Developers](https://developer.android.com/training/notify-user/expanded.html)
-[Notification.BigPictureStyle | Android Developers](https://developer.android.com/reference/android/app/Notification.BigPictureStyle.html)
+[Notifications - Android Developers](https://developer.android.com/guide/topics/ui/notifiers/notifications.html)
+[Using Big View Styles - Android Developers](https://developer.android.com/training/notify-user/expanded.html)
+[Notification.BigPictureStyle - Android Developers](https://developer.android.com/reference/android/app/Notification.BigPictureStyle.html)
 
 [Comparing T10.02-Exercise-CreateNotification...T10.02-Solution-CreateNotification · udacity/ud851-Exercises](https://github.com/udacity/ud851-Exercises/compare/T10.02-Exercise-CreateNotification...T10.02-Solution-CreateNotification)
 
@@ -530,8 +530,8 @@ Set the color for notifications from Firebase in the manifest with:
 
 If the device doesn't have a compatible version of Google Play services, your app can call [GoogleApiAvailability.makeGooglePlayServicesAvailable()](https://developers.google.com/android/reference/com/google/android/gms/common/GoogleApiAvailability.html#public-methods) to allow users to download Google Play services from the Play Store.
 
-* [Notification Channels | Android Developers](https://developer.android.com/preview/features/notification-channels.html)
-* [Notification Badges | Android Developers](https://developer.android.com/preview/features/notification-badges.html)
+* [Notification Channels - Android Developers](https://developer.android.com/preview/features/notification-channels.html)
+* [Notification Badges - Android Developers](https://developer.android.com/preview/features/notification-badges.html)
 
 Must use channels once target O is targeted.
 
@@ -588,7 +588,7 @@ Simulate plugging into power
 adb shell dumpsys battery reset
 ```
 
-[Android Debug Bridge | Android Studio](https://developer.android.com/studio/command-line/adb.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=adb&utm_campaign=training)
+[Android Debug Bridge - Android Studio](https://developer.android.com/studio/command-line/adb.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=adb&utm_campaign=training)
 
 ## View and View Groups
 
@@ -646,13 +646,13 @@ Tools > Device monitor > Perspective > Hierarcy viewer
 - Enable focus-based navigation
 - No audio-only feedback
 
-[Accessibility Developer Checklist | Android Developers](https://developer.android.com/guide/topics/ui/accessibility/checklist.html#recommendations)
+[Accessibility Developer Checklist - Android Developers](https://developer.android.com/guide/topics/ui/accessibility/checklist.html#recommendations)
 
 ## Localization
 
-[Localization Checklist | Android Developers](https://developer.android.com/distribute/tools/localization-checklist.html)
+[Localization Checklist - Android Developers](https://developer.android.com/distribute/tools/localization-checklist.html)
 [ISO 639-2 Language Code List - Codes for the representation of names of languages (Library of Congress)](https://www.loc.gov/standards/iso639-2/php/code_list.php)
-[Localization checklist | Android Developers](https://developer.android.com/distribute/best-practices/launch/localization-checklist.html)
+[Localization checklist - Android Developers](https://developer.android.com/distribute/best-practices/launch/localization-checklist.html)
     
 ## RecyclerView
 
@@ -802,10 +802,10 @@ ActivityOptionsCompat activityOptions = ActivityOptionsCompat.makeSceneTransitio
 ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
 ```
 
-[Animation Resources | Android Developers](https://developer.android.com/guide/topics/resources/animation-resource.html)
-[The Transitions Framework | Android Developers](https://developer.android.com/training/transitions/overview.html)
-[Animating Views Using Scenes and Transitions | Android Developers](https://developer.android.com/training/transitions/index.html)
-[Applying a Transition | Android Developers](https://developer.android.com/training/transitions/transitions.html)
+[Animation Resources - Android Developers](https://developer.android.com/guide/topics/resources/animation-resource.html)
+[The Transitions Framework - Android Developers](https://developer.android.com/training/transitions/overview.html)
+[Animating Views Using Scenes and Transitions - Android Developers](https://developer.android.com/training/transitions/index.html)
+[Applying a Transition - Android Developers](https://developer.android.com/training/transitions/transitions.html)
 
 * [Workcation App – Part 4. Shared Element Transition with RecyclerView and Scenes – Droids On Roids Blog](https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes/?utm_source=Android+Weekly&utm_campaign=2b67d3db13-android-weekly-253&utm_medium=email&utm_term=0_4eb677ad19-2b67d3db13-338005577)
 * [From design to android, part 1 · Saúl Molinero](http://saulmm.github.io/from-design-to-android-part1?utm_source=Android+Weekly&utm_campaign=0657fbdef4-android-weekly-249&utm_medium=email&utm_term=0_4eb677ad19-0657fbdef4-338005577)
@@ -834,7 +834,7 @@ ActivityCompat.startActivity(this, intent, activityOptions.toBundle());
 
 [Comparing 8.00_Places_API_Start...8.07_Adding_Attributions · udacity/Advanced_Android_Development](https://github.com/udacity/Advanced_Android_Development/compare/8.00_Places_API_Start...8.07_Adding_Attributions)
 
-[Place Picker  |  Google Places API for Android  |  Google Developers](https://developers.google.com/places/android-api/placepicker#add)
+[Place Picker  -  Google Places API for Android  -  Google Developers](https://developers.google.com/places/android-api/placepicker#add)
 
 ## Widgets
 
@@ -899,7 +899,7 @@ public class TodayWidgetProvider extends AppWidgetProvider {
 
 "Users will complain about performance 3x than any other issue"
 
-[Performance Tips | Android Developers](https://developer.android.com/training/articles/perf-tips.html)
+[Performance Tips - Android Developers](https://developer.android.com/training/articles/perf-tips.html)
 
 ### Overdraw
 
@@ -908,7 +908,7 @@ Test overdraw
 
 ### Memory Monitor
 
-[Manage Your App's Memory | Android Developers](https://developer.android.com/topic/performance/memory.html)
+[Manage Your App's Memory - Android Developers](https://developer.android.com/topic/performance/memory.html)
 
 ## Night Mode
 
@@ -925,7 +925,7 @@ https://developer.android.com/preview/features/darktheme
 
 ## MVI - Model View Intent
 
-* [REACTIVE APPS WITH MODEL-VIEW-INTENT - PART1 - MODEL | HANNES DORFMANN](http://hannesdorfmann.com/android/mosby3-mvi-1)
+* [REACTIVE APPS WITH MODEL-VIEW-INTENT - PART1 - MODEL - HANNES DORFMANN](http://hannesdorfmann.com/android/mosby3-mvi-1)
 
 * [My take on Model View Intent (MVI) — Part 1: State Renderer](https://medium.com/hacker-daily/model-view-intent-mvi-part-1-state-renderer-187e270db15c)
 
@@ -948,7 +948,7 @@ https://developer.android.com/preview/features/darktheme
 
 ## UX
 
-* [Design your app to drive conversions | Android Developers](https://developer.android.com/distribute/best-practices/develop/design-to-drive-conversions.html)
+* [Design your app to drive conversions - Android Developers](https://developer.android.com/distribute/best-practices/develop/design-to-drive-conversions.html)
 
 ## Check for unessecary added permissions from libraries
 
@@ -958,7 +958,7 @@ https://developer.android.com/preview/features/darktheme
 
 [Android Developers Blog: Android and Architecture](https://android-developers.googleblog.com/2017/05/android-and-architecture.html)
 
-[Guide to App Architecture | Android Developers](https://developer.android.com/topic/libraries/architecture/guide.html)
+[Guide to App Architecture - Android Developers](https://developer.android.com/topic/libraries/architecture/guide.html)
 
 ## WebView
 
@@ -985,8 +985,8 @@ Same as in Chrome
 
 ## Android O 
 
-* [Android O Features and APIs | Android Developers](https://developer.android.com/preview/api-overview.html)
-* [Android O Behavior Changes | Android Developers](https://developer.android.com/preview/behavior-changes.html)
+* [Android O Features and APIs - Android Developers](https://developer.android.com/preview/api-overview.html)
+* [Android O Behavior Changes - Android Developers](https://developer.android.com/preview/behavior-changes.html)
 
 ## Location
 
