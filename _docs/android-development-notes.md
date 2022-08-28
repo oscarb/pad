@@ -72,18 +72,12 @@ https://m3.material.io/
 
 
 * [Android Basics with Compose course  -  Android Basics in Compose  -  Android Developers](https://developer.android.com/courses/android-basics-compose/course)
-
-
 * [Get started with Jetpack Compose  -  Android Developers](https://developer.android.com/jetpack/compose/documentation)
-
-*[Bye XML, it was nice knowing you (pt. 1) - by Filip Wiesner - MateeDevs - Apr, 2021 - Medium](https://medium.com/mateedevs/bye-xml-it-was-nice-knowing-you-pt-1-50b195bab1a9)
-
+* [Bye XML, it was nice knowing you (pt. 1) - by Filip Wiesner - MateeDevs - Apr, 2021 - Medium](https://medium.com/mateedevs/bye-xml-it-was-nice-knowing-you-pt-1-50b195bab1a9)
 * [android/compose-samples: Official Jetpack Compose samples.](https://github.com/android/compose-samples)
 * [Layouts in Compose  -  Jetpack Compose  -  Android Developers](https://developer.android.com/jetpack/compose/layouts)
-
 * [Thinking in Compose  -  Jetpack Compose  -  Android Developers](https://developer.android.com/jetpack/compose/mental-model)
-
-* [Why We Adopted Jetpack Compose. Illustrated with Feature Examples - by Chen Zhang - Aug, 2022 | ProAndroidDev](https://proandroiddev.com/why-we-adopted-jetpack-compose-b66bfd3dbde5)
+* [Why We Adopted Jetpack Compose. Illustrated with Feature Examples - by Chen Zhang - Aug, 2022 - ProAndroidDev](https://proandroiddev.com/why-we-adopted-jetpack-compose-b66bfd3dbde5)
 
 ### Tutorials
 
