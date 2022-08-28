@@ -436,7 +436,7 @@ Extensions
 
 ### Try 2016-08
 
-* [John’s Background Switcher | John's Adventures](https://johnsad.ventures/software/backgroundswitcher/)
+* [John’s Background Switcher - John's Adventures](https://johnsad.ventures/software/backgroundswitcher/)
 
 * [Top 10 Places to Get Stunning Desktop Wallpaper](http://lifehacker.com/top-10-places-to-get-stunning-desktop-wallpaper-1781991380)
 
