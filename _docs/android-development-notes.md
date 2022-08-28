@@ -31,6 +31,7 @@ https://m3.material.io/
 * [Material Theme Builder](https://material-foundation.github.io/material-theme-builder/#/dynamic)
 * [Adding dynamic color to your app](https://codelabs.developers.google.com/codelabs/apply-dynamic-color#0)
 
+
 ## 2022
 
 [Build your first app  -  Android Basics  -  Android Developers](https://developer.android.com/training/basics/firstapp)
@@ -62,14 +63,13 @@ https://m3.material.io/
 * Themed App Icons - https://developer.android.com/about/versions/13/features#themed-app-icons
 * Multilingual settings - https://developer.android.com/about/versions/13/features#language-support
 
+
 ## Testing 
 
 * [Test apps on Android  -  Android Developers](https://developer.android.com/training/testing)
 
 
-
 ## Jetpack Compose
-
 
 * [Android Basics with Compose course  -  Android Basics in Compose  -  Android Developers](https://developer.android.com/courses/android-basics-compose/course)
 * [Get started with Jetpack Compose  -  Android Developers](https://developer.android.com/jetpack/compose/documentation)
@@ -91,6 +91,7 @@ https://m3.material.io/
 * [Make your Android app more accessible  -  Android Developers](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
 * [Build more accessible apps  -  Android Developers](https://developer.android.com/guide/topics/ui/accessibility)
 
+
 ## Animations
 
 * Drawable animation APIs
@@ -107,9 +108,11 @@ https://m3.material.io/
 ## Checklists 
 
 * [Quality  -  Android Developers](https://developer.android.com/quality)
+
+
 ## Flow vs LiveData
 
-* [Flow/LiveData….What Are They? Best Use Case. (Lets Build a Login System) - by Inuwa Ibrahim | Apr, 2021 - ProAndroidDev](https://proandroiddev.com/flow-livedata-what-are-they-best-use-case-lets-build-a-login-system-39315510666d)
+* [Flow/LiveData….What Are They? Best Use Case. (Lets Build a Login System) - by Inuwa Ibrahim - Apr, 2021 - ProAndroidDev](https://proandroiddev.com/flow-livedata-what-are-they-best-use-case-lets-build-a-login-system-39315510666d)
 
 ## Intents
 
