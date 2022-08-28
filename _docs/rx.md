@@ -47,15 +47,15 @@ published: true
 
 ### Combining 
 * [Exploring RxJava in Android — Operators for Combining Observables](https://proandroiddev.com/exploring-rxjava-in-android-operators-for-combining-observables-25734080f4be)
-* [Combining Observables in RxJava | Baeldung](https://www.baeldung.com/rxjava-combine-observables)
+* [Combining Observables in RxJava - Baeldung](https://www.baeldung.com/rxjava-combine-observables)
 
 ### One observable, multiple subscribers
-* [RxJava One Observable, Multiple Subscribers | Baeldung](https://www.baeldung.com/rxjava-multiple-subscribers-observable)
+* [RxJava One Observable, Multiple Subscribers - Baeldung](https://www.baeldung.com/rxjava-multiple-subscribers-observable)
 * [RxJava — One Observable, Multiple Subscribers, Same Data](https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675)
 
 
 ### Debugging
-* [Debugging RxJava on Android | Fernando Cejas](https://fernandocejas.com/2015/11/05/debugging-rxjava-on-android/)
+* [Debugging RxJava on Android - Fernando Cejas](https://fernandocejas.com/2015/11/05/debugging-rxjava-on-android/)
 * [Briefly about RxJava Logging - ProAndroidDev](https://proandroiddev.com/briefly-about-rxjava-logging-20308b013e6d)
 * [RxLogging](https://gist.github.com/tomaszpolanski/99c37c388e06e57ef72a5c8e752b8c2c)
 * [Debugging RxJava • Five](https://five.agency/debugging-rxjava/)
