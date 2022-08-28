@@ -98,12 +98,12 @@ https://uxplanet.org/popular-web-animation-techniques-a6a467309028#.r07cxnbsn
 
 ### Foundation
 
-* [Kitchen Sink | Foundation for Sites 6 Docs](http://foundation.zurb.com/sites/docs/kitchen-sink.html)
-* [Installation | Foundation for Sites 6 Docs](http://foundation.zurb.com/sites/docs/installation.html)
-* [Sass | Foundation for Sites 6 Docs](http://foundation.zurb.com/sites/docs/sass.html)
-* [Flex Grid | Foundation for Sites 6 Docs](http://foundation.zurb.com/sites/docs/flex-grid.html)
-* [Foundation for Sites | Resources and tools](http://foundation.zurb.com/sites/resources.html)
+* [Kitchen Sink - Foundation for Sites 6 Docs](http://foundation.zurb.com/sites/docs/kitchen-sink.html)
+* [Installation - Foundation for Sites 6 Docs](http://foundation.zurb.com/sites/docs/installation.html)
+* [Sass - Foundation for Sites 6 Docs](http://foundation.zurb.com/sites/docs/sass.html)
+* [Flex Grid - Foundation for Sites 6 Docs](http://foundation.zurb.com/sites/docs/flex-grid.html)
+* [Foundation for Sites - Resources and tools](http://foundation.zurb.com/sites/resources.html)
 * [Foundation for Sites 6 Docs](http://foundation.zurb.com/sites/docs/)
-* [Building Blocks | ZURB Library](http://zurb.com/building-blocks)
-* [Foundation | Tutorials](http://foundation.zurb.com/learn/tutorials.html)
+* [Building Blocks - ZURB Library](http://zurb.com/building-blocks)
+* [Foundation - Tutorials](http://foundation.zurb.com/learn/tutorials.html)
 * [zurb/foundation-sites-template: Basic template for a new Foundation for Sites project.](https://github.com/zurb/foundation-sites-template)
