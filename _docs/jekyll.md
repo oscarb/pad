@@ -17,9 +17,7 @@ Build site
 ## Resources
 
 * [GitHub Pages for Non-Rubyists – Eric Matthes – Teacher, hacker, author...](https://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
-
 * [Jekyll Cheat Sheet](http://cheat.jekyll.tips/)
-
 * [Make a Static Website with Jekyll – Tania Rascia](https://www.taniarascia.com/make-a-static-website-with-jekyll/)
 * [Working with different environments on jekyll](http://www.acuriousanimal.com/2015/08/04/working-with-different-environments-on-jekyll.html)
 * [Jekyll Part 09: Installing Jekyll On Windows › Justin James - A web developer and speaker from Arizona](http://digitaldrummerj.me/blogging-on-github-part-9-installing-jekyll-on-windows/)
@@ -32,7 +30,7 @@ Build site
 * [Configuring Jekyll for User and Project GitHub Pages · Down to the Wire](http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/)
 * [Get Started With GitHub Pages (Plus Bonus Jekyll) ◆ 24 ways](https://24ways.org/2013/get-started-with-github-pages/)
 * [Build A Blog With Jekyll And GitHub Pages – Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
-* [A Guide to Creating and Hosting a Personal Website on GitHub | Jonathan McGlone | Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, Web Noodler.](http://jmcglone.com/guides/github-pages/)
+* [A Guide to Creating and Hosting a Personal Website on GitHub - Jonathan McGlone - Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, Web Noodler.](http://jmcglone.com/guides/github-pages/)
 
 ## Themes
 
