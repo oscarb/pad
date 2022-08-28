@@ -1,5 +1,7 @@
 ---
-tags: [kotlin]
+tags:
+  - kotlin
+published: true
 ---
 
 # Kotlin
@@ -12,15 +14,13 @@ tags: [kotlin]
 
 * [Tutorials](https://kotlinlang.org/docs/tutorials/)
 * [Kotlin Koans: The Best Way To Learn Kotlin for Java Developers](https://play.kotlinlang.org/koans/overview)
-* [Kotlin for Android Developers | Udacity](https://eu.udacity.com/course/kotlin-for-android-developers--ud888)
+* [Kotlin for Android Developers - Udacity](https://eu.udacity.com/course/kotlin-for-android-developers--ud888)
 * [Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0)
 
 ## Android
 
 * [Kotlin for Android](https://kotlinlang.org/docs/reference/android-overview.html)
-* [Kotlin and Android  |  Android Developers](https://developer.android.com/kotlin/)
-
-
+* [Kotlin and Android  -  Android Developers](https://developer.android.com/kotlin/)
 * [Kotlin Android Extensions](https://kotlinlang.org/docs/tutorials/android-plugin.html)
 * [Kotlin/anko: Pleasant Android application development](https://github.com/Kotlin/anko)
 * [RecyclerView and Kotlin](https://medium.com/redso/trap-in-kotlin-android-extensions-d07be00759fa)
@@ -60,5 +60,4 @@ import kotlinx.android.parcel.Parcelize
 
 @Parcelize
 class User(val firstName: String, val lastName: String, val age: Int): Parcelable
-``` 
-
+```
