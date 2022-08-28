@@ -15,7 +15,7 @@ published: true
 
 * [Android Basics in Kotlin course  -  Android Developers](https://developer.android.com/courses/android-basics-kotlin/course)
 * [Use coroutines in common Android use cases  -  Android Developers](https://developer.android.com/courses/pathways/android-coroutines)
-* [Advanced Android in Kotlin  |  Training Courses  -  Android Developers](https://developer.android.com/courses/kotlin-android-advanced/overview)
+* [Advanced Android in Kotlin  -  Training Courses  -  Android Developers](https://developer.android.com/courses/kotlin-android-advanced/overview)
 * [Introduction to coroutines](https://developer.android.com/codelabs/basic-android-kotlin-training-introduction-coroutines?hl=en#0)
 * [android/sunflower: A gardening app illustrating Android development best practices with Android Jetpack.](https://github.com/android/sunflower)
 * [Modern Android App Architecture  -  Android Developers](https://developer.android.com/courses/pathways/android-architecture)
