@@ -51,6 +51,7 @@ https://m3.material.io/
 * [About Android App Bundles  -  Android Developers](https://developer.android.com/guide/app-bundle)
 * [Dependency injection in Android  -  Android Developers](https://developer.android.com/training/dependency-injection)
 * [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
+* [Android Developers Blog: Announcing the new guide to Android app modularization](https://android-developers.googleblog.com/2022/09/announcing-new-guide-to-android-app-modularization.html)
 
 ### Android features
 
