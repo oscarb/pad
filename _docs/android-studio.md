@@ -114,13 +114,20 @@ adb shell input text 'my string here. With some characters escaped like \$ that'
 *#*#2846579#*#*
 ```
 
-## Launch deep links
+### Launch deep links
 
 ```
 adb shell am start -a android.intent.action.VIEW -c android.intent.category.BROWSABLE -d "LINK"
 ```
 
 Background setting > Log Setting 
+
+## Take screenshot and save file
+
+```
+adb shell /system/bin/screencap -p /sdcard/screenshot.png && adb pull /sdcard/screenshot.png screenshot$(date +"%Y%m%dT%I%M%S").png
+
+```
 
 ## Code style
 
