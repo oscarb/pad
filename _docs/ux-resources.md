@@ -82,3 +82,20 @@ tags: [ux]
 ## Mindmapping
 
 * [Simple Collaborative Mind Maps - Coggle](https://coggle.it/)
+
+## WoW
+
+* Scope
+* Expected delivery
+* Delimitations
+* Time plan
+* Roles and responsibilites
+  * Accountable
+  	* Final responsibility for correct completion of tasks
+  * Consulted
+    * Asked for advice
+  * Informed
+    * Informed in the interim about decisions, progress, results...
+* Tools
+
+    
