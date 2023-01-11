@@ -145,3 +145,7 @@ Enter in terminal
     sudo killall coreaudiod
     
 Or change sound input away from bluetooth, see http://superuser.com/a/1163164
+
+## Tips
+
+https://www.reddit.com/r/macbookpro/comments/106ryt9/comment/j3k1yw4/?utm_source=share&utm_medium=web2x&context=3
