@@ -83,6 +83,11 @@ export ANDROID_HOME=/Users/$USER/Library/Android/sdk
 export ANDROID_SDK_ROOT=$ANDROID_HOME
 PATH="$PATH:$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools"
 ```
+#### Chrome
+
+* Set upp web apps for DSM
+* Update chrome://flags/#unsafely-treat-insecure-origin-as-secure 
+
 
 ### System settings
 
