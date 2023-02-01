@@ -12,15 +12,15 @@ published: true
 
 ## Docker without sudo 
 
-Create a group called `docker`
+Create a group called `docker`  
 
 	sudo synogroup --add docker
     
-Add current user to group 
+Add current user to group  
 
 	sudo synogroup --member docker $USER
     
-Change ownership of `docker.sock`
+Change ownership of `docker.sock` 
 
 	sudo chown root:docker /var/run/docker.sock
     
@@ -28,17 +28,17 @@ Change ownership of `docker.sock`
 ---
 
 
-Create a group called `docker` 
+Create a group called `docker`  
 ```
 sudo synogroup --add docker
 ```
 
-Add current user to group 
+Add current user to group  
 ```
 sudo synogroup --member docker $USER
 ```
 
-Change ownership of `docker.sock`
+Change ownership of `docker.sock`  
 ```
 sudo chown root:docker /var/run/docker.sock
 ```   
