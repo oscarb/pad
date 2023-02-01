@@ -93,6 +93,10 @@ code.highlighter-rouge:before, code.highlighter-rouge:after {
   content: "\00a0";
 }
 
+p+div.highlighter-rouge {
+    margin-top: -0.8em;
+}
+
 pre {
   padding:8px 15px;
   background: #fdfdfd;
