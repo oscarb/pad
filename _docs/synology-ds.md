@@ -12,6 +12,15 @@ published: true
 
 ## Docker without sudo 
 
+
+Test line break  
+continues on a new line...  
+or...? 
+
+Test not 
+continue 
+on new line
+
 Create a group called `docker`  
 
 	sudo synogroup --add docker
