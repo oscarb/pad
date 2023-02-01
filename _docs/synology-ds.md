@@ -24,5 +24,7 @@ Change ownership of `docker.sock`
 
 	sudo chown root:docker /var/run/docker.sock
     
-    
+
+Log out and in again.
+
 [Source](https://davejansen.com/manage-docker-without-needing-sudo-on-your-synology-nas/)
