@@ -62,7 +62,9 @@ Availale docker containers:
 
 Another open source VS Code that can be self-hosted accessed over HTTP as a website.
 
-Scoped at only making VS Code available in the web browser
+* Scoped at only making VS Code available in the web browser
+* Faster updates 
+* Reduce menu bar
 
 ### VS Code server
 
