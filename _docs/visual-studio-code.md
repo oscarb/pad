@@ -46,16 +46,23 @@ Open source VS Code server that can be self-hosted and accessed over HTTP as a w
 
 Features:
 * Password protection
+* Proxy web ports
+* Certificate support
+* Plugin API
 
 Availale docker containers:
  * [linuxserver/code-server](https://hub.docker.com/r/linuxserver/code-server) 
  	* Supports docker mods
  	* "It offers more flexibility and customization than the coder release. "
  * [codercom/code-server](https://registry.hub.docker.com/r/codercom/code-server/) - official
+ 
+[Source](https://coder.com/docs/code-server/latest/FAQ#whats-the-difference-between-code-server-and-openvscode-server)
 
-### openvscode server
+### OpenVScode server
 
 Another open source VS Code that can be self-hosted accessed over HTTP as a website.
+
+Scoped at only making VS Code available in the web browser
 
 ### VS Code server
 
