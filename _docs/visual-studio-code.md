@@ -70,6 +70,10 @@ Another open source VS Code that can be self-hosted accessed over HTTP as a webs
 
 Offical self-hosted server, closed source and accessed through tunneling. 
 
+https://code.visualstudio.com/docs/remote/vscode-server
+
+
+
 ### SSH 
 
 Access files over SSH from local VS Code.
