@@ -45,8 +45,10 @@ Open files from SMB folders just as if they're local files. Comes with bad perfo
 Open source VS Code server that can be self-hosted and accessed over HTTP as a website. 
 
 Availale docker containers:
-* [linuxserver/code-server](https://hub.docker.com/r/linuxserver/code-server) - supports docker mods 
-* [codercom/code-server](https://registry.hub.docker.com/r/codercom/code-server/) - official
+ * [linuxserver/code-server](https://hub.docker.com/r/linuxserver/code-server) 
+ 	* Supports docker mods
+ 	* "It offers more flexibility and customization than the coder release. "
+ * [codercom/code-server](https://registry.hub.docker.com/r/codercom/code-server/) - official
 
 ### openvscode server
 
