@@ -1089,7 +1089,6 @@ Udacity Android Developer Nanodegree - Core App Quality Guidelines
 
 ## Best practices
 
-* 
 
 ## Features 
 
