@@ -6,7 +6,6 @@ published: true
 ---
 
 # Android Development Notes
-
 * TOC
 {:toc}
 
