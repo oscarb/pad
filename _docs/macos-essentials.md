@@ -16,6 +16,10 @@ published: true
 - Postman
 - Bookmarks
 - Pictures/movies taken with webcam
+- SSH keys? 
+
+https://apple.stackexchange.com/questions/333134/which-folders-should-be-copied-when-performing-a-manual-backup
+
 
 ### Android Studio 
 
