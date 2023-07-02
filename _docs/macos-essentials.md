@@ -17,6 +17,7 @@ published: true
 - Bookmarks
 - Pictures/movies taken with webcam
 - SSH keys? 
+- Chrome 2FA Touch ID (GitHub, PorkBun)
 
 https://apple.stackexchange.com/questions/333134/which-folders-should-be-copied-when-performing-a-manual-backup
 
