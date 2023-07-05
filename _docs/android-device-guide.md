@@ -11,6 +11,8 @@ published: true
 
 ## New device setup
 
+### Before factory reset 
+
 * Backup WhatsApp database
 * Create new BankID using old BankID
 * Sign into Keybase using old device
