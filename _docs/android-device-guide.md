@@ -14,12 +14,17 @@ published: true
 ### Before factory reset 
 
 * Backup WhatsApp database
+* Close tabs in Kiwi browser
+* Backup photos to external storage
 * Create new BankID using old BankID
 * Sign into Keybase using old device
+
+
+### After factory reset
 * Go through settings
 * Set up quick tiles
 * Add extensions in Kiwi Browser
-* Go throug apps one by one
+* Go through apps one by one
 * Add Tasker permissions
 
 ### Tasker setup
