@@ -13,7 +13,7 @@ published: true
 ## WearOS
 
 * [Design principles](https://developer.android.com/design/ui/wear/guides/foundations/design-principles)
-
+* [Samples](https://developer.android.com/design/ui/wear/samples)
 
 ## Learn Android 
 
