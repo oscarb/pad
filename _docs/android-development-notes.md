@@ -15,6 +15,12 @@ published: true
 * [Design principles](https://developer.android.com/design/ui/wear/guides/foundations/design-principles)
 * [Samples](https://developer.android.com/design/ui/wear/samples)
 
+### Samples
+
+* [Compose for Wear OS Advanced Sample](https://github.com/android/wear-os-samples/tree/main/ComposeAdvanced)
+
+
+
 ## Learn Android 
 
 * [Android Basics in Kotlin course  -  Android Developers](https://developer.android.com/courses/android-basics-kotlin/course)
