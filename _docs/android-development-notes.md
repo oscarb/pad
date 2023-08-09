@@ -10,6 +10,11 @@ published: true
 {:toc}
 
 
+## WearOS
+
+* [Design principles](https://developer.android.com/design/ui/wear/guides/foundations/design-principles)
+
+
 ## Learn Android 
 
 * [Android Basics in Kotlin course  -  Android Developers](https://developer.android.com/courses/android-basics-kotlin/course)
