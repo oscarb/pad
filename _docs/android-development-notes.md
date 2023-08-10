@@ -15,8 +15,19 @@ published: true
 * [Design principles](https://developer.android.com/design/ui/wear/guides/foundations/design-principles)
 * [Samples](https://developer.android.com/design/ui/wear/samples)
 
+* [Get started with Wear OS](https://developer.android.com/training/wearables)
+* [Wear OS Pathway](https://developer.android.com/courses/pathways/wear)
+* [Create and run an app on Wear OS](https://developer.android.com/training/wearables/get-started/creating)
+
+
+* [Use Jetpack Compose on Wear OS ](https://developer.android.com/training/wearables/compose)
+* [Compose for Wear OS Codelab](https://developer.android.com/codelabs/compose-for-wear-os#0)
+
+* [Wear OS app quality  |  App quality  |  Android Developers](https://developer.android.com/docs/quality-guidelines/wear-app-quality)
+
 ### Samples
 
+[android/wear-os-samples: Multiple samples showing best practices in app and watch face development on Wear OS.](https://github.com/android/wear-os-samples/tree/main)
 * [Compose for Wear OS Advanced Sample](https://github.com/android/wear-os-samples/tree/main/ComposeAdvanced)
 
 
