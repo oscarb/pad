@@ -114,6 +114,7 @@ https://m3.material.io/
 
 * [Architecture Learning Journey](https://github.com/android/nowinandroid/blob/main/docs/ArchitectureLearningJourney.md)
 * [Design Journey](https://medium.com/androiddevelopers/now-in-android-a-material-3-case-study-21e44bdfd2bc)
+* [Modularization Learning Journey](https://github.com/android/nowinandroid/blob/main/docs/ModularizationLearningJourney.md)
 
 ## Accessibility 
 
