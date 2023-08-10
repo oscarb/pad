@@ -51,7 +51,7 @@ https://m3.material.io/
 * [Visualizing dynamic color in your app](https://codelabs.developers.google.com/visualize-dynamic-color#0)
 * [Material Theme Builder](https://material-foundation.github.io/material-theme-builder/#/dynamic)
 * [Adding dynamic color to your app](https://codelabs.developers.google.com/codelabs/apply-dynamic-color#0)
-* [Now in Android: a Material 3 case study | by Manda Edling | Android Developers | Medium](https://medium.com/androiddevelopers/now-in-android-a-material-3-case-study-21e44bdfd2bc)
+
 
 
 ## 2022
@@ -110,6 +110,10 @@ https://m3.material.io/
 * [Android Compose Tutorial -  Android Developers](https://developer.android.com/jetpack/compose/tutorial)
 * [Layouts in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-layouts#0)
 
+## Journeys
+
+* [Architecture Learning Journey](https://github.com/android/nowinandroid/blob/main/docs/ArchitectureLearningJourney.md)
+* [Design Journey](https://medium.com/androiddevelopers/now-in-android-a-material-3-case-study-21e44bdfd2bc)
 
 ## Accessibility 
 
