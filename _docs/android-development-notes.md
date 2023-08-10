@@ -23,7 +23,7 @@ published: true
 * [Use Jetpack Compose on Wear OS ](https://developer.android.com/training/wearables/compose)
 * [Compose for Wear OS Codelab](https://developer.android.com/codelabs/compose-for-wear-os#0)
 
-* [Wear OS app quality  |  App quality  |  Android Developers](https://developer.android.com/docs/quality-guidelines/wear-app-quality)
+* [Wear OS app quality](https://developer.android.com/docs/quality-guidelines/wear-app-quality)
 
 ### Samples
 
