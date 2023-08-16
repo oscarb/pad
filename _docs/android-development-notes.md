@@ -114,8 +114,8 @@ https://m3.material.io/
 
 ### Documentation
 
-* [androidx.compose.material3  |  Android Developers](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary)
-* [Compose layout basics  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/layouts/basics)
+* [androidx.compose.material3](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary)
+* [Compose layout basics](https://developer.android.com/jetpack/compose/layouts/basics)
 * [Compose modifiers  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/modifiers)
 
 
