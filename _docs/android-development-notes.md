@@ -15,6 +15,7 @@ published: true
 * [Design principles](https://developer.android.com/design/ui/wear/guides/foundations/design-principles)
 * [Samples](https://developer.android.com/design/ui/wear/samples)
 
+* [Wear OS  Pathway](https://developer.android.com/courses/pathways/wear)
 * [Get started with Wear OS](https://developer.android.com/training/wearables)
 * [Wear OS Pathway](https://developer.android.com/courses/pathways/wear)
 * [Create and run an app on Wear OS](https://developer.android.com/training/wearables/get-started/creating)
@@ -25,10 +26,15 @@ published: true
 
 * [Wear OS app quality](https://developer.android.com/docs/quality-guidelines/wear-app-quality)
 
+
+### Tutorials
+
 ### Samples
 
 [android/wear-os-samples: Multiple samples showing best practices in app and watch face development on Wear OS.](https://github.com/android/wear-os-samples/tree/main)
 * [Compose for Wear OS Advanced Sample](https://github.com/android/wear-os-samples/tree/main/ComposeAdvanced)
+
+
 
 
 
@@ -75,6 +81,10 @@ https://m3.material.io/
 * [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
 * [Android Developers Blog: Announcing the new guide to Android app modularization](https://android-developers.googleblog.com/2022/09/announcing-new-guide-to-android-app-modularization.html)
 
+
+* [Coroutine in Android: Basic. Before coroutine, we had to write so… | by Abir Hasan Zoha | AndroidPub | Medium](https://medium.com/@zoha131/coroutine-basic-daf23bbd3c15)
+
+
 ### Android features
 
 * [App shortcuts overview  -  Android Developers](https://developer.android.com/guide/topics/ui/shortcuts)
@@ -101,6 +111,14 @@ https://m3.material.io/
 * [Layouts in Compose  -  Jetpack Compose  -  Android Developers](https://developer.android.com/jetpack/compose/layouts)
 * [Thinking in Compose  -  Jetpack Compose  -  Android Developers](https://developer.android.com/jetpack/compose/mental-model)
 * [Why We Adopted Jetpack Compose. Illustrated with Feature Examples - by Chen Zhang - Aug, 2022 - ProAndroidDev](https://proandroiddev.com/why-we-adopted-jetpack-compose-b66bfd3dbde5)
+
+### Documentation
+
+* [androidx.compose.material3  |  Android Developers](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary)
+* [Compose layout basics  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/layouts/basics)
+* [Compose modifiers  |  Jetpack Compose  |  Android Developers](https://developer.android.com/jetpack/compose/modifiers)
+
+
 
 ### Tutorials
 
