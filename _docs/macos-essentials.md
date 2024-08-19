@@ -133,6 +133,7 @@ See [Installing Python 3 on Mac OS X](https://docs.python-guide.org/starting/ins
 
 * Sidebar icon size: small
 * Default web browser: Chrome
+* Touchpad gestures: Enable App Exposé by sliding three fingers down
 
 ### Dock
 
